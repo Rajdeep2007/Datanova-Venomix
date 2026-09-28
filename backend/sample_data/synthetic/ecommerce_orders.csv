@@ -1,0 +1,221 @@
+order_id,customer_email,product_category,product_name,price,discount_pct,order_date,shipping_zip,order_notes
+ORD-00001,dave@yahoo.com,Home & Garden,Electric Kettle,$163.38,,08/08/2018,66072,Include receipt in package
+ORD-00002,sam_acg@gmail.com,,Mini Fan,$76.25,,06/21/2018,27290,Handle with care
+ORD-00003,rosa26@mail.org,Books,Cotton T-Shirt,195.83,,11/14/2018,49566,Include receipt in package
+ORD-00004,alice@company.io,Books,Pen Set,,59.1,01/16/2018,45916-6905,Gift wrap requested
+ORD-00005,kate_ccw@mail.org,Books,LED Bulb Pack,$67.97,3.1,07/25/2018,42819-3711,No special instructions
+ORD-00006,bob@mail.org,Clothing,Desk Lamp,$67.97,3.7%,02/27/2018,16787,Leave at front door
+ORD-00007,tina@mail.org,Clothing,Pillow Cover,$598.88,82.3%,02/14/2019,50043,Call before delivery
+ORD-00008,carol30@outlook.com,Electronics,Electric Kettle,226.09,36.0%,04/18/2018,40689,Gift wrap requested
+ORD-00009,leo_fgy@yahoo.com,,Cotton T-Shirt,$51.25,12.7%,05/05/2018,21953,Handle with care
+ORD-00010,tina82@mail.org,Electronics,Mini Fan,172.62,52.2%,06/20/2018,10142,Call before delivery
+ORD-00011,rosa@gmail.com,Sports,Notebook Set,$51.62,77.0%,12/02/2018,20215-4705,Call before delivery
+ORD-00012,kate_gfy@business.net,Home & Garden,Water Bottle,51.48,21.6%,12/20/2018,78084,Leave at front door
+ORD-00013,grace@mail.org,Clothing,Python Cookbook,$120.34,62.3%,07/28/2018,11217-6629,Gift wrap requested
+ORD-00014,eve32@proton.me,Sports,Mini Fan,$9.06,8.5%,11/06/2018,25806,Call before delivery
+ORD-00015,leo@yahoo.com,Books,Yoga Mat,$11.36,5.2,10/22/2018,65353,No special instructions
+ORD-00016,eve81@proton.me,Clothing,Plant Pot,$45.84,53.1%,11/21/2018,72613-7276,Please deliver before 5pm
+ORD-00017,tina@yahoo.com,Home & Garden,Ceramic Vase,$26.70,54.1%,03/28/2018,21708,"Second floor apartment, buzz 2B"
+ORD-00018,rosa97@outlook.com,Books,Phone Case,$131.25,63.7%,10/17/2018,23425-7022,Handle with care
+ORD-00019,olivia_ywg@outlook.com,Sports,Wall Clock,$30.28,72.6%,07/30/2018,49223-3181,Handle with care
+ORD-00020,quinn_whq@company.io,Books,Garden Hose,$16.53,,12/18/2018,94092,Gift wrap requested
+ORD-00021,eve_tou@gmail.com,,Desk Lamp,$522.58,51.6%,04/01/2018,28724-1138,Call before delivery
+ORD-00022,tina42@company.io,Home & Garden,Sunglasses,$68.65,32.3,11/18/2018,89995,"Second floor apartment, buzz 2B"
+ORD-00023,bob31@yahoo.com,Toys,Cotton T-Shirt,$97.62,79.5%,02/19/2018,67684,Gift wrap requested
+ORD-00024,rosa@mail.org,Clothing,Bath Towel,$16.29,27.1,05/23/2018,37925,Please deliver before 5pm
+ORD-00025,quinn_lfo@company.io,Home & Garden,Smart Watch,46.84,43.9%,11/27/2018,29840,Please deliver before 5pm
+ORD-00026,jack_zql@fastmail.fm,Books,Pillow Cover,$102.83,7.8%,02/10/2018,90750,
+ORD-00027,dave@company.io,Clothing,Phone Case,,2.5%,04/25/2018,38474-2646,No special instructions
+ORD-00028,alice@business.net,Books,Pillow Cover,$141.29,,12/10/2018,28351,
+ORD-00029,carol@fastmail.fm,Electronics,Backpack,$43.78,83.6%,01/28/2019,87276,Leave at front door
+ORD-00030,hank61@business.net,Electronics,Pillow Cover,$63.43,69.6%,05/15/2018,56076,
+ORD-00031,noah_msr@yahoo.com,Clothing,Shoe Rack,,40.9%,02/12/2019,51222,No special instructions
+ORD-00032,bob@company.io,Toys,Mini Fan,,17.3%,06/13/2018,42477,
+ORD-00033,rosa@fastmail.fm,,Python Cookbook,,,02/03/2019,21042,Call before delivery
+ORD-00034,rosa@company.io,,Travel Mug,,25.0%,01/07/2019,88774,Fragile item inside
+ORD-00035,frank@outlook.com,electronics,Plant Pot,,54.9,01/05/2019,89638,
+ORD-00036,mia1@mail.org,,Backpack,$20.80,71.5%,01/02/2019,13515,Gift wrap requested
+ORD-00037,noah_yzo@fastmail.fm,Sports,Smart Watch,$115.66,66.0,10/23/2018,96298,No special instructions
+ORD-00038,eve_hzp@gmail.com,Electronics,Mini Fan,$8.57,28.0%,09/29/2018,36928,Include receipt in package
+ORD-00039,kate_bmx@outlook.com,Books,Plant Pot,$18.29,95.5%,03/12/2018,76784,Handle with care
+ORD-00040,bob_cep@company.io,Electronics,Ceramic Vase,,73.8%,02/21/2018,61347,Leave at front door
+ORD-00041,mia@yahoo.com,Sports,Smart Watch,$218.36,55.4,08/13/2018,17152,No special instructions
+ORD-00042,noah@business.net,,Bluetooth Speaker,110.57,61.2%,05/04/2018,41370,Gift wrap requested
+ORD-00043,hank34@yahoo.com,Electronics,Charging Dock,78.35,42.0%,05/12/2018,24777,Please deliver before 5pm
+ORD-00044,alice_qoc@company.io,Clothing,LED Bulb Pack,,24.8%,01/24/2018,93634,"Second floor apartment, buzz 2B"
+ORD-00045,quinn@business.net,,Mouse Pad,$15.27,35.6%,02/14/2018,79243,Please deliver before 5pm
+ORD-00046,jack_loh@gmail.com,Electronics,Notebook Set,37.95,75.8,06/08/2018,11581,Call before delivery
+ORD-00047,rosa39@yahoo.com,Home & Garden,Mini Fan,$51.79,1.4%,07/23/2018,51480-7895,"Second floor apartment, buzz 2B"
+ORD-00048,dave_ohp@business.net,Sports,Sunglasses,$320.07,11.6%,08/29/2018,57895,Gift wrap requested
+ORD-00049,grace@yahoo.com,Sports,Wall Clock,$135.96,4.6%,09/03/2018,32645,Gift wrap requested
+ORD-00050,noah36@outlook.com,Books,USB Cable,$10.85,4.1%,06/02/2018,19567-2106,Call before delivery
+ORD-00051,olivia_soc@outlook.com,Electronics,Electric Kettle,132.81,85.5%,03/21/2018,11807,Leave at front door
+ORD-00052,rosa@gmail.com,Home & Garden,Water Bottle,,70.4%,04/14/2018,15220,
+ORD-00053,jack47@company.io,,Electric Kettle,,47.4%,05/29/2018,62163,Leave at front door
+ORD-00054,hank86@outlook.com,Electronics,Canvas Bag,187.54,9.8%,01/02/2018,92388,Gift wrap requested
+ORD-00055,hank@outlook.com,Toys,Backpack,,49.2%,02/22/2019,64451,Fragile item inside
+ORD-00056,kate53@outlook.com,,Key Holder,$275.21,47.3%,05/03/2018,62727-9791,Gift wrap requested
+ORD-00057,dave49@business.net,Toys,Smart Watch,$32.88,17.3,12/29/2018,80471,Call before delivery
+ORD-00058,jack30@yahoo.com,clothing,Mini Fan,$62.11,43.4%,07/12/2018,46368-2294,Include receipt in package
+ORD-00059,iris_qkz@business.net,Sports,Mouse Pad,133.96,39.9,03/12/2019,77017,Include receipt in package
+ORD-00060,alice15@gmail.com,Toys,USB Cable,$290.22,61.6,12/30/2018,30365,No special instructions
+ORD-00061,dave_lsi@yahoo.com,Toys,Canvas Bag,$50.65,63.5%,03/15/2018,61213,Please deliver before 5pm
+ORD-00062,mia_ebl@company.io,Toys,Desk Lamp,$72.04,4.5%,02/26/2018,95175,
+ORD-00063,leo56@yahoo.com,Clothing,Ceramic Vase,23.86,37.5,03/29/2018,18665,Leave at front door
+ORD-00064,jack65@outlook.com,Electronics,Door Mat,$21.42,,06/16/2018,67342,Include receipt in package
+ORD-00065,grace@mail.org,books,Mouse Pad,$238.66,50.3%,07/07/2018,41278-2412,
+ORD-00066,mia_vhf@business.net,clothing,Phone Case,,,01/27/2018,66948-1901,Leave at front door
+ORD-00067,olivia_lfm@outlook.com,Clothing,Canvas Bag,$82.57,65.9%,07/27/2018,50539,Please deliver before 5pm
+ORD-00068,carol@mail.org,Home & Garden,Garden Hose,$300.14,16.3,01/29/2018,96252,Gift wrap requested
+ORD-00069,hank_dbz@yahoo.com,Sports,Canvas Bag,138.93,7.1%,12/13/2018,25655-3248,Call before delivery
+ORD-00070,olivia54@fastmail.fm,Sports,Board Game,$41.51,64.2%,04/26/2018,11487,Handle with care
+ORD-00071,mia@proton.me,Electronics,Mouse Pad,,2.7%,04/07/2018,55443,Handle with care
+ORD-00072,hank_usm@company.io,Clothing,Bath Towel,,58.6%,08/18/2018,43980,
+ORD-00073,dave_dmn@business.net,,Notebook Set,86.23,94.0%,09/20/2018,26637,Fragile item inside
+ORD-00074,olivia_vxl@fastmail.fm,Home & Garden,Mini Fan,,57.5%,11/19/2018,45227,Fragile item inside
+ORD-00075,frank_wlt@mail.org,Home & Garden,Backpack,$3.88,38.8,07/05/2018,25473,"Second floor apartment, buzz 2B"
+ORD-00076,quinn63@company.io,Books,Sunglasses,$241.36,64.3%,10/28/2018,13847,"Second floor apartment, buzz 2B"
+ORD-00077,iris@proton.me,Books,USB Cable,$99.93,45.8,06/25/2018,66272,"Second floor apartment, buzz 2B"
+ORD-00078,eve91@proton.me,Clothing,USB Cable,$62.88,54.6,10/29/2018,18371,Handle with care
+ORD-00079,bob_vku@gmail.com,Books,Travel Mug,$100.50,94.1%,04/06/2018,85582,Gift wrap requested
+ORD-00080,sam49@proton.me,Sports,Laptop Stand,8.29,38.6%,11/22/2018,75031,Please deliver before 5pm
+ORD-00081,rosa96@company.io,Electronics,Wall Clock,$69.16,96.1%,04/12/2018,57202-3734,
+ORD-00082,iris56@outlook.com,Electronics,Wall Clock,$138.18,90.5%,02/26/2019,58193,Include receipt in package
+ORD-00083,olivia_znx@gmail.com,Clothing,Python Cookbook,$530.32,19.6%,05/27/2018,23487,Fragile item inside
+ORD-00084,carol83@proton.me,Home & Garden,Plant Pot,48.33,6.9%,01/17/2019,98358,No special instructions
+ORD-00085,kate28@proton.me,Home & Garden,Water Bottle,$34.12,10.1%,10/06/2018,39937,Leave at front door
+ORD-00086,iris11@company.io,,Water Bottle,$49.30,1.8%,05/21/2018,10336-1201,Please deliver before 5pm
+ORD-00087,carol@outlook.com,Toys,Python Cookbook,$270.02,9.4%,01/30/2019,42053-6963,Call before delivery
+ORD-00088,hank17@mail.org,,Laptop Stand,$133.55,68.3%,06/24/2018,60197,Please deliver before 5pm
+ORD-00089,leo@mail.org,books,Pillow Cover,$47.67,7.1%,11/01/2018,33456,
+ORD-00090,dave75@proton.me,Home & Garden,LED Bulb Pack,166.65,31.9%,02/01/2018,14635,Gift wrap requested
+ORD-00091,grace_pvg@mail.org,Books,Mini Fan,,84.5%,04/20/2018,95944,"Second floor apartment, buzz 2B"
+ORD-00092,tina_uob@proton.me,Electronics,Laptop Stand,$287.83,2.3%,01/08/2019,52179,Include receipt in package
+ORD-00093,leo9@yahoo.com,,Travel Mug,$38.77,81.4%,04/24/2018,51934,No special instructions
+ORD-00094,noah47@outlook.com,Sports,Wireless Headphones,$60.75,28.2%,05/08/2018,20208,Handle with care
+ORD-00095,quinn84@fastmail.fm,Toys,Yoga Mat,$56.23,,01/18/2018,25650,Gift wrap requested
+ORD-00096,noah@mail.org,Electronics,Pillow Cover,$15.55,69.7%,01/13/2019,16903,Please deliver before 5pm
+ORD-00097,olivia32@gmail.com,Sports,Mini Fan,$128.42,62.9%,08/09/2018,77603,Handle with care
+ORD-00098,peter42@mail.org,books,Mini Fan,,87.7%,03/30/2018,62550-8620,Leave at front door
+ORD-00099,tina@yahoo.com,Electronics,Sunglasses,90.57,73.5%,11/13/2018,47002,"Second floor apartment, buzz 2B"
+ORD-00100,hank93@fastmail.fm,Toys,Canvas Bag,,80.3%,07/10/2018,50723,Gift wrap requested
+ORD-00101,olivia3@business.net,Books,Smart Watch,$16.47,28.2%,06/23/2018,82494,No special instructions
+ORD-00102,peter71@business.net,Electronics,Canvas Bag,$54.34,17.7%,05/24/2018,58354,Gift wrap requested
+ORD-00103,olivia35@yahoo.com,Toys,Python Cookbook,$59.66,75.1%,03/01/2019,83899,"Second floor apartment, buzz 2B"
+ORD-00104,rosa98@mail.org,Home & Garden,Board Game,$34.37,80.7%,05/28/2018,91620,
+ORD-00105,dave_hjh@outlook.com,Electronics,Water Bottle,$74.18,99.1,06/05/2018,58270,No special instructions
+ORD-00106,iris@fastmail.fm,Sports,Garden Hose,,41.3,01/24/2019,74665,No special instructions
+ORD-00107,dave@gmail.com,Home & Garden,Bluetooth Speaker,$865.60,37.2%,12/15/2018,35614,"Second floor apartment, buzz 2B"
+ORD-00108,iris_cbm@gmail.com,Clothing,Pillow Cover,,,12/06/2018,81638,Gift wrap requested
+ORD-00109,eve@yahoo.com,Electronics,Bluetooth Speaker,$122.62,34.1%,05/09/2018,42129,Fragile item inside
+ORD-00110,rosa_kpq@proton.me,,Garden Hose,$82.32,93.1%,09/22/2018,63744-9872,
+ORD-00111,olivia_hpl@gmail.com,Sports,Door Mat,,85.8,06/12/2018,55406,Leave at front door
+ORD-00112,tina95@yahoo.com,Home & Garden,Key Holder,87.2,42.9%,02/09/2019,11257,Call before delivery
+ORD-00113,frank31@fastmail.fm,Clothing,Bluetooth Speaker,$96.76,75.1%,01/11/2018,10191,
+ORD-00114,jack5@yahoo.com,Home & Garden,Canvas Bag,,75.5%,01/11/2019,59319,Call before delivery
+ORD-00115,hank@proton.me,Books,Garden Hose,$71.46,10.3,11/05/2018,50306-9680,Leave at front door
+ORD-00116,dave@yahoo.com,Clothing,Wireless Headphones,$129.26,90.3%,09/11/2018,41217,No special instructions
+ORD-00117,bob22@fastmail.fm,Books,Electric Kettle,$86.34,,03/01/2018,17850,Please deliver before 5pm
+ORD-00118,dave_rsy@fastmail.fm,Toys,Laptop Stand,$22.14,82.6%,10/27/2018,28661,"Second floor apartment, buzz 2B"
+ORD-00119,olivia_pxt@mail.org,Electronics,LED Bulb Pack,$354.74,32.0%,06/07/2018,22193-4792,No special instructions
+ORD-00120,alice_frw@gmail.com,Home & Garden,Canvas Bag,221.92,89.6%,07/08/2018,78125,No special instructions
+ORD-00121,iris_btm@fastmail.fm,Toys,Charging Dock,$232.58,38.9,06/10/2018,58823,"Second floor apartment, buzz 2B"
+ORD-00122,iris@fastmail.fm,Sports,Plant Pot,$30.23,1.1,03/15/2019,21128,Handle with care
+ORD-00123,leo53@proton.me,Home & Garden,Key Holder,$484.61,90.5%,02/08/2019,76247-7461,"Second floor apartment, buzz 2B"
+ORD-00124,peter@fastmail.fm,Toys,Travel Mug,$16.74,9.1%,03/17/2018,19808,Include receipt in package
+ORD-00125,carol_gdu@gmail.com,Toys,Shoe Rack,$182.04,31.9%,09/15/2018,18163,Please deliver before 5pm
+ORD-00126,rosa60@fastmail.fm,Home & Garden,Charging Dock,$1247.06,95.0,03/10/2019,27132,Leave at front door
+ORD-00127,bob_gdh@fastmail.fm,Electronics,USB Cable,$27.42,95.1,08/01/2018,44208,Gift wrap requested
+ORD-00128,dave@mail.org,Clothing,Sunglasses,$45.62,57.3%,04/30/2018,61505,Gift wrap requested
+ORD-00129,rosa@fastmail.fm,books,Desk Lamp,$101.45,63.2,04/27/2018,52762,Call before delivery
+ORD-00130,dave_vms@mail.org,,LED Bulb Pack,49.2,44.8%,01/03/2019,45645,Fragile item inside
+ORD-00131,noah62@company.io,Books,Yoga Mat,,29.3,02/11/2019,36569-2785,
+ORD-00132,tina66@business.net,,Charging Dock,$97.74,32.9%,11/25/2018,30369-8365,Include receipt in package
+ORD-00133,quinn_vhh@fastmail.fm,Electronics,Notebook Set,$25.16,67.3,02/18/2018,71086,Handle with care
+ORD-00134,eve_oio@proton.me,Books,Bluetooth Speaker,158.91,75.2%,02/06/2019,25825,Fragile item inside
+ORD-00135,olivia42@company.io,Toys,Wireless Headphones,$29.87,79.2,06/27/2018,37215,Please deliver before 5pm
+ORD-00136,noah6@proton.me,Books,LED Bulb Pack,578.2,79.0,06/06/2018,70731,
+ORD-00137,eve64@yahoo.com,,Canvas Bag,$35.17,9.1%,01/09/2018,25717-5984,Fragile item inside
+ORD-00138,olivia13@outlook.com,Home & Garden,Sunglasses,,,09/05/2018,89076-6370,
+ORD-00139,carol61@yahoo.com,Books,Bluetooth Speaker,$238.94,5.8%,10/18/2018,29441-5066,Fragile item inside
+ORD-00140,kate_wji@fastmail.fm,Sports,Door Mat,$20.55,55.0%,08/07/2018,56627,No special instructions
+ORD-00141,rosa5@company.io,Sports,Spice Rack,$118.27,44.2,02/16/2019,16416,Include receipt in package
+ORD-00142,carol@fastmail.fm,,Shoe Rack,,,02/24/2019,44100,Handle with care
+ORD-00143,frank@mail.org,Clothing,Smart Watch,$13.08,35.1,03/25/2018,32789-7625,No special instructions
+ORD-00144,leo_lgk@outlook.com,Electronics,Board Game,$112.34,11.7,08/20/2018,69270,"Second floor apartment, buzz 2B"
+ORD-00145,frank@fastmail.fm,Sports,Door Mat,$122.96,14.3%,11/17/2018,82105,Gift wrap requested
+ORD-00146,sam_gql@gmail.com,Clothing,Laptop Stand,230.02,76.2,05/10/2018,70560-3290,
+ORD-00147,olivia37@mail.org,Toys,Bluetooth Speaker,,61.8%,01/22/2019,25919-4641,Please deliver before 5pm
+ORD-00148,noah89@fastmail.fm,Sports,Travel Mug,18.46,10.1%,12/26/2018,27133,Fragile item inside
+ORD-00149,dave_jjh@mail.org,Electronics,Mini Fan,$168.40,8.4,03/06/2019,62505,Include receipt in package
+ORD-00150,alice_kaw@gmail.com,Toys,Smart Watch,,70.1%,10/01/2018,92614,Fragile item inside
+ORD-00151,tina@business.net,Home & Garden,Wall Clock,$121.58,7.3%,11/23/2018,21015,Include receipt in package
+ORD-00152,hank_egt@outlook.com,Home & Garden,Wireless Headphones,,82.2%,03/18/2018,43924,Include receipt in package
+ORD-00153,dave_qil@business.net,,Notebook Set,39.8,70.6%,04/10/2018,19828-2056,Leave at front door
+ORD-00154,eve@outlook.com,Clothing,Ceramic Vase,,8.1%,05/19/2018,35919,Gift wrap requested
+ORD-00155,rosa47@fastmail.fm,Sports,Wall Clock,127.96,8.5%,09/01/2018,68121,No special instructions
+ORD-00156,jack@outlook.com,Toys,Bath Towel,,98.7%,02/06/2018,22055,Leave at front door
+ORD-00157,hank_szz@business.net,Sports,USB Cable,$844.66,37.4%,02/07/2018,53456-8552,Leave at front door
+ORD-00158,carol_anl@mail.org,sports,LED Bulb Pack,$158.95,,08/03/2018,16637,Handle with care
+ORD-00159,sam@fastmail.fm,Electronics,Electric Kettle,$21.55,81.3%,05/22/2018,85220,Handle with care
+ORD-00160,alice@yahoo.com,Toys,Wireless Headphones,$197.92,,03/31/2018,61773,Leave at front door
+ORD-00161,olivia@mail.org,Home & Garden,Notebook Set,$27.95,98.6%,10/26/2018,60165,Please deliver before 5pm
+ORD-00162,peter15@business.net,Sports,Pen Set,$231.48,75.3%,01/15/2019,32650,
+ORD-00163,rosa_psx@yahoo.com,toys,Wall Clock,$361.52,37.6,05/20/2018,34530,Gift wrap requested
+ORD-00164,peter79@company.io,Toys,Python Cookbook,$33.62,8.4,06/28/2018,68459,
+ORD-00165,olivia_ywc@business.net,Toys,Desk Lamp,$286.02,77.7%,01/20/2018,14541,Handle with care
+ORD-00166,rosa@fastmail.fm,Books,Charging Dock,$147.72,55.8%,01/19/2018,90868,Leave at front door
+ORD-00167,carol@business.net,Toys,Electric Kettle,$241.40,42.4,08/25/2018,48680,Include receipt in package
+ORD-00168,hank_ufv@company.io,Books,Yoga Mat,$876.69,90.6,12/27/2018,82179,"Second floor apartment, buzz 2B"
+ORD-00169,sam_vgu@gmail.com,,Door Mat,$67.06,11.1,09/23/2018,21497,Call before delivery
+ORD-00170,iris@gmail.com,Books,Shoe Rack,,49.3,07/22/2018,27987,Gift wrap requested
+ORD-00171,eve@outlook.com,,Electric Kettle,,1.1,10/25/2018,94233,Gift wrap requested
+ORD-00172,iris@fastmail.fm,Clothing,Desk Lamp,33.82,46.9%,08/31/2018,78919,
+ORD-00173,olivia_ncn@gmail.com,,Canvas Bag,82.06,5.6,01/19/2019,81258,Fragile item inside
+ORD-00174,quinn39@proton.me,Home & Garden,Pen Set,135.56,11.9%,02/19/2019,60134,
+ORD-00175,noah@business.net,Clothing,Water Bottle,$125.47,11.8,05/16/2018,57069,Fragile item inside
+ORD-00176,tina_bhq@business.net,Sports,Water Bottle,$242.89,64.9,07/01/2018,73527,Call before delivery
+ORD-00177,mia@yahoo.com,,Travel Mug,$91.43,74.6,02/04/2019,84141,"Second floor apartment, buzz 2B"
+ORD-00178,rosa93@business.net,,Mini Fan,$515.04,58.3%,07/15/2018,60905,Fragile item inside
+ORD-00179,olivia_kcl@mail.org,Clothing,Phone Case,,96.2%,08/11/2018,13416,No special instructions
+ORD-00180,leo@yahoo.com,Electronics,Charging Dock,"$2,354.78",37.5%,03/11/2019,38707-5602,Please deliver before 5pm
+ORD-00181,noah@business.net,Books,Pen Set,$190.72,28.6%,05/14/2018,17679,Include receipt in package
+ORD-00182,dave_jrt@gmail.com,Books,Pillow Cover,$32.18,86.9%,03/20/2018,71824,Include receipt in package
+ORD-00183,jack@fastmail.fm,Clothing,Mini Fan,$24.90,22.4%,07/20/2018,86544,Fragile item inside
+ORD-00184,hank14@company.io,,Backpack,,96.3%,07/18/2018,30922-4951,
+ORD-00185,noah_zvp@gmail.com,Clothing,Wall Clock,$68.84,1.2,12/22/2018,44934,Gift wrap requested
+ORD-00186,tina_vge@mail.org,Books,Board Game,212.05,,09/02/2018,17328,
+ORD-00187,kate45@yahoo.com,Books,Plant Pot,$158.84,,07/13/2018,38758,Leave at front door
+ORD-00188,eve@proton.me,Home & Garden,Bath Towel,,,02/05/2018,60911,Leave at front door
+ORD-00189,noah_ijs@yahoo.com,Electronics,Plant Pot,32.58,52.8,02/09/2018,32768,Include receipt in package
+ORD-00190,bob20@fastmail.fm,Sports,Pen Set,14.62,,01/31/2018,87662,Include receipt in package
+ORD-00191,noah_pkf@yahoo.com,Clothing,Running Shoes,$52.68,,05/11/2018,57026,Include receipt in package
+ORD-00192,leo_crp@mail.org,,Desk Lamp,251.56,55.4%,05/17/2018,13697,Gift wrap requested
+ORD-00193,bob29@company.io,,Python Cookbook,$116.39,96.9%,02/24/2018,56095,Gift wrap requested
+ORD-00194,eve_gia@proton.me,,Shoe Rack,20.19,52.3,06/01/2018,83873-4084,Include receipt in package
+ORD-00195,frank_jsn@business.net,Home & Garden,Sunglasses,110.81,62.9,11/12/2018,74517,Gift wrap requested
+ORD-00196,carol@business.net,Electronics,Phone Case,,69.6,07/19/2018,33010,"Second floor apartment, buzz 2B"
+ORD-00197,sam@proton.me,Home & Garden,Yoga Mat,$31.17,45.5%,03/03/2018,21830-4584,Fragile item inside
+ORD-00198,alice_eyl@business.net,Books,Smart Watch,$108.25,,07/09/2018,12612,Call before delivery
+ORD-00199,carol_vgp@yahoo.com,Books,Plant Pot,,58.4%,12/21/2018,10089,
+ORD-00200,mia@yahoo.com,,Bath Towel,$22.84,90.1%,04/04/2018,90495,"Second floor apartment, buzz 2B"
+ORD-00201,quinn_fuj@outlook.com,Sports,Desk Lamp,$138.29,4.5%,01/04/2018,27103,
+ORD-00202,hank_dfp@yahoo.com,Books,Backpack,$176.43,28.1%,12/28/2018,33260,No special instructions
+ORD-00203,frank_qmo@fastmail.fm,Sports,Key Holder,$330.19,95.0%,03/11/2018,52413-3420,Include receipt in package
+ORD-00204,sam_qqw@business.net,Sports,Board Game,$318.80,89.0%,07/29/2018,86888,Include receipt in package
+ORD-00205,eve57@gmail.com,Electronics,Shoe Rack,$17.23,45.6%,01/21/2018,28566,No special instructions
+ORD-00206,leo65@mail.org,Electronics,Bath Towel,$29.21,62.0,05/30/2018,78982,Please deliver before 5pm
+ORD-00207,carol_wwp@proton.me,,Python Cookbook,$167.01,27.7%,06/30/2018,19506,Leave at front door
+ORD-00208,olivia75@company.io,Home & Garden,Charging Dock,$166.76,18.8%,02/02/2018,96787,"Second floor apartment, buzz 2B"
+ORD-00209,kate@business.net,Clothing,Travel Mug,$167.01,,10/14/2018,23242,
+ORD-00210,carol65@outlook.com,Books,Shoe Rack,$9166.20,35.3%,07/17/2018,52284-3580,Leave at front door
+ORD-00211,leo_xku@gmail.com,electronics,Pillow Cover,$178.59,,08/22/2018,67261,Include receipt in package
+ORD-00212,kate9@outlook.com,,Charging Dock,$351.66,7.8%,02/28/2018,73858,Include receipt in package
+ORD-00213,kate_pdj@proton.me,Books,Python Cookbook,$282.82,97.4%,11/10/2018,32833,
+ORD-00214,eve_sco@business.net,Clothing,Charging Dock,$196.70,98.6%,09/21/2018,83659,Please deliver before 5pm
+ORD-00215,eve_syz@yahoo.com,Sports,Electric Kettle,$61.66,69.8,03/05/2018,90440,
+ORD-00216,noah@business.net,Sports,Cotton T-Shirt,223.8,53.6%,10/07/2018,39260,Call before delivery
+ORD-00217,peter@gmail.com,Books,Door Mat,$35.61,31.0%,10/02/2018,32983,Handle with care
+ORD-00218,kate@outlook.com,Toys,Notebook Set,,81.4,02/05/2019,48602-1029,Please deliver before 5pm
+ORD-00219,olivia6@mail.org,Sports,Wireless Headphones,$50.28,68.5%,04/11/2018,85082,No special instructions
+ORD-00220,olivia30@company.io,Sports,Backpack,$99.31,,06/18/2018,84381-6213,"Second floor apartment, buzz 2B"

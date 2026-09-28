@@ -1,0 +1,22 @@
+.venv/
+.env
+node_modules/
+__pycache__/
+*.pyc
+.next/
+dist/
+build/
+.DS_Store
+.cache/
+*.log
+*.pid
+.freebuff/
+recipes/
+server.log
+analysis_out.json
+test_api_out.txt
+test_api_log.txt
+
+# Do NOT ignore model artifacts (they are meant to be committed)
+!backend/app/models/*.joblib
+!backend/app/models/*.json

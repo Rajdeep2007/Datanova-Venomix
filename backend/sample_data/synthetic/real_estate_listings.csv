@@ -1,0 +1,151 @@
+listing_id,property_type,price,sqft,listing_zip,listing_date,agent_email,agent_phone,description,commission_pct
+LST-00001,single family,$32.28,1934.05,86541-9392,2019-09-02,noah_tmz@outlook.com,532-158-1170,"Spacious backyard, great for families",59.8%
+LST-00002,Land,$12.58,,,2019-07-10,,564-324-5582,Close to schools and shopping centers,73.9
+LST-00003,,$400.79,1465.84,69133,,kate_qwi@fastmail.fm,380-362-1256,Corner lot with mature trees,2.9
+LST-00004,Townhouse,91.11,1403.98,63602,2019-07-18,carol_axl@company.io,750-773-2743,Modern condo with skyline views,54.1
+LST-00005,Land,$377.28,1380.31,75213,2020-01-06,,939-863-7258,,5.3
+LST-00006,Single Family,$589.01,,60118-8236,2019-10-27,hank@business.net,869-363-4377,Modern condo with skyline views,70.1%
+LST-00007,Townhouse,95.98,1934.27,40643,2020-03-14,peter@fastmail.fm,652-325-6312,,5.6
+LST-00008,Townhouse,$18.61,1681.22,19946,2019-10-19,kate_hqt@proton.me,475-308-7479,Open floor plan with hardwood floors,91.2
+LST-00009,Single Family,$71.13,1141.06,,2019-07-08,jack@company.io,359-556-4796,"Spacious backyard, great for families",70.2%
+LST-00010,Land,$40.23,1698.66,75767,2019-07-20,rosa_xrg@company.io,947-843-8109,Close to schools and shopping centers,
+LST-00011,,$8.36,,94365-5528,2019-12-18,tina@fastmail.fm,577-251-8848,"Spacious backyard, great for families",44.2
+LST-00012,Condo,$49.30,1979.19,,2020-02-22,carol@yahoo.com,295-607-3973,Modern condo with skyline views,
+LST-00013,Land,$82.61,1896.53,57216-4281,2019-11-12,frank_ouf@yahoo.com,670-289-3885,Close to schools and shopping centers,29.1%
+LST-00014,Land,$41.60,1246.44,,2019-06-27,noah93@outlook.com,393-683-9036,HOA includes pool and gym access,86.9
+LST-00015,Condo,$35.66,,53154,2019-10-26,tina@mail.org,946-284-5621,Open floor plan with hardwood floors,90.4
+LST-00016,Townhouse,$19.43,2879.77,,2020-01-14,peter11@fastmail.fm,221-417-3669,Open floor plan with hardwood floors,0.1
+LST-00017,Land,$113.88,1014.22,,2020-03-02,,,Modern condo with skyline views,59.4
+LST-00018,Multi-Family,$848.21,621.03,28070,2020-02-03,mia_wtx@outlook.com,903-722-4077,Modern condo with skyline views,71.9%
+LST-00019,Condo,$417.53,1878.31,81188,2019-06-10,rosa94@proton.me,271-246-2180,"Spacious backyard, great for families",
+LST-00020,,$197.23,,,2019-09-16,rosa@outlook.com,636-351-8455,,
+LST-00021,Townhouse,$202.45,1317.12,46942,2019-06-23,grace1@proton.me,860-512-2642,Close to schools and shopping centers,21.8%
+LST-00022,Condo,$76.77,2129.31,,2019-07-30,noah_zjm@yahoo.com,941-639-3249,,25.0
+LST-00023,Multi-Family,$10.33,2863.61,86015,2020-01-16,noah@company.io,944-868-1193,Close to schools and shopping centers,83.2%
+LST-00024,Single Family,$57.78,2032.51,,2019-08-25,,817-202-7191,,46.3%
+LST-00025,Condo,$28.13,1536.5,77193,2019-06-15,leo@company.io,593-121-2802,"Spacious backyard, great for families",48.7
+LST-00026,Multi-Family,$108.38,1769.15,29566,2019-09-12,peter@outlook.com,213-881-1716,Modern condo with skyline views,93.5%
+LST-00027,Land,$395.38,714.85,,2019-12-27,iris_lrg@outlook.com,335-354-2369,HOA includes pool and gym access,63.7%
+LST-00028,Land,,1529.55,37508,2019-09-26,alice15@yahoo.com,474-246-1221,,89.9%
+LST-00029,Multi-Family,$97.28,1530.13,77610,2019-12-01,quinn_wel@mail.org,209-910-2742,Charming 3BR home with updated kitchen,45.7%
+LST-00030,Land,$12.18,1892.0,82432,2020-03-23,quinn69@yahoo.com,,Open floor plan with hardwood floors,14.9%
+LST-00031,Multi-Family,$97.05,2965.31,70476,2019-11-15,dave82@company.io,924-187-4314,Close to schools and shopping centers,93.0
+LST-00032,Multi-Family,$100.27,637.92,21255,2019-06-19,mia@yahoo.com,342-591-8279,Recently renovated bathroom,45.9%
+LST-00033,Multi-Family,$203.29,1555.39,34621,2019-10-17,carol90@outlook.com,367-414-6435,Recently renovated bathroom,18.2%
+LST-00034,,$87.97,699.89,64747,2019-08-23,frank_edm@yahoo.com,690-258-4994,HOA includes pool and gym access,30.2%
+LST-00035,Multi-Family,$97.50,1497.98,68978,2019-09-18,,257-656-5382,"Spacious backyard, great for families",5.1%
+LST-00036,Condo,$42.16,1281.24,13945,2019-11-01,iris_lxc@outlook.com,842-656-3016,,46.8
+LST-00037,Land,$61.91,903.39,85695,2019-08-02,carol@company.io,221-944-1729,Open floor plan with hardwood floors,85.3%
+LST-00038,Single Family,$166.65,,50051,,peter@gmail.com,305-657-5861,Corner lot with mature trees,93.4%
+LST-00039,Multi-Family,8.08,1953.39,11268,2019-08-11,dave28@fastmail.fm,,HOA includes pool and gym access,93.3
+LST-00040,Condo,$61.51,2277.51,96356,2019-12-11,peter97@business.net,345-101-4675,Open floor plan with hardwood floors,12.5%
+LST-00041,Townhouse,$205.51,1481.01,,2019-06-18,hank47@business.net,224-332-7998,Open floor plan with hardwood floors,38.2%
+LST-00042,,$644.76,1757.57,65799,,dave@gmail.com,594-250-6788,Modern condo with skyline views,2.8
+LST-00043,Multi-Family,$55.81,2756.78,62870,2020-02-08,tina@business.net,871-393-4700,Recently renovated bathroom,85.5%
+LST-00044,Townhouse,$373.32,,80464,2020-01-13,olivia_rwn@company.io,900-493-2841,Corner lot with mature trees,35.9
+LST-00045,Single Family,,2284.77,,2019-06-11,alice82@gmail.com,703-273-2804,,63.1%
+LST-00046,Single Family,$56.69,,28236,2019-08-10,kate_lpk@yahoo.com,429-204-5617,Close to schools and shopping centers,71.5
+LST-00047,Townhouse,$46.07,2229.61,53286,2019-12-19,leo_yym@yahoo.com,565-178-6467,Charming 3BR home with updated kitchen,
+LST-00048,multi-family,$72.35,1470.65,89036,2020-01-22,mia_psw@gmail.com,321-469-2389,HOA includes pool and gym access,30.6%
+LST-00049,,$81.59,662.15,85219,2019-07-12,eve_uhr@fastmail.fm,244-719-3475,Charming 3BR home with updated kitchen,96.2%
+LST-00050,Land,$333.28,1795.45,59980,2019-11-26,frank@company.io,382-538-9691,"Move-in ready, freshly painted",96.4%
+LST-00051,Townhouse,$35.57,,,2019-12-12,frank_ysc@gmail.com,542-714-3971,Corner lot with mature trees,28.9%
+LST-00052,Condo,$570.02,825.13,34685,,frank42@fastmail.fm,895-535-3461,Charming 3BR home with updated kitchen,48.0%
+LST-00053,multi-family,$34.44,,53101,2020-03-17,dave@business.net,883-803-5940,"Spacious backyard, great for families",97.3%
+LST-00054,Land,$19.74,1263.88,,2020-02-24,hank74@proton.me,,Modern condo with skyline views,0.5%
+LST-00055,,,3655.58,49930-2709,2019-08-30,,556-996-2702,Close to schools and shopping centers,41.3%
+LST-00056,Land,394.13,921.33,98458,2019-08-09,carol@business.net,477-611-7047,Recently renovated bathroom,10.0
+LST-00057,Multi-Family,$111.54,1072.25,14202,2020-02-27,eve@company.io,471-930-2251,"Spacious backyard, great for families",50.9
+LST-00058,Multi-Family,$151.73,2321.73,,2019-08-27,mia@company.io,202-982-3435,HOA includes pool and gym access,2.5
+LST-00059,,$939.32,1720.19,34470,2020-03-22,dave51@company.io,996-771-3401,Recently renovated bathroom,40.7%
+LST-00060,Condo,$400.85,2309.52,60579,2019-12-03,peter_lpd@gmail.com,527-251-7399,Modern condo with skyline views,22.1%
+LST-00061,Multi-Family,$93.42,,40544,2020-03-19,tina_izd@fastmail.fm,657-838-8838,"Move-in ready, freshly painted",53.3
+LST-00062,Multi-Family,$53.66,1450.62,78733-1941,2020-02-02,grace64@outlook.com,268-215-8003,Recently renovated bathroom,99.6%
+LST-00063,Townhouse,$334.98,972.54,58319,2019-10-16,grace@fastmail.fm,944-385-3370,,
+LST-00064,Land,$243.51,2442.65,32521,2019-09-19,,,Modern condo with skyline views,84.6
+LST-00065,Multi-Family,$148.75,1026.93,63852,2019-07-04,kate55@yahoo.com,386-885-7308,Open floor plan with hardwood floors,63.5%
+LST-00066,Multi-Family,$60.80,2135.34,24515-7855,2019-07-13,quinn_hsf@proton.me,561-426-9097,,4.2
+LST-00067,Single Family,$82.13,2351.4,72685,2020-01-12,dave@mail.org,634-592-7782,,20.7%
+LST-00068,Multi-Family,$75.41,1723.85,60986,2019-11-09,olivia84@outlook.com,816-912-6463,Corner lot with mature trees,92.5%
+LST-00069,Single Family,$62.03,1617.51,37063-4369,2019-09-30,grace28@yahoo.com,341-921-5028,,36.6%
+LST-00070,Single Family,$43.76,,50600,2019-10-04,eve@yahoo.com,592-528-9144,Modern condo with skyline views,10.4%
+LST-00071,Townhouse,$123.75,2077.65,97135,2020-02-15,leo_ebz@business.net,751-646-9070,Modern condo with skyline views,70.2
+LST-00072,Single Family,$41.45,-27.56,89129,2019-12-06,sam@yahoo.com,745-649-4770,"Spacious backyard, great for families",29.9%
+LST-00073,Single Family,$111.37,2229.44,50673,2020-03-01,hank_mry@proton.me,593-185-7911,Modern condo with skyline views,26.9
+LST-00074,Land,$7.24,1871.69,,2020-03-25,carol_wqh@fastmail.fm,739-691-4593,Recently renovated bathroom,99.8%
+LST-00075,Single Family,$43.82,,,2019-10-21,leo_dcm@company.io,919-189-4853,Recently renovated bathroom,85.8
+LST-00076,Land,$336.30,1945.38,10975,2019-12-15,alice_ooh@yahoo.com,570-102-4330,"Move-in ready, freshly painted",40.8%
+LST-00077,,30.55,975.87,68422-7541,2019-07-31,sam24@outlook.com,217-471-8764,Recently renovated bathroom,98.0%
+LST-00078,,$183.19,352.2,89278,2019-09-03,dave@proton.me,336-212-1976,Open floor plan with hardwood floors,65.0
+LST-00079,Land,$33.76,2081.15,78925,2019-09-21,alice51@yahoo.com,557-469-3283,Modern condo with skyline views,74.2
+LST-00080,Single Family,$228.36,2589.93,,2019-07-25,quinn@yahoo.com,501-571-3361,Open floor plan with hardwood floors,3.2%
+LST-00081,Condo,$63.02,756.36,70319,2020-01-11,frank77@yahoo.com,,Open floor plan with hardwood floors,12.2
+LST-00082,Land,$60.10,1168.51,,2020-03-06,bob17@gmail.com,415-947-4679,HOA includes pool and gym access,63.3%
+LST-00083,Land,,2251.39,47737,2019-06-13,carol16@gmail.com,257-864-3257,,89.9
+LST-00084,Multi-Family,$17.96,2015.33,69809,2020-03-08,hank39@fastmail.fm,,"Move-in ready, freshly painted",62.4%
+LST-00085,Multi-Family,$289.02,3577.87,48987,2019-06-25,eve74@company.io,586-850-1431,,13.4
+LST-00086,Single Family,$430.14,2445.39,32954,2019-12-25,dave85@company.io,912-534-7089,Modern condo with skyline views,11.6%
+LST-00087,Condo,58.44,,33537,2020-02-28,eve_oph@proton.me,255-818-2736,Close to schools and shopping centers,
+LST-00088,Land,$168.86,1341.73,66633,2019-09-04,carol71@fastmail.fm,878-695-2208,,13.9
+LST-00089,Townhouse,$229.22,2114.88,96386,2019-11-05,,688-957-3591,Charming 3BR home with updated kitchen,52.0%
+LST-00090,Single Family,80.68,2697.25,84529-1715,2019-11-17,iris_sfj@outlook.com,230-250-6984,Corner lot with mature trees,3.7%
+LST-00091,,$23.81,1701.37,41417,2020-01-31,noah_iuj@company.io,344-180-5014,"Spacious backyard, great for families",
+LST-00092,Townhouse,$609.66,1729.67,,2019-11-18,carol@business.net,278-112-7823,,
+LST-00093,Condo,$56.20,,92324,2019-12-17,carol@mail.org,353-883-3988,"Spacious backyard, great for families",68.9
+LST-00094,Multi-Family,$43.34,1401.3,97380,2019-09-27,,681-861-3295,"Move-in ready, freshly painted",
+LST-00095,Single Family,$643.26,1961.38,38476,2019-12-02,frank68@yahoo.com,966-640-5907,Open floor plan with hardwood floors,21.6%
+LST-00096,Townhouse,$187.18,1946.38,63907,2020-02-18,quinn_swo@yahoo.com,681-521-6526,HOA includes pool and gym access,81.4%
+LST-00097,Single Family,$122.60,2687.99,82459-7041,2019-11-13,bob_ite@proton.me,654-900-1216,Charming 3BR home with updated kitchen,21.7
+LST-00098,Single Family,$28.08,1686.36,20031,2019-08-15,peter@outlook.com,493-213-3554,HOA includes pool and gym access,54.2%
+LST-00099,Multi-Family,$235.89,2204.84,76112,2020-01-09,eve_ogx@business.net,261-757-1526,Recently renovated bathroom,96.8%
+LST-00100,,$2909.75,1704.26,52731,2020-03-20,hank87@fastmail.fm,818-869-3843,Charming 3BR home with updated kitchen,14.8
+LST-00101,Single Family,$258.94,,31605,2019-07-03,quinn@mail.org,715-264-1178,Open floor plan with hardwood floors,94.1
+LST-00102,Condo,163.25,1649.96,76330-1437,2019-11-02,carol@yahoo.com,605-952-7940,Recently renovated bathroom,
+LST-00103,,$213.86,2144.08,19593,2019-10-25,hank_ebt@fastmail.fm,,,56.7
+LST-00104,Land,$60.72,2236.94,98555,2020-01-24,alice55@yahoo.com,767-828-5227,"Move-in ready, freshly painted",37.7%
+LST-00105,Multi-Family,$60.03,1160.01,59958,2019-07-01,mia_qxt@proton.me,785-613-6014,Charming 3BR home with updated kitchen,
+LST-00106,Townhouse,$59.11,2461.43,62342,,rosa_izr@gmail.com,926-332-7941,"Move-in ready, freshly painted",
+LST-00107,,$45.15,1700.11,61992-5105,,tina_zrw@company.io,360-378-2506,Charming 3BR home with updated kitchen,40.0%
+LST-00108,,$58.97,,25031,,frank@proton.me,734-486-3050,Recently renovated bathroom,98.3%
+LST-00109,Multi-Family,$58.64,1374.0,,2019-12-08,peter_ezi@company.io,960-316-7560,Close to schools and shopping centers,53.6%
+LST-00110,Single Family,,1978.92,70849,2019-06-08,rosa99@company.io,833-157-4586,Close to schools and shopping centers,50.3%
+LST-00111,Land,$64.90,1797.23,18943-4969,,alice_qkx@gmail.com,601-288-2264,"Spacious backyard, great for families",25.8%
+LST-00112,Condo,$120.50,2022.48,,2019-07-22,olivia80@business.net,909-579-8821,Modern condo with skyline views,70.1%
+LST-00113,Condo,$98.94,2034.13,,2019-08-31,jack46@business.net,520-768-7637,"Spacious backyard, great for families",1.4
+LST-00114,Multi-Family,$110.04,,12367,2019-11-20,alice@proton.me,589-268-1895,Modern condo with skyline views,5.0%
+LST-00115,Land,$559.34,3465.77,,2019-08-17,dave63@proton.me,580-762-7950,Close to schools and shopping centers,59.9
+LST-00116,Condo,$98.70,1823.82,80078,2019-12-20,leo39@yahoo.com,399-376-2776,Recently renovated bathroom,34.2%
+LST-00117,Condo,$1278.02,,32079-1183,2020-01-15,olivia85@gmail.com,306-179-6942,Modern condo with skyline views,95.3
+LST-00118,Land,137.45,588.11,98785,2019-12-09,leo91@proton.me,817-897-6496,Close to schools and shopping centers,90.3%
+LST-00119,Land,52.63,1082.81,67757,2019-07-27,kate_efm@mail.org,228-345-5623,,
+LST-00120,Single Family,454.64,2541.21,38399,2019-08-28,dave@business.net,366-654-2744,Recently renovated bathroom,81.8%
+LST-00121,Land,$81.82,2231.95,98479,2020-01-10,mia@yahoo.com,266-316-1179,Corner lot with mature trees,
+LST-00122,condo,$5.09,990.01,67941,2019-10-02,dave_dia@company.io,974-416-4075,"Move-in ready, freshly painted",12.6
+LST-00123,Multi-Family,89.59,3278.53,93203,2020-02-10,,,Close to schools and shopping centers,76.6%
+LST-00124,Townhouse,$66.75,1996.06,94018,2020-01-05,peter_hcl@outlook.com,446-375-2393,"Spacious backyard, great for families",21.0%
+LST-00125,Multi-Family,$618.85,2076.19,96512,2019-10-14,quinn_gtw@company.io,783-678-1735,Charming 3BR home with updated kitchen,32.3%
+LST-00126,Condo,$30.66,3146.54,,2019-10-08,noah_muc@outlook.com,777-909-8926,Modern condo with skyline views,81.9%
+LST-00127,Land,,2843.67,68194-1076,2019-10-29,grace76@gmail.com,246-149-6154,Recently renovated bathroom,53.7
+LST-00128,Condo,$412.06,2268.68,,2019-09-10,iris@gmail.com,295-416-1138,Open floor plan with hardwood floors,86.0
+LST-00129,Land,,,36442,2019-08-03,mia@business.net,565-869-5626,Close to schools and shopping centers,21.3
+LST-00130,Single Family,$73.28,2353.67,59105,2020-03-11,noah@mail.org,607-612-4192,"Spacious backyard, great for families",60.8%
+LST-00131,Single Family,$36.31,1655.42,36212-7908,2019-10-23,leo@outlook.com,522-869-7400,"Move-in ready, freshly painted",8.4%
+LST-00132,Land,,1972.08,13662,2019-11-22,bob1@mail.org,943-464-3122,Open floor plan with hardwood floors,64.3%
+LST-00133,Multi-Family,$86.91,2144.59,,2019-10-09,tina13@mail.org,919-790-2595,Recently renovated bathroom,76.3%
+LST-00134,Land,$35.82,1723.93,99123,2020-01-30,dave@business.net,539-517-9250,,58.5%
+LST-00135,Townhouse,$38.13,1220.75,38910,2020-02-13,leo_vtp@business.net,303-614-3460,,26.6
+LST-00136,,$33.87,1640.32,22661,2019-11-14,hank@outlook.com,224-701-7260,Corner lot with mature trees,3.1%
+LST-00137,Multi-Family,$27.36,1207.24,97046,,tina@company.io,,"Spacious backyard, great for families",
+LST-00138,Townhouse,$276.12,1838.62,31895-9396,,,497-265-3482,Recently renovated bathroom,62.2%
+LST-00139,,$234.93,,24114,2020-01-27,grace_sbe@mail.org,,Open floor plan with hardwood floors,93.4
+LST-00140,townhouse,$276.67,2004.62,52294,2019-09-28,rosa45@yahoo.com,840-195-4794,HOA includes pool and gym access,20.7%
+LST-00141,Condo,$90.50,821.24,34844,2019-10-12,,420-926-3307,Recently renovated bathroom,73.5%
+LST-00142,Single Family,$67.28,,81002,2019-09-22,eve_bou@company.io,987-835-3638,Charming 3BR home with updated kitchen,86.6
+LST-00143,Single Family,$68.77,,66083-4502,2020-03-18,mia@fastmail.fm,713-628-9573,Corner lot with mature trees,52.1
+LST-00144,Condo,$306.53,,23878,2019-11-10,quinn@outlook.com,987-449-8331,HOA includes pool and gym access,66.9%
+LST-00145,Multi-Family,$10.13,,,2019-08-01,alice_opa@fastmail.fm,334-447-5765,"Move-in ready, freshly painted",81.5
+LST-00146,Land,$48.55,1991.84,11570,2019-06-09,quinn91@mail.org,568-738-8059,Modern condo with skyline views,26.1%
+LST-00147,Single Family,$31.04,1128.44,70132,2019-12-14,rosa@outlook.com,240-829-7350,HOA includes pool and gym access,
+LST-00148,Multi-Family,$460.29,2388.37,96240,2020-02-17,iris@company.io,444-313-2228,HOA includes pool and gym access,
+LST-00149,,$50.76,1142.16,,2019-10-15,rosa15@business.net,356-680-9151,"Spacious backyard, great for families",96.3%
+LST-00150,Multi-Family,$12.64,2456.75,15759-4580,2019-11-03,carol_wgd@mail.org,299-924-1244,Open floor plan with hardwood floors,91.8

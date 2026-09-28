@@ -1,0 +1,201 @@
+patient_id,diagnosis_category,visit_date,insurance_provider,patient_zip,notes,bill_amount,heart_rate_bpm,contact_email
+PT-00001,Oncology,,Oscar Health,52396,,1088.83,81.24,eve74@gmail.com
+PT-00002,Orthopedics,01/01/2018,GoHealth,33445,,495.49,94.54,noah@fastmail.fm
+PT-00003,Pediatrics,01/21/2019,Sharecare,36467,Patient shows improvement since last visit,73.78,104.75,peter31@company.io
+PT-00004,Dermatology,02/13/2018,,21820,,$24.58,102.21,eve46@mail.org
+PT-00005,pediatrics,11/06/2018,Cigna,95010,,$177.47,92.93,frank91@fastmail.fm
+PT-00006,Oncology,02/19/2018,,31495,,$83.69,81.33,eve91@gmail.com
+PT-00007,Dermatology,01/24/2018,Anthem,,,$579.05,91.19,carol50@mail.org
+PT-00008,Dermatology,12/17/2018,Progyny,,Recommend physical therapy 3x/week,$6.69,94.94,tina_ofr@business.net
+PT-00009,Cardiology,05/29/2018,Alignment Healthcare,78657,Referred to specialist for MRI,1243.48,73.23,bob@proton.me
+PT-00010,Orthopedics,09/06/2018,Hims & Hers,,"Lab results normal, no further action",170.44,68.61,leo_qje@yahoo.com
+PT-00011,Orthopedics,04/05/2018,Blue Cross,30958,Vitals within normal range,,65.79,rosa_udi@yahoo.com
+PT-00012,dermatology,08/31/2018,Aetna,59886-3799,"Lab results normal, no further action",217.19,64.48,peter@company.io
+PT-00013,General,05/11/2018,,53934,Referred to specialist for MRI,427.05,58.42,kate@yahoo.com
+PT-00014,Cardiology,09/11/2018,,96445,Recommend physical therapy 3x/week,$103.26,78.0,leo45@mail.org
+PT-00015,orthopedics,06/01/2018,WellCare,31249,,$10.83,63.0,
+PT-00016,Cardiology,11/24/2018,Oscar Health,33444,Patient shows improvement since last visit,63.27,65.6,olivia@yahoo.com
+PT-00017,Pediatrics,02/11/2018,,16725,,,83.42,frank@gmail.com
+PT-00018,Oncology,01/12/2018,Clover Health,50569,"Lab results normal, no further action",163.37,77.18,jack54@proton.me
+PT-00019,General,,Kaiser,68491,Medication dosage adjusted,74.6,80.16,olivia@business.net
+PT-00020,Orthopedics,07/10/2018,Blue Cross,33684-3155,"Lab results normal, no further action",432.67,91.38,noah_iqi@fastmail.fm
+PT-00021,Pediatrics,01/10/2018,Bright Health,36588-5146,"Lab results normal, no further action",$218.58,85.37,olivia39@company.io
+PT-00022,General,03/01/2018,SelectQuote,,Patient reported chest pain for 3 days,239.75,93.23,peter48@mail.org
+PT-00023,Cardiology,,Bright Health,75358,,,75.96,olivia@outlook.com
+PT-00024,Orthopedics,03/11/2018,Bright Health,10753,Patient reported chest pain for 3 days,48.97,94.34,eve@fastmail.fm
+PT-00025,General,08/12/2018,HealthMarkets,74679,"Lab results normal, no further action",$11.71,79.32,iris48@business.net
+PT-00026,Neurology,02/04/2019,WellCare,87183,Vitals within normal range,65.94,77.02,eve@gmail.com
+PT-00027,,12/15/2018,Molina,69472,,276.57,92.54,mia@gmail.com
+PT-00028,General,12/26/2018,,20407,"Lab results normal, no further action",,64.53,
+PT-00029,Neurology,10/24/2018,Centene,10861,Follow-up appointment in 2 weeks,$153.65,99.28,sam_xlr@fastmail.fm
+PT-00030,Cardiology,11/21/2018,Aetna,81741,"Lab results normal, no further action",,71.61,bob_rda@company.io
+PT-00031,Dermatology,08/08/2018,HealthMarkets,92396,,$140.81,60.38,olivia_cbq@company.io
+PT-00032,,11/13/2018,Centene,37215-3429,Vitals within normal range,$158.32,82.84,iris_anl@yahoo.com
+PT-00033,Neurology,06/05/2018,Clover Health,17217,Allergy to penicillin noted in chart,$17.65,70.47,quinn@business.net
+PT-00034,Oncology,07/30/2018,,14813-1531,,61.13,99.31,
+PT-00035,Pediatrics,10/04/2018,Hims & Hers,97424,Allergy to penicillin noted in chart,$714.76,69.81,leo@fastmail.fm
+PT-00036,Oncology,08/17/2018,Centene,,"Lab results normal, no further action",,78.77,noah57@proton.me
+PT-00037,Dermatology,04/29/2018,Molina,21495-7831,Vitals within normal range,$876.63,57.89,
+PT-00038,Neurology,06/22/2018,Humana,33363,,37.8,84.75,carol76@proton.me
+PT-00039,General,11/20/2018,Oscar Health,47274,,,65.67,frank@outlook.com
+PT-00040,General,03/22/2018,Clover Health,87983,Recommend physical therapy 3x/week,$56.87,83.32,mia_obv@mail.org
+PT-00041,Cardiology,06/12/2018,SelectQuote,83685,Vitals within normal range,183.16,69.86,peter@mail.org
+PT-00042,Neurology,05/26/2018,Humana,69682,,$263.49,50.44,jack82@proton.me
+PT-00043,Dermatology,07/16/2018,Cigna,57210,Patient shows improvement since last visit,185.48,76.57,frank63@fastmail.fm
+PT-00044,neurology,03/31/2018,Clover Health,22206,Referred to specialist for MRI,$314.26,76.04,carol77@fastmail.fm
+PT-00045,Pediatrics,02/03/2018,Progyny,52312,,88.61,85.57,dave@gmail.com
+PT-00046,Pediatrics,04/15/2018,SelectQuote,59668,,71.62,93.67,eve@mail.org
+PT-00047,Cardiology,09/08/2018,Sharecare,66010,,$10.92,97.95,leo54@yahoo.com
+PT-00048,Dermatology,01/09/2018,HealthMarkets,18509,Patient reported chest pain for 3 days,193.67,85.37,quinn@business.net
+PT-00049,Orthopedics,12/04/2018,,27635-5496,Allergy to penicillin noted in chart,110.68,78.34,kate88@yahoo.com
+PT-00050,,02/03/2019,Molina,53150,,82.97,57.87,rosa75@business.net
+PT-00051,Oncology,09/25/2018,Friday Health,78766,,71.59,77.42,
+PT-00052,Orthopedics,06/21/2018,Molina,37400,Recommend physical therapy 3x/week,$86.12,77.58,grace_pvn@yahoo.com
+PT-00053,Neurology,08/14/2018,Noom,24326,Medication dosage adjusted,67.8,72.62,noah@fastmail.fm
+PT-00054,Orthopedics,10/09/2018,Humana,92441,,47.77,82.6,leo_rdl@business.net
+PT-00055,Dermatology,12/30/2018,Friday Health,21491,Recommend physical therapy 3x/week,120.0,88.46,frank@outlook.com
+PT-00056,Dermatology,01/31/2018,WellCare,89269,Allergy to penicillin noted in chart,160.93,65.18,hank_ddc@yahoo.com
+PT-00057,Oncology,05/16/2018,Sharecare,47642,Patient shows improvement since last visit,$35.71,64.99,carol@gmail.com
+PT-00058,,08/06/2018,Oscar Health,51482,Patient reported chest pain for 3 days,55.65,73.33,
+PT-00059,Orthopedics,04/30/2018,Alignment Healthcare,,Patient reported chest pain for 3 days,$70.42,67.62,alice_cdp@company.io
+PT-00060,Cardiology,,Hims & Hers,56380,Allergy to penicillin noted in chart,90.54,55.3,frank86@business.net
+PT-00061,Neurology,11/16/2018,Humana,,Vitals within normal range,$77.18,63.04,leo_wup@yahoo.com
+PT-00062,,01/03/2019,Anthem,78118,Patient shows improvement since last visit,$198.67,60.21,dave75@outlook.com
+PT-00063,General,02/09/2018,HealthMarkets,75239,Follow-up appointment in 2 weeks,12.39,89.5,rosa_zcf@fastmail.fm
+PT-00064,Neurology,01/14/2018,Humana,33580,Allergy to penicillin noted in chart,$15.33,95.43,leo@business.net
+PT-00065,Pediatrics,07/09/2018,Noom,,Vitals within normal range,113.55,61.85,mia55@yahoo.com
+PT-00066,Cardiology,03/30/2018,Hims & Hers,35369-1392,Follow-up appointment in 2 weeks,$43.68,81.55,olivia15@gmail.com
+PT-00067,,,SelectQuote,70933,"Lab results normal, no further action",260.11,85.48,carol_mkl@mail.org
+PT-00068,Cardiology,01/23/2019,Anthem,25456,Recommend physical therapy 3x/week,366.41,57.09,olivia@yahoo.com
+PT-00069,Orthopedics,11/04/2018,,,Medication dosage adjusted,$119.16,76.93,peter_jar@yahoo.com
+PT-00070,General,04/11/2018,WellCare,64346,Vitals within normal range,,105.4,mia57@proton.me
+PT-00071,General,01/27/2019,Progyny,53750,Recommend physical therapy 3x/week,319.1,83.13,sam14@company.io
+PT-00072,Dermatology,,Humana,93558,Follow-up appointment in 2 weeks,114.28,72.06,kate26@fastmail.fm
+PT-00073,Neurology,03/16/2018,Friday Health,93967,Recommend physical therapy 3x/week,15.11,68.28,iris_sph@proton.me
+PT-00074,General,10/18/2018,,46913,Allergy to penicillin noted in chart,$16.81,50.73,leo_ryz@mail.org
+PT-00075,General,08/23/2018,HealthMarkets,18891,,555.76,80.65,eve@outlook.com
+PT-00076,oncology,08/15/2018,Noom,,Referred to specialist for MRI,455.49,98.37,
+PT-00077,Cardiology,07/17/2018,Kaiser,10803-6460,Vitals within normal range,$4.39,65.24,mia@yahoo.com
+PT-00078,Cardiology,01/29/2019,Oscar Health,54742,Follow-up appointment in 2 weeks,17.65,51.77,quinn99@fastmail.fm
+PT-00079,Oncology,01/08/2018,Cigna,84569,Recommend physical therapy 3x/week,353.9,67.03,quinn@gmail.com
+PT-00080,Pediatrics,02/02/2019,Hims & Hers,,Allergy to penicillin noted in chart,$88.04,85.58,noah16@gmail.com
+PT-00081,Neurology,05/24/2018,Hims & Hers,35430,Medication dosage adjusted,208.98,69.86,bob_owh@outlook.com
+PT-00082,Oncology,04/09/2018,UnitedHealth,54294,,$83.57,65.15,peter@fastmail.fm
+PT-00083,Oncology,07/12/2018,Kaiser,72797,Patient reported chest pain for 3 days,197.43,75.23,rosa@gmail.com
+PT-00084,Orthopedics,09/24/2018,Oscar Health,14660,Patient shows improvement since last visit,,77.76,mia34@mail.org
+PT-00085,Oncology,,Humana,73110,Recommend physical therapy 3x/week,$53.24,58.34,kate8@gmail.com
+PT-00086,Cardiology,10/19/2018,Blue Cross,70374,Patient reported chest pain for 3 days,320.7,72.39,kate49@gmail.com
+PT-00087,,02/01/2019,Oscar Health,80381,Vitals within normal range,,69.03,
+PT-00088,Neurology,07/02/2018,Friday Health,70616,Vitals within normal range,196.93,67.31,jack15@proton.me
+PT-00089,Neurology,11/28/2018,Friday Health,64257,Recommend physical therapy 3x/week,108.74,62.8,sam_xgs@gmail.com
+PT-00090,,,,17342,Vitals within normal range,$50.22,86.3,kate49@yahoo.com
+PT-00091,,06/24/2018,Alignment Healthcare,49235,Allergy to penicillin noted in chart,620.22,67.27,grace@mail.org
+PT-00092,Dermatology,01/04/2019,HealthMarkets,98892,Patient shows improvement since last visit,$137.82,51.06,leo@company.io
+PT-00093,Oncology,03/07/2018,Centene,80239-6434,,58.79,78.17,jack@yahoo.com
+PT-00094,Neurology,06/04/2018,,56346-3446,Patient shows improvement since last visit,$417.38,83.7,sam_pho@fastmail.fm
+PT-00095,Dermatology,,Anthem,46760,Medication dosage adjusted,,65.45,
+PT-00096,Dermatology,10/03/2018,UnitedHealth,54453,Medication dosage adjusted,$1317.56,68.28,noah_ofk@fastmail.fm
+PT-00097,Neurology,,Humana,92118,,$72.60,67.21,
+PT-00098,Neurology,07/29/2018,Kaiser,31753,Patient reported chest pain for 3 days,$19.66,70.84,grace_ztm@proton.me
+PT-00099,Dermatology,02/20/2018,Blue Cross,61061,Allergy to penicillin noted in chart,,88.28,sam@company.io
+PT-00100,Oncology,01/17/2019,Sharecare,25315,Medication dosage adjusted,51.63,73.63,eve96@yahoo.com
+PT-00101,Neurology,11/03/2018,Sharecare,50407,Allergy to penicillin noted in chart,$120.53,85.08,grace_ghe@company.io
+PT-00102,,03/27/2018,Centene,51222,Medication dosage adjusted,212.99,63.37,mia31@fastmail.fm
+PT-00103,Neurology,05/22/2018,Sharecare,45585,,372.79,70.4,peter@outlook.com
+PT-00104,neurology,06/11/2018,Noom,75149,Vitals within normal range,$128.99,86.45,iris_auh@outlook.com
+PT-00105,Cardiology,11/08/2018,Sharecare,58704,,41.4,65.33,bob@business.net
+PT-00106,oncology,,Molina,49666,"Lab results normal, no further action",$117.07,87.15,tina39@yahoo.com
+PT-00107,Orthopedics,06/08/2018,Sharecare,49625,,$54.42,67.46,mia_vgo@yahoo.com
+PT-00108,dermatology,11/29/2018,,59049,Patient reported chest pain for 3 days,121.37,71.14,quinn86@fastmail.fm
+PT-00109,Orthopedics,04/27/2018,Molina,36489,Medication dosage adjusted,,95.04,carol_pui@proton.me
+PT-00110,dermatology,10/31/2018,SelectQuote,68166,Allergy to penicillin noted in chart,,69.77,hank55@fastmail.fm
+PT-00111,General,05/10/2018,Blue Cross,73263,Patient reported chest pain for 3 days,115.35,76.74,noah_wbn@yahoo.com
+PT-00112,General,08/01/2018,,,,$218.37,82.4,
+PT-00113,Oncology,06/16/2018,,73369,Vitals within normal range,237.96,77.72,peter_jiq@gmail.com
+PT-00114,Oncology,07/03/2018,GoHealth,78632,Follow-up appointment in 2 weeks,24.69,78.06,
+PT-00115,Orthopedics,12/27/2018,Humana,,"Lab results normal, no further action",94.64,74.32,leo88@gmail.com
+PT-00116,Neurology,09/12/2018,Progyny,77652,Recommend physical therapy 3x/week,"$1,948.92",59.37,mia33@company.io
+PT-00117,,12/20/2018,Sharecare,27395,Follow-up appointment in 2 weeks,,79.18,frank57@gmail.com
+PT-00118,,,GoHealth,14791,,49.2,66.21,iris11@business.net
+PT-00119,Dermatology,,HealthMarkets,78464-6095,Medication dosage adjusted,43.65,84.31,noah13@proton.me
+PT-00120,Cardiology,03/03/2018,Bright Health,,"Lab results normal, no further action",$41.94,91.46,tina@gmail.com
+PT-00121,Oncology,07/20/2018,Kaiser,87894,Allergy to penicillin noted in chart,$254.57,53.33,
+PT-00122,Pediatrics,01/01/2019,Clover Health,53684,Medication dosage adjusted,619.66,91.49,kate_cen@outlook.com
+PT-00123,Dermatology,02/22/2018,GoHealth,16047-6119,Medication dosage adjusted,,70.07,tina_kyl@outlook.com
+PT-00124,Orthopedics,04/13/2018,GoHealth,12946,Medication dosage adjusted,,73.43,iris@yahoo.com
+PT-00125,Pediatrics,08/04/2018,Humana,50913,,$52.83,64.05,noah_ewy@company.io
+PT-00126,General,09/22/2018,Kaiser,,Follow-up appointment in 2 weeks,,77.26,alice@fastmail.fm
+PT-00127,Oncology,12/16/2018,Anthem,35237,Allergy to penicillin noted in chart,$33.64,75.8,grace34@mail.org
+PT-00128,Cardiology,03/08/2018,Molina,79766,"Lab results normal, no further action",8.82,87.92,eve@proton.me
+PT-00129,Oncology,02/18/2018,Aetna,67817,Allergy to penicillin noted in chart,$641.74,66.1,olivia87@mail.org
+PT-00130,General,09/18/2018,Friday Health,45737-5483,"Lab results normal, no further action",26.92,94.93,peter49@company.io
+PT-00131,General,08/19/2018,Blue Cross,25002-9422,Vitals within normal range,60.96,82.98,noah24@company.io
+PT-00132,General,01/13/2018,,23418,Patient shows improvement since last visit,$197.87,76.09,tina58@yahoo.com
+PT-00133,General,03/12/2018,Friday Health,,"Lab results normal, no further action",503.39,72.83,alice_dis@company.io
+PT-00134,General,01/17/2018,Molina,45527-5641,Medication dosage adjusted,$122.55,71.32,mia_lpb@gmail.com
+PT-00135,Pediatrics,01/26/2018,SelectQuote,85246,Referred to specialist for MRI,21.49,72.1,bob_ymj@gmail.com
+PT-00136,Cardiology,08/05/2018,Anthem,19337,Vitals within normal range,$62.70,77.02,alice_njz@business.net
+PT-00137,Pediatrics,05/08/2018,Anthem,54399,,$39.88,72.49,eve72@business.net
+PT-00138,Dermatology,10/21/2018,Cigna,16648-8712,Recommend physical therapy 3x/week,85.98,67.31,olivia17@yahoo.com
+PT-00139,Dermatology,07/19/2018,Kaiser,98538-7284,Patient reported chest pain for 3 days,394.8,77.09,kate6@business.net
+PT-00140,Orthopedics,03/05/2018,Alignment Healthcare,17051-7421,Patient shows improvement since last visit,$4.29,64.96,
+PT-00141,Pediatrics,12/24/2018,Sharecare,,Follow-up appointment in 2 weeks,$54.94,78.87,noah@fastmail.fm
+PT-00142,Cardiology,,GoHealth,87693,"Lab results normal, no further action",50.36,72.32,
+PT-00143,Neurology,12/22/2018,Oscar Health,68436,Allergy to penicillin noted in chart,$19.92,83.36,olivia56@business.net
+PT-00144,,06/30/2018,Alignment Healthcare,50952,"Lab results normal, no further action",181.74,86.87,rosa@yahoo.com
+PT-00145,Oncology,,Molina,35971,Vitals within normal range,16.48,86.86,leo_fhv@mail.org
+PT-00146,Neurology,01/31/2019,Friday Health,97932,,$18.92,78.82,sam_ppz@outlook.com
+PT-00147,Neurology,,Clover Health,20295,,249.96,80.22,noah10@gmail.com
+PT-00148,Dermatology,09/10/2018,Aetna,71039,,$544.95,71.13,jack@business.net
+PT-00149,Oncology,08/27/2018,Sharecare,22178,Vitals within normal range,82.16,83.13,eve4@mail.org
+PT-00150,Oncology,10/01/2018,Clover Health,71377-6085,"Lab results normal, no further action",20.89,84.49,tina85@business.net
+PT-00151,Cardiology,,,99715,Referred to specialist for MRI,38.6,56.19,sam17@gmail.com
+PT-00152,Neurology,10/25/2018,,71000,Allergy to penicillin noted in chart,$301.75,79.54,carol@company.io
+PT-00153,Orthopedics,05/23/2018,Sharecare,39333-5227,,103.52,91.42,mia12@mail.org
+PT-00154,Neurology,07/11/2018,Noom,57638,Patient reported chest pain for 3 days,$79.74,70.72,eve16@outlook.com
+PT-00155,Neurology,05/27/2018,Sharecare,97186,Medication dosage adjusted,$131.06,68.11,
+PT-00156,Oncology,12/29/2018,Hims & Hers,52567,Follow-up appointment in 2 weeks,$86.04,69.96,peter35@outlook.com
+PT-00157,Oncology,,Progyny,13966-2849,Patient reported chest pain for 3 days,575.28,56.94,noah81@company.io
+PT-00158,Oncology,01/11/2018,HealthMarkets,56064,"Lab results normal, no further action",,76.51,eve64@proton.me
+PT-00159,Cardiology,,Aetna,32387,Vitals within normal range,31.92,75.36,carol62@company.io
+PT-00160,Neurology,04/25/2018,Progyny,55693,,$17.11,77.36,quinn@yahoo.com
+PT-00161,Oncology,10/29/2018,UnitedHealth,26697,Vitals within normal range,$47.09,79.99,quinn55@business.net
+PT-00162,Pediatrics,01/26/2019,Alignment Healthcare,,,24.28,65.42,iris_cnc@fastmail.fm
+PT-00163,Dermatology,06/29/2018,Alignment Healthcare,24022,Vitals within normal range,116.94,78.28,frank_vbk@mail.org
+PT-00164,,05/06/2018,Aetna,95124-5949,Recommend physical therapy 3x/week,,80.32,kate76@business.net
+PT-00165,pediatrics,11/30/2018,,79828,,,69.14,frank_etp@yahoo.com
+PT-00166,Dermatology,,Progyny,87402,,182.54,80.04,noah_aka@fastmail.fm
+PT-00167,,07/13/2018,Hims & Hers,,,$555.67,75.97,olivia_krt@fastmail.fm
+PT-00168,General,10/30/2018,Clover Health,30843,Vitals within normal range,,67.43,jack_vqr@proton.me
+PT-00169,Orthopedics,11/25/2018,Aetna,60307-4411,Medication dosage adjusted,,78.39,jack@company.io
+PT-00170,General,01/20/2019,Hims & Hers,,,977.07,71.51,alice_mdg@company.io
+PT-00171,,01/13/2019,Clover Health,67062,Recommend physical therapy 3x/week,,83.36,carol@outlook.com
+PT-00172,General,09/04/2018,Progyny,54852,,$941.71,72.13,eve95@company.io
+PT-00173,Cardiology,04/14/2018,HealthMarkets,40953,Patient reported chest pain for 3 days,333.24,59.52,grace@yahoo.com
+PT-00174,Cardiology,12/02/2018,Aetna,97766-8972,,,78.2,noah_wtp@mail.org
+PT-00175,Oncology,02/14/2018,Anthem,24984,Vitals within normal range,$115.16,77.75,bob_kns@fastmail.fm
+PT-00176,General,11/12/2018,WellCare,70674,,$65.71,62.03,hank_bao@yahoo.com
+PT-00177,dermatology,04/22/2018,Alignment Healthcare,22799,Patient shows improvement since last visit,140.92,84.01,iris_kmm@business.net
+PT-00178,Pediatrics,04/26/2018,Clover Health,33091,Recommend physical therapy 3x/week,38.45,83.38,olivia90@business.net
+PT-00179,Dermatology,09/20/2018,WellCare,63188-2781,Patient reported chest pain for 3 days,$151.51,64.56,olivia_npr@fastmail.fm
+PT-00180,Cardiology,06/09/2018,WellCare,99850,Follow-up appointment in 2 weeks,3.85,67.08,eve_skk@business.net
+PT-00181,Pediatrics,05/21/2018,Alignment Healthcare,59664,Recommend physical therapy 3x/week,$94.78,73.3,peter_qht@fastmail.fm
+PT-00182,Orthopedics,07/08/2018,Kaiser,94540,Patient shows improvement since last visit,451.97,65.89,eve23@fastmail.fm
+PT-00183,,06/14/2018,Friday Health,21866,,$100.80,82.68,jack31@business.net
+PT-00184,Neurology,01/29/2018,WellCare,28208,,$715.50,76.79,frank@business.net
+PT-00185,Orthopedics,,Sharecare,93379,Medication dosage adjusted,65.6,61.88,noah15@business.net
+PT-00186,pediatrics,02/26/2018,Aetna,29231,Patient shows improvement since last visit,299.82,65.13,leo@yahoo.com
+PT-00187,Oncology,06/07/2018,Progyny,69372,Medication dosage adjusted,31.38,89.25,bob@yahoo.com
+PT-00188,oncology,03/17/2018,Humana,61115,Medication dosage adjusted,,93.43,rosa@business.net
+PT-00189,Orthopedics,03/28/2018,Alignment Healthcare,68610,Follow-up appointment in 2 weeks,$119.00,81.46,frank_hln@yahoo.com
+PT-00190,Orthopedics,11/17/2018,HealthMarkets,99327,Medication dosage adjusted,69.15,72.46,eve@fastmail.fm
+PT-00191,Oncology,01/05/2018,,49286,Allergy to penicillin noted in chart,$4.10,69.72,noah99@mail.org
+PT-00192,Neurology,,Cigna,99071,,,81.6,quinn22@company.io
+PT-00193,Cardiology,06/18/2018,,66980,Vitals within normal range,116.3,75.91,eve97@proton.me
+PT-00194,Pediatrics,09/26/2018,UnitedHealth,55123,Referred to specialist for MRI,243.34,55.68,noah@fastmail.fm
+PT-00195,General,07/23/2018,,,Allergy to penicillin noted in chart,$585.89,87.38,eve@business.net
+PT-00196,Dermatology,01/05/2019,,,Referred to specialist for MRI,1034.88,91.15,kate@outlook.com
+PT-00197,Cardiology,12/09/2018,Hims & Hers,48559-9992,Recommend physical therapy 3x/week,$401.63,83.85,sam_zzu@mail.org
+PT-00198,,01/06/2018,Humana,16963-6885,Patient shows improvement since last visit,45.86,61.9,noah_xsw@business.net
+PT-00199,Neurology,10/12/2018,Clover Health,24378,"Lab results normal, no further action",62.44,67.36,leo@proton.me
+PT-00200,Pediatrics,08/09/2018,Friday Health,14087,Patient shows improvement since last visit,218.48,52.71,olivia_fou@fastmail.fm

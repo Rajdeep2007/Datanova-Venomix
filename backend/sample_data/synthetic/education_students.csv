@@ -1,0 +1,191 @@
+student_id,major,gpa,enrollment_date,campus_zip,student_email,student_phone,tuition_paid,attendance_pct,advisor_notes
+STU-00001,Art,2.71,11/25/2018,71198,peter@fastmail.fm,,$483.17,43.3%,"Struggling with calculus, needs tutoring"
+STU-00002,,2.62,,61171,mia_tli@fastmail.fm,,15.8,77.8%,Academic probation warning issued
+STU-00003,Computer Science,3.74,09/14/2018,83887,rosa_jvy@mail.org,(966) 112-6216,$22.41,55.4%,Internship placement confirmed
+STU-00004,Psychology,2.78,05/31/2018,75454,grace15@company.io,,$86.62,64.7%,Changed major from pre-med
+STU-00005,Business,3.7,04/09/2018,69445,alice@company.io,(220) 864-2991,$108.20,32.7,Academic probation warning issued
+STU-00006,Computer Science,3.27,06/30/2018,45160,dave@business.net,(324) 689-4950,$46.99,16.1%,Study abroad application submitted
+STU-00007,Computer Science,3.75,11/23/2018,93326,peter49@fastmail.fm,(798) 181-1170,$33.84,1.3%,Active in student government
+STU-00008,Engineering,2.65,05/27/2018,36131,alice92@proton.me,(454) 978-9726,$34.27,82.1%,Internship placement confirmed
+STU-00009,,2.89,05/23/2018,41447,jack40@fastmail.fm,(328) 973-8771,$84.87,63.7%,Active in student government
+STU-00010,biology,3.43,01/22/2018,83966,sam@proton.me,,$181.88,22.9%,Internship placement confirmed
+STU-00011,Computer Science,2.98,04/08/2018,45501,leo@gmail.com,(557) 224-4987,$84.85,41.8,"Struggling with calculus, needs tutoring"
+STU-00012,Business,1.95,,87941,noah@proton.me,,$75.65,80.1%,Changed major from pre-med
+STU-00013,Art,2.51,01/11/2019,60109,iris@yahoo.com,,$10.90,53.9%,Dean's list candidate
+STU-00014,Computer Science,,07/15/2018,18333,sam84@company.io,(535) 946-9765,$254.80,30.0%,Dean's list candidate
+STU-00015,Psychology,,,46746-3901,bob89@business.net,(303) 976-9229,$84.63,26.7%,Active in student government
+STU-00016,Business,3.54,11/02/2018,54991,,(934) 225-1699,53.31,21.8%,"Struggling with calculus, needs tutoring"
+STU-00017,Engineering,3.37,01/21/2018,12900,,,122.26,82.4%,Scholarship renewal under review
+STU-00018,Engineering,3.28,04/19/2018,11038,tina@mail.org,(338) 406-4476,$32.70,58.2%,Academic probation warning issued
+STU-00019,Art,,02/21/2018,91045,kate_gxy@company.io,(931) 572-4384,$54.65,70.9%,"Struggling with calculus, needs tutoring"
+STU-00020,Biology,3.79,08/06/2018,50153,,(610) 171-6623,102.42,86.0%,Dean's list candidate
+STU-00021,,,07/06/2018,54786,mia@mail.org,(913) 914-9698,39.87,98.7,
+STU-00022,Art,2.45,03/13/2018,62310,iris75@mail.org,(708) 310-7211,$12.49,24.9%,Changed major from pre-med
+STU-00023,,3.23,,52348,alice@outlook.com,(975) 511-3291,$10.28,,Dean's list candidate
+STU-00024,,3.35,10/15/2018,58655,hank_pnd@fastmail.fm,(650) 180-4555,153.68,46.2%,Study abroad application submitted
+STU-00025,Biology,,12/25/2018,62045,grace_rnu@mail.org,,$86.72,3.5%,"Struggling with calculus, needs tutoring"
+STU-00026,,,08/25/2018,68547,dave_ezz@fastmail.fm,(937) 713-7569,$83.12,79.2%,
+STU-00027,art,3.23,01/07/2019,41395-5524,eve@fastmail.fm,(781) 351-4424,$22.33,,"Struggling with calculus, needs tutoring"
+STU-00028,Psychology,2.59,01/28/2018,27918,kate_xnf@proton.me,(561) 347-1988,$87.82,68.6%,Scholarship renewal under review
+STU-00029,English,2.7,,87136,leo@gmail.com,(921) 107-6470,$55.67,26.8%,Completed honors thesis
+STU-00030,Biology,4.34,10/06/2018,44825,hank2@proton.me,,$43.81,12.3,
+STU-00031,Business,,12/28/2018,26061,carol@outlook.com,(292) 475-5782,$82.26,38.2%,Internship placement confirmed
+STU-00032,Computer Science,2.16,07/17/2018,47475-5338,leo14@business.net,,128.47,83.3,Scholarship renewal under review
+STU-00033,biology,2.9,12/07/2018,95283,mia_npe@business.net,(288) 766-6477,$735.01,34.8%,Active in student government
+STU-00034,Business,2.29,,35613,peter_olu@company.io,(595) 940-7153,177.39,3.4%,Scholarship renewal under review
+STU-00035,Art,3.66,07/21/2018,30632,carol_soe@business.net,,251.91,27.4,Changed major from pre-med
+STU-00036,Biology,2.22,08/01/2018,25249,mia_fby@business.net,(781) 290-6850,$338.86,99.0%,Changed major from pre-med
+STU-00037,Art,2.5,01/16/2018,51515,bob@outlook.com,(555) 908-2895,$35.99,67.7%,Academic probation warning issued
+STU-00038,Biology,3.2,08/28/2018,37982,bob32@company.io,,61.25,90.1,
+STU-00039,Psychology,3.75,10/18/2018,17318,dave3@proton.me,(452) 502-1697,$30.39,77.5%,Changed major from pre-med
+STU-00040,Computer Science,3.17,01/13/2019,64086,rosa_auz@business.net,(875) 237-9324,$39.72,54.0,Active in student government
+STU-00041,Engineering,2.57,10/16/2018,70017,eve@outlook.com,,$53.84,14.9%,Internship placement confirmed
+STU-00042,,3.29,07/11/2018,99216,carol@fastmail.fm,,$38.60,,"Struggling with calculus, needs tutoring"
+STU-00043,Engineering,2.97,05/04/2018,13930,iris@outlook.com,(362) 657-7911,$117.79,58.4,"Struggling with calculus, needs tutoring"
+STU-00044,Engineering,3.77,02/15/2018,99949,hank@outlook.com,(984) 765-7196,$151.32,87.1%,Dean's list candidate
+STU-00045,Business,,04/02/2018,74970,rosa79@business.net,(619) 104-6621,$18.78,26.9%,
+STU-00046,Psychology,2.93,09/03/2018,56696,,(455) 402-3901,61.9,12.1%,Dean's list candidate
+STU-00047,Computer Science,3.59,05/19/2018,28623,eve@company.io,(733) 184-7188,$62.72,55.9%,"Struggling with calculus, needs tutoring"
+STU-00048,Art,,,20407,alice30@yahoo.com,(461) 362-2125,$15.38,17.7%,Active in student government
+STU-00049,Business,3.88,06/14/2018,81956,dave@fastmail.fm,(921) 799-7753,$35.90,61.0,Completed honors thesis
+STU-00050,English,3.57,04/13/2018,83004,noah19@company.io,,$256.76,26.4%,Scholarship renewal under review
+STU-00051,Engineering,3.47,09/30/2018,30502,bob@company.io,(838) 813-8566,252.82,23.1%,Active in student government
+STU-00052,Engineering,3.86,06/15/2018,96237,sam@company.io,,$12.74,39.9%,Study abroad application submitted
+STU-00053,Engineering,3.21,09/29/2018,33097,iris_xub@mail.org,,$158.63,59.3%,Completed honors thesis
+STU-00054,Psychology,2.81,02/07/2018,76255,olivia@yahoo.com,(619) 948-5351,$15.42,,Internship placement confirmed
+STU-00055,Biology,3.3,,44047,olivia92@gmail.com,,$55.60,,Academic probation warning issued
+STU-00056,Computer Science,3.02,03/23/2018,99165,leo8@fastmail.fm,(238) 293-9959,$80.10,89.1%,Scholarship renewal under review
+STU-00057,engineering,3.5,09/22/2018,98960,dave61@proton.me,(201) 238-9034,222.15,11.0,"Struggling with calculus, needs tutoring"
+STU-00058,Computer Science,3.23,06/17/2018,24736,dave80@gmail.com,,$73.00,,
+STU-00059,Art,3.4,01/15/2019,94255,mia47@outlook.com,,26.67,60.3%,Completed honors thesis
+STU-00060,Biology,2.6,06/18/2018,94948,peter@outlook.com,(413) 532-3200,$21.74,12.3%,Changed major from pre-med
+STU-00061,Art,3.45,08/14/2018,98697-9667,kate77@proton.me,(721) 993-2678,$110.12,50.5,Internship placement confirmed
+STU-00062,Engineering,2.56,02/11/2018,63860,mia_nsx@outlook.com,(469) 748-5246,$42.07,95.2,
+STU-00063,,,04/23/2018,29344,hank@outlook.com,(892) 377-8426,55.12,69.9%,
+STU-00064,Business,,05/10/2018,68288,dave17@gmail.com,(318) 641-4766,$288.46,61.7,"Struggling with calculus, needs tutoring"
+STU-00065,Biology,3.37,11/04/2018,27308,,(806) 424-4463,$151.70,57.5%,Study abroad application submitted
+STU-00066,Engineering,3.36,06/12/2018,62468,carol_wwm@gmail.com,(222) 689-7746,604.42,18.0%,Internship placement confirmed
+STU-00067,,3.09,12/29/2018,63311,,(788) 916-1735,$26.53,43.3,"Struggling with calculus, needs tutoring"
+STU-00068,,2.9,06/28/2018,71345-5565,leo@fastmail.fm,(628) 607-7588,$38.44,34.3,Completed honors thesis
+STU-00069,,3.19,05/05/2018,18119,dave_exy@mail.org,(466) 811-1058,$112.22,95.3%,Completed honors thesis
+STU-00070,,4.19,06/21/2018,16113,hank29@outlook.com,(783) 277-3836,$798.36,24.2%,
+STU-00071,,3.31,11/29/2018,92483,,(717) 649-5558,$34.68,47.2,"Struggling with calculus, needs tutoring"
+STU-00072,Psychology,2.53,12/01/2018,29988,grace@company.io,(828) 621-8443,$94.26,93.8,Study abroad application submitted
+STU-00073,biology,2.35,11/01/2018,80386-7020,jack38@fastmail.fm,(983) 376-6241,$439.43,78.9,Changed major from pre-med
+STU-00074,Biology,2.48,01/05/2019,52661,quinn@outlook.com,(972) 459-2833,$95.57,96.5,Academic probation warning issued
+STU-00075,Engineering,3.01,05/29/2018,96282,,(923) 342-6384,$306.13,,
+STU-00076,,3.83,11/14/2018,14766-3490,tina99@mail.org,(750) 866-8433,$942.93,,Academic probation warning issued
+STU-00077,Art,2.69,,73418,tina@outlook.com,,$128.27,,Completed honors thesis
+STU-00078,Biology,3.91,06/24/2018,33354,tina95@fastmail.fm,(326) 564-5356,$156.05,29.1,Internship placement confirmed
+STU-00079,Biology,3.29,02/13/2018,18613,kate22@yahoo.com,(401) 121-7960,$219.54,16.5,"Struggling with calculus, needs tutoring"
+STU-00080,,3.44,,51915,mia@business.net,(766) 673-2963,$30.41,70.6,
+STU-00081,,3.43,11/07/2018,35541-1433,sam@business.net,(308) 875-7287,$15.21,63.9,
+STU-00082,Psychology,3.5,08/09/2018,89195,noah_bpi@proton.me,(477) 894-1575,$108.87,87.9%,Active in student government
+STU-00083,,2.99,12/22/2018,85191,hank_grv@proton.me,(407) 412-4412,$42.51,96.2%,Study abroad application submitted
+STU-00084,Art,2.03,07/13/2018,26176,frank@proton.me,,$318.40,85.7%,Scholarship renewal under review
+STU-00085,,2.91,01/01/2019,38523,mia_ign@business.net,,$131.26,6.0,Dean's list candidate
+STU-00086,English,2.76,03/18/2018,79348,dave@gmail.com,(410) 661-8698,$311.99,66.5%,Academic probation warning issued
+STU-00087,,3.36,06/10/2018,21382,iris@yahoo.com,(653) 767-6884,21.29,,Completed honors thesis
+STU-00088,Computer Science,3.31,11/10/2018,31558,carol@business.net,,299.42,,Study abroad application submitted
+STU-00089,Psychology,3.06,12/26/2018,36012-7194,jack_rws@outlook.com,(419) 514-5652,$5.71,37.5,Changed major from pre-med
+STU-00090,Computer Science,4.08,02/06/2018,91583,noah@yahoo.com,(979) 586-8364,$23.49,17.0%,Scholarship renewal under review
+STU-00091,Psychology,2.88,02/09/2018,30207,sam15@mail.org,,$192.23,85.3%,Dean's list candidate
+STU-00092,Computer Science,2.09,08/11/2018,61218,jack97@outlook.com,(296) 338-1138,$49.25,31.7,Study abroad application submitted
+STU-00093,Psychology,3.26,03/06/2018,13511,sam65@company.io,(819) 112-2846,55.28,59.8%,Active in student government
+STU-00094,Biology,3.79,,34443,,(557) 297-9399,$102.38,39.0%,Active in student government
+STU-00095,,3.34,12/13/2018,92728,mia_itp@outlook.com,,$495.89,,Scholarship renewal under review
+STU-00096,Business,,10/30/2018,42260,grace38@outlook.com,(223) 290-9928,$8.97,73.2%,
+STU-00097,,3.32,11/09/2018,58959,frank@mail.org,(330) 505-3183,402.8,36.1%,Active in student government
+STU-00098,Computer Science,4.12,03/10/2018,56169,frank79@fastmail.fm,(557) 370-3733,$432.23,69.3%,Scholarship renewal under review
+STU-00099,,2.76,,96412,,(240) 368-2111,$49.14,1.4%,Completed honors thesis
+STU-00100,Art,3.22,04/18/2018,40753-3470,eve98@yahoo.com,(870) 967-3791,$39.10,32.5,Completed honors thesis
+STU-00101,,3.53,05/20/2018,93877,frank@company.io,(438) 187-1570,78.13,31.9%,Study abroad application submitted
+STU-00102,English,3.33,02/05/2018,68024,,(941) 768-6834,$38.11,74.9,Dean's list candidate
+STU-00103,Business,3.08,01/05/2018,90733,bob1@company.io,,$136.15,31.5%,
+STU-00104,biology,2.99,06/04/2018,78447,rosa@business.net,(207) 374-5579,$159.18,63.3,"Struggling with calculus, needs tutoring"
+STU-00105,Art,3.06,04/28/2018,32846-6957,frank_gng@gmail.com,,$13.95,68.9%,Completed honors thesis
+STU-00106,Psychology,3.47,03/01/2018,72086,leo_ryv@outlook.com,,$29.83,65.8%,"Struggling with calculus, needs tutoring"
+STU-00107,Biology,3.44,04/12/2018,39105,sam_pbk@proton.me,(906) 705-5458,$21.71,60.3%,Dean's list candidate
+STU-00108,Business,4.25,06/23/2018,39556-7934,frank@company.io,(302) 678-4524,$116.47,,Completed honors thesis
+STU-00109,,2.43,01/14/2019,65944-6734,quinn@company.io,,$256.42,37.3%,Changed major from pre-med
+STU-00110,,4.08,12/14/2018,14555,,(999) 345-2233,$24.83,56.5%,Dean's list candidate
+STU-00111,Engineering,3.1,03/19/2018,22011,frank@gmail.com,(260) 736-8908,254.25,6.4%,Internship placement confirmed
+STU-00112,Art,3.15,,82250,carol@outlook.com,(931) 730-6071,$29.67,87.6%,Completed honors thesis
+STU-00113,Computer Science,3.63,11/12/2018,15971,dave87@outlook.com,(301) 749-3366,$213.22,82.5,"Struggling with calculus, needs tutoring"
+STU-00114,Engineering,3.63,04/16/2018,60998,,(347) 868-5539,$64.04,34.6%,
+STU-00115,Psychology,3.78,07/24/2018,25832,mia_mcb@business.net,(757) 576-1461,$52.98,56.7,Scholarship renewal under review
+STU-00116,Psychology,3.89,06/27/2018,30761,,(801) 847-8776,$354.58,93.2%,Active in student government
+STU-00117,Computer Science,3.18,04/22/2018,36201,hank99@yahoo.com,,$769.11,27.2%,Completed honors thesis
+STU-00118,,3.89,07/01/2018,22932-3042,,(461) 986-7666,$8.76,,Internship placement confirmed
+STU-00119,Computer Science,2.89,05/09/2018,30443,rosa_hre@gmail.com,,184.81,8.3,Changed major from pre-med
+STU-00120,Biology,3.05,03/04/2018,56428,eve90@proton.me,(582) 180-9126,$111.36,52.3%,Completed honors thesis
+STU-00121,Engineering,3.11,08/31/2018,82564,frank79@fastmail.fm,(505) 912-3361,$198.24,88.4%,Dean's list candidate
+STU-00122,art,2.94,02/02/2018,83174,grace@business.net,(389) 396-1229,$16.02,55.2%,Changed major from pre-med
+STU-00123,Biology,,08/03/2018,92853,kate@fastmail.fm,(471) 952-4505,$24.50,61.6,"Struggling with calculus, needs tutoring"
+STU-00124,,3.65,11/11/2018,21749,jack_ppl@fastmail.fm,(376) 529-2633,40.22,90.8%,Completed honors thesis
+STU-00125,,3.53,,74617,eve98@yahoo.com,(310) 646-1845,116.24,71.5%,
+STU-00126,Business,2.89,06/07/2018,92610,olivia_qmo@fastmail.fm,(236) 297-6004,$37.37,69.6,Active in student government
+STU-00127,Biology,2.85,08/18/2018,44359,jack_rgj@mail.org,,$61.09,58.6%,Changed major from pre-med
+STU-00128,Art,2.77,,43852,mia_bnu@mail.org,,$243.87,63.3,Internship placement confirmed
+STU-00129,Computer Science,3.24,01/03/2019,72714,dave_mhl@business.net,,1052.13,80.4%,Dean's list candidate
+STU-00130,,2.41,10/31/2018,68014,grace52@mail.org,,$223.86,,Study abroad application submitted
+STU-00131,English,2.75,03/29/2018,27173-4550,sam_aha@outlook.com,(608) 559-3782,$252.47,79.5,Completed honors thesis
+STU-00132,,2.97,09/06/2018,30023-3644,quinn@outlook.com,(257) 255-1575,$72.37,70.8%,Active in student government
+STU-00133,Business,3.73,01/25/2018,76631-2738,,(232) 708-6492,$30.92,13.6%,"Struggling with calculus, needs tutoring"
+STU-00134,Business,3.13,05/15/2018,89616,alice_eng@yahoo.com,(998) 911-4873,60.88,81.7%,Active in student government
+STU-00135,Art,3.7,09/09/2018,30180,hank_ooo@gmail.com,,$83.97,73.6,Internship placement confirmed
+STU-00136,Computer Science,3.29,04/29/2018,97864,kate_hvo@fastmail.fm,(938) 238-2148,$22.37,77.0%,
+STU-00137,Psychology,2.96,,84196,iris@gmail.com,(784) 469-4220,239.4,23.1,Completed honors thesis
+STU-00138,Biology,2.98,08/23/2018,97163,eve@gmail.com,(619) 656-1510,$557.43,90.3%,Study abroad application submitted
+STU-00139,Engineering,2.62,01/06/2018,92750,leo_krc@business.net,(210) 447-8616,$104.26,9.7,Scholarship renewal under review
+STU-00140,English,4.4,09/17/2018,33414,grace@mail.org,(687) 719-6128,$330.59,,Dean's list candidate
+STU-00141,English,3.76,10/21/2018,56365,,(230) 161-2569,383.8,66.3%,Study abroad application submitted
+STU-00142,Art,3.5,06/16/2018,59417,olivia@yahoo.com,(706) 349-3237,26.01,67.4%,Academic probation warning issued
+STU-00143,English,2.55,,90993,,(541) 917-1201,$11.19,,Study abroad application submitted
+STU-00144,Computer Science,2.97,01/02/2019,54241,grace55@mail.org,(226) 917-8559,$49.46,70.2%,
+STU-00145,Business,2.71,12/31/2018,95994-7383,jack33@mail.org,,100.99,38.8,Active in student government
+STU-00146,Biology,3.26,11/16/2018,41751,kate55@outlook.com,(291) 294-1567,$21.43,,Scholarship renewal under review
+STU-00147,Engineering,,07/31/2018,93287,jack5@business.net,(870) 562-3812,$496.05,16.3%,Internship placement confirmed
+STU-00148,Psychology,2.86,12/09/2018,72755,tina77@outlook.com,(364) 195-2788,$933.15,,Scholarship renewal under review
+STU-00149,Business,2.75,04/03/2018,42065-2879,frank_dag@mail.org,(409) 653-7236,$111.61,22.3,Study abroad application submitted
+STU-00150,English,3.08,09/10/2018,79674-7501,olivia4@mail.org,(779) 142-9344,$27.71,11.3%,Completed honors thesis
+STU-00151,Business,3.24,05/01/2018,99610,kate@company.io,(683) 177-7387,$161.35,68.2%,Study abroad application submitted
+STU-00152,Biology,3.09,05/03/2018,46146-4871,rosa@mail.org,(707) 245-4041,$27.61,44.1,Internship placement confirmed
+STU-00153,,3.97,12/15/2018,10827,kate_jcs@gmail.com,(322) 125-5159,354.86,,Internship placement confirmed
+STU-00154,,3.61,09/08/2018,51321,alice@yahoo.com,(523) 991-5576,68.19,,Active in student government
+STU-00155,Computer Science,,03/28/2018,83254,peter31@fastmail.fm,(961) 517-2832,215.44,,Dean's list candidate
+STU-00156,Biology,3.36,03/22/2018,25994,frank@business.net,(707) 213-3739,265.68,31.3%,Completed honors thesis
+STU-00157,Art,2.85,,52461-2175,rosa@mail.org,(760) 927-2120,171.67,50.6%,Scholarship renewal under review
+STU-00158,Biology,3.0,07/20/2018,38803,frank@proton.me,(685) 954-1103,766.89,65.0%,Scholarship renewal under review
+STU-00159,Psychology,3.44,01/10/2019,32874,dave@gmail.com,(665) 362-6019,$111.49,32.2%,Active in student government
+STU-00160,Psychology,,05/17/2018,17514,kate_nqj@yahoo.com,,49.21,4.1%,Study abroad application submitted
+STU-00161,English,2.91,06/05/2018,47594,iris58@company.io,(348) 944-4695,7.22,49.6%,Dean's list candidate
+STU-00162,Biology,2.65,,40046,leo_dln@mail.org,(977) 408-5802,5.81,1.3%,Completed honors thesis
+STU-00163,Engineering,3.24,06/29/2018,72066,dave_dps@fastmail.fm,(334) 288-6907,$196.85,95.1%,Scholarship renewal under review
+STU-00164,Psychology,3.42,08/12/2018,60609-5535,grace34@company.io,(347) 195-7509,$72.20,,Changed major from pre-med
+STU-00165,Computer Science,2.88,11/05/2018,72409-6217,peter@proton.me,(215) 247-6608,33.84,19.2%,Study abroad application submitted
+STU-00166,,3.61,08/29/2018,42955,carol_rgq@outlook.com,(385) 319-5421,$23.65,28.8%,Completed honors thesis
+STU-00167,,3.52,01/29/2018,32843,noah_nnx@yahoo.com,(973) 184-3325,$219.02,98.3,"Struggling with calculus, needs tutoring"
+STU-00168,Engineering,2.87,12/10/2018,96466-2416,leo_mma@proton.me,,$27.65,37.4,Changed major from pre-med
+STU-00169,Engineering,3.77,08/15/2018,66114,frank_rid@mail.org,(797) 378-5998,$637.01,78.4%,
+STU-00170,Biology,3.78,05/30/2018,45083-6606,noah@fastmail.fm,,1511.99,,Changed major from pre-med
+STU-00171,Psychology,4.23,10/27/2018,53246,quinn7@fastmail.fm,(685) 284-7157,30.57,86.4,Internship placement confirmed
+STU-00172,Art,4.06,08/02/2018,12216,grace38@fastmail.fm,(831) 123-4411,$201.10,70.4%,Scholarship renewal under review
+STU-00173,Psychology,2.75,,97887-7159,mia21@company.io,(890) 287-7892,152.63,,Completed honors thesis
+STU-00174,,3.66,,87650,grace51@proton.me,(856) 740-6785,27.52,29.4%,Scholarship renewal under review
+STU-00175,Biology,3.64,09/25/2018,87454,iris@gmail.com,,$27.71,55.8%,Study abroad application submitted
+STU-00176,English,3.03,01/30/2018,81712,dave_nom@gmail.com,(333) 581-7700,$77.70,92.6%,
+STU-00177,Biology,3.43,05/07/2018,34230-1008,rosa@yahoo.com,(280) 767-8628,$22.96,10.2%,Academic probation warning issued
+STU-00178,,2.26,04/07/2018,27968-3764,rosa@mail.org,(817) 937-5916,333.46,60.1%,Study abroad application submitted
+STU-00179,Biology,2.25,03/31/2018,66963,mia_tnn@fastmail.fm,(937) 670-1394,67.0,30.2%,Changed major from pre-med
+STU-00180,Psychology,2.34,08/07/2018,97380-9128,sam48@business.net,(893) 237-5429,$23.46,88.9%,Internship placement confirmed
+STU-00181,Engineering,3.39,09/07/2018,22595-2471,,(553) 947-6883,$80.90,76.5%,Scholarship renewal under review
+STU-00182,Biology,3.42,11/26/2018,29617,frank_btm@yahoo.com,(798) 653-6746,$157.54,37.0%,Internship placement confirmed
+STU-00183,Biology,3.06,05/28/2018,36448,eve39@yahoo.com,(314) 491-1607,$37.74,,Completed honors thesis
+STU-00184,Computer Science,4.06,,66360,,(334) 208-2741,$8.23,,Academic probation warning issued
+STU-00185,Biology,3.69,01/12/2019,91304,dave@proton.me,(788) 783-2809,104.76,,Dean's list candidate
+STU-00186,Psychology,2.4,12/23/2018,79727,,(527) 649-2489,$20.90,40.6%,Scholarship renewal under review
+STU-00187,Art,3.11,11/15/2018,69494,noah69@yahoo.com,(374) 924-8042,$34.73,31.5,Dean's list candidate
+STU-00188,Business,2.73,01/12/2018,84238,,(753) 514-5678,$158.05,98.6%,Active in student government
+STU-00189,English,3.41,,72202,,(950) 721-9779,$44.46,46.6%,Internship placement confirmed
+STU-00190,English,3.18,10/29/2018,31623,noah_fvj@business.net,,$75.99,,Internship placement confirmed

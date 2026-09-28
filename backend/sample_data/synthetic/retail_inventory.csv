@@ -1,0 +1,201 @@
+sku_id,category,product_line,unit_cost,stock_pct,restock_date,supplier_notes,weight_kg,warehouse_zip
+SKU-00001,Electronics,,230.39,46.7%,02/02/2019,,3.22,50334
+SKU-00002,Apparel,Vintage Series,$141.34,25.7%,10/08/2018,"Domestic supplier, ships within 5 days",1.02,
+SKU-00003,Apparel,Winter Basics,318.91,,01/05/2018,"Organic certified, updated labeling",0.95,77237
+SKU-00004,Food,Tech Essentials,56.21,,01/23/2018,Backordered until next quarter,2.71,79514
+SKU-00005,Apparel,Urban Style,8.6,23.0%,09/22/2018,Packaging redesign in progress,3.8,12948
+SKU-00006,Outdoor,Back to School,17.46,17.6%,,"Recall notice issued, hold shipments",4.0,24282
+SKU-00007,Furniture,Limited Edition,177.27,,01/14/2019,"Domestic supplier, ships within 5 days",2.64,82887
+SKU-00008,Food,Holiday Special,$321.86,6.8%,,"Seasonal item, discontinue after March",1.49,77993
+SKU-00009,Food,Office Supplies,$9.13,3.3%,04/15/2018,"Organic certified, updated labeling",2.91,46101
+SKU-00010,Food,Travel Gear,$489.21,60.5,02/28/2018,,3.35,27596
+SKU-00011,Electronics,Country Living,$157.21,61.9,06/17/2018,,2.89,18064
+SKU-00012,Beauty,,$82.72,53.0%,11/07/2018,,4.35,
+SKU-00013,Beauty,,42.43,76.2%,03/20/2018,Backordered until next quarter,0.98,48191
+SKU-00014,Electronics,Vintage Series,607.52,3.9%,08/23/2018,Bulk discount available at 500+ units,1.45,
+SKU-00015,Furniture,Gift Sets,$264.12,,06/11/2018,,4.14,56538
+SKU-00016,Electronics,,$162.23,9.5%,05/02/2018,Lead time 2-3 weeks from overseas,0.29,78971
+SKU-00017,Electronics,Tech Essentials,$37.42,,08/13/2018,Lead time 2-3 weeks from overseas,1.69,51297
+SKU-00018,Outdoor,Home Comfort,$624.54,13.3%,10/22/2018,Lead time 2-3 weeks from overseas,1.4,
+SKU-00019,Food,Sport Line,$93.36,88.0%,02/27/2018,Lead time 2-3 weeks from overseas,0.15,39082
+SKU-00020,Food,Vintage Series,128.87,51.1%,01/15/2019,Lead time 2-3 weeks from overseas,2.22,23392-8450
+SKU-00021,Food,Back to School,98.27,8.2%,11/06/2018,Lead time 2-3 weeks from overseas,3.62,78971
+SKU-00022,Furniture,Urban Style,$35.92,61.7,05/24/2018,"Domestic supplier, ships within 5 days",2.73,26223
+SKU-00023,Electronics,Classic Range,$132.11,0.9,04/27/2018,,3.7,89489
+SKU-00024,Food,Sport Line,207.75,77.6%,,Backordered until next quarter,4.29,41600
+SKU-00025,Apparel,Travel Gear,$52.99,65.1%,07/29/2018,Packaging redesign in progress,1.92,92689
+SKU-00026,Apparel,Budget Range,119.21,21.3%,02/09/2018,"Domestic supplier, ships within 5 days",6.47,74563
+SKU-00027,Beauty,Holiday Special,$96.56,37.5%,08/18/2018,"Domestic supplier, ships within 5 days",1.98,63083
+SKU-00028,Outdoor,,269.93,0.8,11/26/2018,"New vendor, quality TBD",2.18,39585-7662
+SKU-00029,Beauty,,$62.88,69.4,05/14/2018,"Recall notice issued, hold shipments",1.44,14555
+SKU-00030,Furniture,Premium Line,118.14,32.3%,03/22/2018,"Domestic supplier, ships within 5 days",3.32,20992
+SKU-00031,electronics,Winter Basics,152.11,57.2%,03/04/2018,"Recall notice issued, hold shipments",2.06,90199
+SKU-00032,Electronics,Pet Supplies,61.2,,,"Organic certified, updated labeling",2.38,75099
+SKU-00033,Apparel,Eco Series,$33.43,,01/28/2018,,2.19,
+SKU-00034,Apparel,,40.64,99.0%,12/23/2018,Lead time 2-3 weeks from overseas,2.16,22492
+SKU-00035,Electronics,Eco Series,$147.09,63.3,11/12/2018,Packaging redesign in progress,2.74,75625
+SKU-00036,Furniture,Travel Gear,$67.87,24.2%,09/01/2018,Lead time 2-3 weeks from overseas,1.82,82423
+SKU-00037,Food,Budget Range,66.8,43.7%,03/12/2018,,1.9,78743
+SKU-00038,Electronics,Budget Range,$185.86,74.0%,04/26/2018,,4.11,11398
+SKU-00039,Electronics,,305.94,44.6%,04/08/2018,,2.06,
+SKU-00040,Apparel,Premium Line,376.18,6.9%,09/30/2018,,3.08,13853
+SKU-00041,Electronics,,43.16,16.9%,05/01/2018,"Domestic supplier, ships within 5 days",1.17,53855
+SKU-00042,Beauty,Urban Style,$272.41,79.1%,,"Organic certified, updated labeling",1.83,24681
+SKU-00043,Beauty,Holiday Special,"$1,098.81",64.8%,06/18/2018,Bulk discount available at 500+ units,0.65,88275
+SKU-00044,Apparel,,104.72,,12/26/2018,Bulk discount available at 500+ units,5.28,11719
+SKU-00045,electronics,,82.44,16.8%,01/15/2018,Bulk discount available at 500+ units,4.56,59452
+SKU-00046,Electronics,Sport Line,$64.19,83.8%,,Backordered until next quarter,3.39,93471
+SKU-00047,Electronics,Holiday Special,25.12,96.1%,03/31/2018,"Domestic supplier, ships within 5 days",5.73,44588
+SKU-00048,Food,Office Supplies,$247.33,4.1,04/02/2018,"Organic certified, updated labeling",3.66,88128-7807
+SKU-00049,Food,Home Comfort,82.88,7.8%,03/11/2018,Backordered until next quarter,2.24,10402
+SKU-00050,Furniture,Home Comfort,$75.21,88.5%,,,3.06,99144
+SKU-00051,Apparel,,205.37,81.6%,,Packaging redesign in progress,4.54,58222
+SKU-00052,Electronics,Gift Sets,$229.38,,10/14/2018,"Organic certified, updated labeling",1.18,55323-1949
+SKU-00053,Apparel,,43.77,94.5%,06/09/2018,"Recall notice issued, hold shipments",0.74,
+SKU-00054,Furniture,Back to School,$45.04,64.6%,04/09/2018,Bulk discount available at 500+ units,3.11,19294
+SKU-00055,Food,Garden Tools,42.71,21.6%,05/31/2018,"Recall notice issued, hold shipments",1.62,78938
+SKU-00056,Furniture,,1137.08,72.9%,06/12/2018,,-0.89,85370
+SKU-00057,Furniture,Pet Supplies,529.84,64.6,01/11/2019,"Domestic supplier, ships within 5 days",0.64,
+SKU-00058,Outdoor,Vintage Series,210.28,98.6%,11/24/2018,Backordered until next quarter,2.03,40323
+SKU-00059,Beauty,Holiday Special,57.37,21.4,05/15/2018,Backordered until next quarter,2.57,72566
+SKU-00060,Outdoor,Classic Range,66.13,59.8%,01/31/2018,Bulk discount available at 500+ units,2.62,13457
+SKU-00061,Food,Office Supplies,139.23,78.0,01/17/2018,"Organic certified, updated labeling",5.51,
+SKU-00062,Beauty,Gift Sets,$1275.32,33.9%,10/31/2018,Packaging redesign in progress,2.19,30667
+SKU-00063,Outdoor,Winter Basics,$127.31,38.0%,08/01/2018,Lead time 2-3 weeks from overseas,2.92,
+SKU-00064,Food,Country Living,$165.77,88.8%,,,0.06,29383-8393
+SKU-00065,Furniture,Limited Edition,4.23,40.4%,02/18/2018,"Seasonal item, discontinue after March",2.45,46047
+SKU-00066,Furniture,Tech Essentials,$122.62,,01/30/2019,"Recall notice issued, hold shipments",3.0,64823-5180
+SKU-00067,Apparel,Classic Range,$16.90,88.9%,04/19/2018,Lead time 2-3 weeks from overseas,0.44,14781
+SKU-00068,Beauty,Country Living,50.18,21.0%,,,1.1,48528-9783
+SKU-00069,Food,Premium Line,$95.23,98.2%,01/29/2018,"Seasonal item, discontinue after March",3.23,63378
+SKU-00070,Furniture,Winter Basics,$62.64,70.2%,06/16/2018,,1.68,15616
+SKU-00071,Food,Winter Basics,$41.97,49.6%,02/08/2018,,2.35,
+SKU-00072,Food,Kids Collection,42.42,43.1%,03/08/2018,Lead time 2-3 weeks from overseas,3.31,41149
+SKU-00073,Apparel,Tech Essentials,69.88,95.4%,08/09/2018,Packaging redesign in progress,5.56,61838
+SKU-00074,Outdoor,Limited Edition,$66.31,20.6%,06/10/2018,Lead time 2-3 weeks from overseas,2.17,16076
+SKU-00075,Furniture,Office Supplies,92.23,31.2%,01/10/2018,Lead time 2-3 weeks from overseas,5.15,22580-3110
+SKU-00076,Outdoor,Travel Gear,84.32,30.8,01/28/2019,Bulk discount available at 500+ units,-0.44,65904
+SKU-00077,Food,,$417.65,28.9,01/12/2018,"New vendor, quality TBD",2.72,12355
+SKU-00078,electronics,,7.69,46.9%,02/04/2018,"Seasonal item, discontinue after March",2.0,35288
+SKU-00079,Electronics,Holiday Special,120.78,98.9%,01/18/2018,,1.7,
+SKU-00080,Food,Urban Style,$98.02,,12/10/2018,,3.49,
+SKU-00081,Furniture,Travel Gear,$76.63,32.8%,10/04/2018,"Domestic supplier, ships within 5 days",2.18,62144
+SKU-00082,Food,Budget Range,$38.59,,,,-0.54,21584
+SKU-00083,Furniture,Urban Style,75.21,66.9%,07/21/2018,,0.12,13574
+SKU-00084,Apparel,Clearance,12.68,1.7%,01/22/2019,Bulk discount available at 500+ units,3.58,99772
+SKU-00085,Electronics,,115.36,,11/19/2018,"Organic certified, updated labeling",0.04,51992
+SKU-00086,Apparel,,143.4,88.0%,08/06/2018,Backordered until next quarter,3.62,37899-3875
+SKU-00087,Apparel,Back to School,38.67,85.7,03/05/2018,"Seasonal item, discontinue after March",2.69,38652
+SKU-00088,Furniture,Urban Style,$924.11,37.5,11/21/2018,"Seasonal item, discontinue after March",2.24,54634
+SKU-00089,Furniture,Pet Supplies,77.9,46.2%,10/25/2018,Packaging redesign in progress,2.38,66333
+SKU-00090,Food,Holiday Special,94.91,1.2%,10/13/2018,"Domestic supplier, ships within 5 days",3.27,34039
+SKU-00091,Beauty,Limited Edition,$447.17,39.9%,01/24/2018,"New vendor, quality TBD",0.73,24257
+SKU-00092,Apparel,Summer Collection,1176.79,46.0%,04/14/2018,"Seasonal item, discontinue after March",2.56,
+SKU-00093,Furniture,Limited Edition,$23.38,,03/18/2018,Backordered until next quarter,0.79,83580
+SKU-00094,Food,Kids Collection,$45.03,89.4,12/30/2018,Bulk discount available at 500+ units,2.75,28690
+SKU-00095,Beauty,Home Comfort,$79.58,96.6%,12/03/2018,"Organic certified, updated labeling",3.47,78746
+SKU-00096,Apparel,Premium Line,36.91,88.5%,12/14/2018,"New vendor, quality TBD",2.75,48063
+SKU-00097,Outdoor,Office Supplies,248.47,0.8%,07/03/2018,,3.41,
+SKU-00098,apparel,Urban Style,$32.34,64.1%,03/09/2018,,1.45,82683-9647
+SKU-00099,Electronics,Budget Range,411.55,6.8%,01/02/2018,Lead time 2-3 weeks from overseas,2.41,68645
+SKU-00100,food,Winter Basics,190.26,27.3%,04/11/2018,,2.14,54906
+SKU-00101,Furniture,Budget Range,$363.89,57.8%,05/30/2018,Bulk discount available at 500+ units,2.04,72506
+SKU-00102,Beauty,Sport Line,32.52,70.1%,11/02/2018,Backordered until next quarter,1.3,82127
+SKU-00103,Beauty,Kitchen Must-haves,56.82,65.5%,07/13/2018,Packaging redesign in progress,1.85,79285-1755
+SKU-00104,Food,Wellness Kit,$264.43,4.9%,01/10/2019,,0.83,37782
+SKU-00105,Beauty,Office Supplies,$212.71,10.4%,04/13/2018,Lead time 2-3 weeks from overseas,-0.04,
+SKU-00106,Furniture,,63.8,12.9%,01/31/2019,"Organic certified, updated labeling",1.45,26270-7071
+SKU-00107,Furniture,Classic Range,75.68,9.1%,09/04/2018,Lead time 2-3 weeks from overseas,3.44,69183
+SKU-00108,Apparel,Clearance,$53.45,,,"Recall notice issued, hold shipments",2.85,
+SKU-00109,Beauty,,73.28,68.8,,Lead time 2-3 weeks from overseas,0.62,16224
+SKU-00110,Beauty,Home Comfort,28.26,,03/15/2018,"Seasonal item, discontinue after March",1.89,83985
+SKU-00111,Electronics,Winter Basics,23.11,40.9%,05/18/2018,,3.54,18498
+SKU-00112,Furniture,Summer Collection,300.82,69.3%,09/11/2018,"New vendor, quality TBD",1.83,47455
+SKU-00113,Outdoor,Gift Sets,70.35,20.0%,01/01/2019,"Seasonal item, discontinue after March",0.37,12067
+SKU-00114,Outdoor,Country Living,$358.38,97.3%,05/20/2018,Packaging redesign in progress,5.89,69389
+SKU-00115,Electronics,Holiday Special,184.05,35.0%,10/02/2018,Packaging redesign in progress,2.25,86401
+SKU-00116,Electronics,Urban Style,$130.90,84.6%,09/17/2018,"Organic certified, updated labeling",0.75,62803
+SKU-00117,Furniture,Wellness Kit,$38.39,94.5%,06/23/2018,"Recall notice issued, hold shipments",2.76,85076
+SKU-00118,electronics,Country Living,21.05,,10/23/2018,Packaging redesign in progress,2.37,92046
+SKU-00119,food,Urban Style,$52.02,6.7%,04/17/2018,,0.19,91852
+SKU-00120,Electronics,Summer Collection,565.83,65.0%,04/16/2018,Lead time 2-3 weeks from overseas,2.64,59265
+SKU-00121,Beauty,Eco Series,$261.58,12.0,09/16/2018,Packaging redesign in progress,3.98,96084
+SKU-00122,Electronics,Office Supplies,$46.50,0.6%,08/10/2018,"Organic certified, updated labeling",2.15,82443
+SKU-00123,Beauty,Kitchen Must-haves,$52.74,5.2%,04/12/2018,,-0.59,88683
+SKU-00124,electronics,Classic Range,$29.52,91.6%,10/18/2018,,3.01,98592
+SKU-00125,Apparel,Classic Range,14.06,90.8%,05/09/2018,"Domestic supplier, ships within 5 days",3.4,69795-9555
+SKU-00126,Apparel,Budget Range,$101.69,22.6,03/10/2018,Lead time 2-3 weeks from overseas,1.62,48738-6999
+SKU-00127,Furniture,Urban Style,$713.44,54.7%,,Bulk discount available at 500+ units,1.63,
+SKU-00128,Electronics,Back to School,724.27,95.5%,,Lead time 2-3 weeks from overseas,5.89,84548
+SKU-00129,Electronics,Back to School,$186.70,49.7%,03/14/2018,"Domestic supplier, ships within 5 days",1.51,53300
+SKU-00130,Furniture,Clearance,$43.68,39.4%,01/26/2019,"Seasonal item, discontinue after March",0.82,48588-9199
+SKU-00131,Outdoor,Clearance,$15.81,48.3%,01/03/2019,Bulk discount available at 500+ units,2.54,50579
+SKU-00132,Food,Kitchen Must-haves,316.23,79.0,08/25/2018,"Organic certified, updated labeling",3.36,35487
+SKU-00133,Food,Kids Collection,153.95,,,"Domestic supplier, ships within 5 days",3.3,34952-4654
+SKU-00134,Food,Kitchen Must-haves,$61.59,78.3,07/25/2018,"Organic certified, updated labeling",-1.2,48591
+SKU-00135,Beauty,Tech Essentials,50.4,43.2%,,"Organic certified, updated labeling",1.51,
+SKU-00136,Outdoor,Kitchen Must-haves,185.03,25.2%,03/27/2018,Lead time 2-3 weeks from overseas,4.23,83380
+SKU-00137,Outdoor,,33.38,32.6%,07/19/2018,Bulk discount available at 500+ units,2.99,17179
+SKU-00138,Electronics,Wellness Kit,119.95,7.8%,12/22/2018,Bulk discount available at 500+ units,0.65,13009
+SKU-00139,Outdoor,Wellness Kit,20.83,49.7,06/25/2018,Backordered until next quarter,4.36,
+SKU-00140,Outdoor,Classic Range,"$1,305.33",14.8%,02/12/2018,"Organic certified, updated labeling",3.95,93917-7843
+SKU-00141,Beauty,Home Comfort,$39.47,81.2%,08/12/2018,"Recall notice issued, hold shipments",2.06,14000
+SKU-00142,Electronics,Clearance,$195.99,42.1%,11/18/2018,"Recall notice issued, hold shipments",3.82,32795
+SKU-00143,Apparel,Winter Basics,$21.38,76.5%,07/22/2018,,5.5,50567
+SKU-00144,Food,Travel Gear,74.0,95.4,08/29/2018,"Organic certified, updated labeling",0.92,39898
+SKU-00145,Beauty,,$260.22,,12/25/2018,"New vendor, quality TBD",3.33,38887
+SKU-00146,Outdoor,Pet Supplies,$337.36,95.1,12/13/2018,"Seasonal item, discontinue after March",5.48,96840
+SKU-00147,Apparel,Garden Tools,224.97,56.8,05/25/2018,,3.48,57422
+SKU-00148,Food,Vintage Series,76.26,16.5,02/20/2018,"Organic certified, updated labeling",1.37,78184-1286
+SKU-00149,Food,,$40.48,93.5,,"Domestic supplier, ships within 5 days",2.86,
+SKU-00150,Electronics,Travel Gear,$24.70,86.9%,02/11/2018,"Seasonal item, discontinue after March",4.55,55178
+SKU-00151,Electronics,Winter Basics,547.06,,10/28/2018,,0.98,
+SKU-00152,Electronics,Vintage Series,101.91,69.3%,10/05/2018,"New vendor, quality TBD",2.45,84221
+SKU-00153,Electronics,Urban Style,127.22,62.5%,12/12/2018,Backordered until next quarter,2.13,54740-3412
+SKU-00154,Outdoor,Summer Collection,364.47,1.5,01/25/2019,"Domestic supplier, ships within 5 days",1.55,63245
+SKU-00155,Food,Home Comfort,182.01,74.8%,,Backordered until next quarter,2.86,57018
+SKU-00156,Furniture,Pet Supplies,77.25,9.2%,,"Seasonal item, discontinue after March",2.35,29216
+SKU-00157,Food,Gift Sets,219.92,26.0,02/02/2018,,3.47,44870-7265
+SKU-00158,Electronics,Premium Line,$42.65,55.1%,03/01/2018,Bulk discount available at 500+ units,4.21,85092
+SKU-00159,Furniture,Office Supplies,$13.99,45.2%,06/26/2018,Backordered until next quarter,0.59,
+SKU-00160,Outdoor,Home Comfort,$489.90,1.6%,10/29/2018,"Organic certified, updated labeling",2.6,38394-8895
+SKU-00161,Food,Travel Gear,$47.13,82.4,11/17/2018,Packaging redesign in progress,2.42,65830-3387
+SKU-00162,Apparel,Wellness Kit,$62.48,87.9,02/17/2018,Bulk discount available at 500+ units,2.81,34941
+SKU-00163,Furniture,Pet Supplies,$69.46,68.2%,11/25/2018,"Seasonal item, discontinue after March",2.48,51116
+SKU-00164,Furniture,,$43.70,54.1%,01/07/2018,Bulk discount available at 500+ units,1.03,25753
+SKU-00165,Food,Urban Style,$337.51,96.1%,02/26/2018,,4.68,35171
+SKU-00166,Apparel,Pet Supplies,$141.08,12.0%,,Lead time 2-3 weeks from overseas,5.32,62254
+SKU-00167,Furniture,Sport Line,62.52,,05/26/2018,"New vendor, quality TBD",3.32,41536
+SKU-00168,Furniture,Travel Gear,$19.48,12.8,08/27/2018,"Seasonal item, discontinue after March",3.4,50729
+SKU-00169,Furniture,Kids Collection,129.61,38.2%,06/08/2018,Backordered until next quarter,2.7,45638
+SKU-00170,Furniture,Vintage Series,$4.76,58.5%,01/07/2019,,3.95,15316
+SKU-00171,Electronics,Gift Sets,$119.02,73.7,07/18/2018,,-1.16,31527
+SKU-00172,Beauty,Winter Basics,451.16,0.4%,08/02/2018,"Seasonal item, discontinue after March",2.49,39325-9419
+SKU-00173,Food,,$97.27,26.1,06/20/2018,"New vendor, quality TBD",1.64,
+SKU-00174,Food,,$382.83,53.8,10/16/2018,"Domestic supplier, ships within 5 days",2.72,61024-1903
+SKU-00175,Apparel,Pet Supplies,20.59,53.3%,06/01/2018,Bulk discount available at 500+ units,4.14,25307
+SKU-00176,Apparel,,$1039.24,63.8%,02/04/2019,Bulk discount available at 500+ units,2.53,60749
+SKU-00177,Apparel,,$335.88,,04/30/2018,"Domestic supplier, ships within 5 days",1.96,19837-4167
+SKU-00178,Furniture,Kids Collection,$159.36,54.1%,01/14/2018,"Recall notice issued, hold shipments",0.4,
+SKU-00179,Apparel,Summer Collection,$43.90,19.0,05/16/2018,Lead time 2-3 weeks from overseas,2.34,
+SKU-00180,Outdoor,Kitchen Must-haves,$35.97,18.7%,12/29/2018,"Seasonal item, discontinue after March",3.51,59177
+SKU-00181,apparel,Sport Line,$82.67,57.7%,,Bulk discount available at 500+ units,1.24,90224
+SKU-00182,electronics,Winter Basics,381.2,68.5%,01/08/2019,"Seasonal item, discontinue after March",-0.51,20499
+SKU-00183,Food,Sport Line,$18.57,12.0%,06/29/2018,Backordered until next quarter,5.91,89499-6265
+SKU-00184,Food,Travel Gear,$91.15,12.3%,05/17/2018,,3.0,
+SKU-00185,Outdoor,Sport Line,217.25,56.5,12/28/2018,,2.17,33224
+SKU-00186,Beauty,Tech Essentials,274.57,27.0%,06/28/2018,Bulk discount available at 500+ units,4.59,78394
+SKU-00187,Electronics,Summer Collection,216.48,39.2%,10/27/2018,Lead time 2-3 weeks from overseas,2.71,86344
+SKU-00188,Food,Home Comfort,$16.43,40.1,06/03/2018,Backordered until next quarter,4.5,94157
+SKU-00189,Beauty,,$350.07,17.9%,01/19/2018,"Seasonal item, discontinue after March",4.37,28828-7035
+SKU-00190,Apparel,Premium Line,$97.58,0.1%,06/04/2018,"New vendor, quality TBD",0.59,38902
+SKU-00191,Electronics,,$24.47,85.3%,09/05/2018,,3.19,45405-9114
+SKU-00192,Furniture,Garden Tools,$87.44,71.5%,02/14/2018,,5.09,67756
+SKU-00193,Furniture,Garden Tools,$8.58,,03/16/2018,,1.0,46896
+SKU-00194,Beauty,Home Comfort,$180.18,54.7%,,Backordered until next quarter,1.02,
+SKU-00195,Beauty,,77.23,70.1%,06/06/2018,Bulk discount available at 500+ units,1.27,68854
+SKU-00196,Beauty,,19.61,93.6%,01/09/2019,,3.84,62850
+SKU-00197,Apparel,Clearance,63.56,66.6%,11/09/2018,Lead time 2-3 weeks from overseas,2.93,63955
+SKU-00198,Food,Gift Sets,$38.51,26.5,12/15/2018,"Domestic supplier, ships within 5 days",-0.4,
+SKU-00199,Outdoor,Vintage Series,41.58,57.1%,01/24/2019,"Recall notice issued, hold shipments",3.01,82805
+SKU-00200,Furniture,Wellness Kit,5.97,44.2,01/08/2018,"Seasonal item, discontinue after March",2.12,74499

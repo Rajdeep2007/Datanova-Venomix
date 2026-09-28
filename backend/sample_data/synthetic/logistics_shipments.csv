@@ -1,0 +1,211 @@
+shipment_id,carrier,destination_city,shipping_cost,ship_date,dest_zip,weight_lbs,delivery_notes,on_time_pct,dispatch_email,driver_phone
+SHP-00001,DHL,,$36.53,2019-06-18,73511,30.08,Leave at back door if not home,10.4%,sam@mail.org,496-220-6888
+SHP-00002,DHL,Philadelphia,$70.31,2020-03-24,20646,20.11,Leave at back door if not home,67.9%,tina91@business.net,701-669-1670
+SHP-00003,USPS,Philadelphia,$138.73,2019-08-21,48697,21.07,Customs documentation included,77.9%,,813-877-8608
+SHP-00004,DHL,Jacksonville,$418.65,2020-05-29,96212-3659,4.23,,50.1%,jack28@proton.me,736-346-1478
+SHP-00005,USPS,New York,132.49,2019-08-28,96196,22.38,Signature required on delivery,36.4%,dave_csp@yahoo.com,330-653-1281
+SHP-00006,USPS,Memphis,1351.37,2019-07-18,38173,17.75,Expedited shipping requested,43.2%,dave43@gmail.com,274-124-5916
+SHP-00007,USPS,Houston,$103.94,2020-05-31,12433,-0.84,Residential address confirmed,38.8%,alice_brl@outlook.com,304-736-5713
+SHP-00008,FedEx,Seattle,$101.58,2019-12-09,30474,29.24,"Fragile contents, handle with care",96.0%,eve25@fastmail.fm,929-437-4974
+SHP-00009,Amazon Logistics,Philadelphia,135.08,2019-06-03,70100,16.59,"Fragile contents, handle with care",,jack23@fastmail.fm,508-179-6454
+SHP-00010,DHL,,$141.85,2020-06-06,11173,11.04,Signature required on delivery,20.8%,quinn_mwu@outlook.com,977-229-9364
+SHP-00011,USPS,Portland,139.42,2020-07-19,44899,11.22,,38.4%,eve@business.net,979-197-5303
+SHP-00012,UPS,El Paso,,2020-01-31,63093,-5.15,"Oversized package, curbside delivery",54.4%,rosa@company.io,494-580-7717
+SHP-00013,FedEx,Oklahoma City,250.29,2020-05-11,17706,20.93,Customs documentation included,61.3%,,665-394-3111
+SHP-00014,FedEx,Fort Worth,$1820.42,2020-04-20,59377,17.62,Residential address confirmed,46.8%,mia4@mail.org,763-137-3871
+SHP-00015,Amazon Logistics,Philadelphia,$31.20,2020-04-30,68832-5811,13.06,Signature required on delivery,81.0%,sam@fastmail.fm,287-756-9354
+SHP-00016,UPS,Memphis,$85.67,2020-03-10,41756,27.78,Residential address confirmed,76.8%,eve@outlook.com,890-668-4658
+SHP-00017,DHL,Austin,17.33,2020-03-13,27427,1.16,Residential address confirmed,50.5%,noah11@business.net,223-494-4637
+SHP-00018,UPS,Charlotte,$221.92,2020-06-17,50414-6814,9.03,Expedited shipping requested,85.4,kate94@fastmail.fm,974-452-9154
+SHP-00019,UPS,Philadelphia,221.66,2019-06-15,39138,6.5,,75.1,quinn52@business.net,772-757-1408
+SHP-00020,UPS,Seattle,$14.81,2019-11-14,65694,12.21,Expedited shipping requested,77.9,dave@proton.me,889-332-8612
+SHP-00021,UPS,Columbus,$18.64,2020-01-08,20375,15.67,Expedited shipping requested,95.6%,quinn_iuk@outlook.com,771-699-2890
+SHP-00022,FedEx,San Antonio,7.4,2019-12-17,67621,19.3,Residential address confirmed,,jack88@business.net,883-249-2594
+SHP-00023,DHL,Denver,$592.56,2020-04-27,46488,11.53,Signature required on delivery,26.8,dave@fastmail.fm,427-943-8284
+SHP-00024,DHL,Memphis,$32.90,2019-08-06,41859,6.23,Package contains lithium batteries,88.9%,jack_dwf@proton.me,456-345-7594
+SHP-00025,FedEx,Dallas,$76.63,2020-04-15,45648,31.86,"Fragile contents, handle with care",77.2,rosa55@gmail.com,810-689-1225
+SHP-00026,FedEx,Philadelphia,$57.98,2019-07-15,76849,39.12,"Oversized package, curbside delivery",92.7%,carol_agf@mail.org,526-933-6438
+SHP-00027,FedEx,Oklahoma City,294.75,2019-10-24,25578,16.43,Leave at back door if not home,6.3%,iris@gmail.com,765-430-6643
+SHP-00028,UPS,New York,$198.79,2020-05-22,84705,7.43,Residential address confirmed,62.8,kate@mail.org,704-903-7096
+SHP-00029,Amazon Logistics,Chicago,$186.45,2019-08-12,75327,29.75,Leave at back door if not home,14.5%,carol28@yahoo.com,806-685-6014
+SHP-00030,USPS,Philadelphia,$33.97,2019-07-08,58423,0.53,Expedited shipping requested,50.4,tina_pwx@fastmail.fm,914-886-1341
+SHP-00031,Amazon Logistics,Philadelphia,203.87,2020-07-06,62437,11.65,"Return shipment, include RMA label",15.6%,eve@business.net,757-877-5558
+SHP-00032,Amazon Logistics,San Diego,274.27,2019-08-05,35897,8.04,Leave at back door if not home,,mia@fastmail.fm,391-689-1010
+SHP-00033,USPS,,196.77,2019-10-15,40254,3.4,Customs documentation included,1.2%,grace46@gmail.com,629-717-8043
+SHP-00034,FedEx,Chicago,$19.17,2020-03-14,59959,12.2,,,sam42@gmail.com,780-752-1800
+SHP-00035,amazon logistics,Austin,23.2,2020-01-13,70764,6.36,,35.9%,,906-405-6886
+SHP-00036,Amazon Logistics,,$723.82,2019-08-04,91910,15.13,"Oversized package, curbside delivery",10.5,alice@company.io,356-632-9900
+SHP-00037,UPS,Denver,$927.72,2020-04-08,63444,15.27,Customs documentation included,32.3,carol46@mail.org,639-115-7181
+SHP-00038,UPS,Philadelphia,$82.77,2020-01-12,19658-6085,8.79,Expedited shipping requested,,tina@yahoo.com,268-845-1794
+SHP-00039,Amazon Logistics,Nashville,$82.64,2019-11-18,84310,11.29,"Return shipment, include RMA label",94.2%,sam96@fastmail.fm,597-439-7887
+SHP-00040,FedEx,New York,108.73,2020-05-05,97369,12.69,Residential address confirmed,32.0%,leo@proton.me,670-346-4826
+SHP-00041,USPS,New York,180.33,2020-03-07,27680,23.1,"Return shipment, include RMA label",33.4%,iris_nea@outlook.com,663-874-5478
+SHP-00042,DHL,Nashville,$15.94,2020-07-21,43629,13.52,"Return shipment, include RMA label",84.0,tina_unk@mail.org,580-554-1708
+SHP-00043,FedEx,,$118.69,2019-12-08,78738,23.25,"Fragile contents, handle with care",64.8%,dave@proton.me,284-508-6215
+SHP-00044,amazon logistics,Oklahoma City,$26.13,2020-04-14,31729,20.86,"Return shipment, include RMA label",71.0%,alice_qsj@mail.org,347-554-7789
+SHP-00045,FedEx,Columbus,$87.86,2019-12-05,83882,20.72,"Fragile contents, handle with care",,frank@yahoo.com,295-328-7852
+SHP-00046,FedEx,Fort Worth,31.17,2020-04-26,11452,28.88,"Oversized package, curbside delivery",,olivia_sje@company.io,879-673-2132
+SHP-00047,FedEx,Philadelphia,$41.35,2019-12-24,62186-8433,3.81,,20.7%,carol@fastmail.fm,506-701-1959
+SHP-00048,UPS,Boston,111.93,2019-08-07,84605,10.27,Customs documentation included,98.9%,rosa65@business.net,343-466-4603
+SHP-00049,FedEx,Charlotte,$42.92,2020-07-16,33189,32.63,,83.1%,sam40@outlook.com,850-120-9389
+SHP-00050,FedEx,Los Angeles,$24.08,2019-10-13,55187,12.43,Signature required on delivery,58.9%,hank@fastmail.fm,487-299-8846
+SHP-00051,USPS,Phoenix,$515.02,2020-04-11,87333,-13.15,,66.2%,tina@company.io,940-508-3633
+SHP-00052,UPS,Columbus,$24.50,2019-12-10,88750,12.97,"Oversized package, curbside delivery",64.9%,peter87@business.net,855-727-7517
+SHP-00053,DHL,Fort Worth,$5.63,2019-09-10,30227,16.35,Signature required on delivery,5.8%,iris_oqb@mail.org,502-375-5936
+SHP-00054,USPS,New York,$178.13,2020-06-07,89062,-11.17,"Fragile contents, handle with care",21.8%,olivia58@proton.me,670-892-9173
+SHP-00055,UPS,Dallas,$63.59,2019-10-10,81848,28.34,"Return shipment, include RMA label",96.1%,peter_ipc@gmail.com,384-430-1149
+SHP-00056,DHL,San Jose,86.9,2019-09-18,52023,7.86,Leave at back door if not home,,olivia@business.net,744-388-4017
+SHP-00057,USPS,Los Angeles,108.83,2019-07-24,72581,18.29,Package contains lithium batteries,,peter_bpj@proton.me,446-861-3307
+SHP-00058,DHL,Denver,$413.55,2020-02-12,62404,12.74,Expedited shipping requested,76.2%,frank_vfg@fastmail.fm,456-278-4483
+SHP-00059,amazon logistics,Jacksonville,,2019-06-17,70816,2.12,Signature required on delivery,,noah_nwy@fastmail.fm,508-624-1078
+SHP-00060,UPS,Columbus,,2019-10-11,69105,4.29,,1.3%,mia@yahoo.com,985-132-5487
+SHP-00061,FedEx,San Antonio,$21.96,2020-05-02,58780,5.65,,73.6%,,281-565-3064
+SHP-00062,USPS,Philadelphia,$107.25,2020-06-29,66862-2989,25.86,Residential address confirmed,73.2%,eve_qoq@yahoo.com,515-213-6423
+SHP-00063,UPS,Chicago,$182.55,2020-04-25,42382,13.52,Package contains lithium batteries,,quinn99@gmail.com,550-352-7526
+SHP-00064,Amazon Logistics,Indianapolis,$300.17,2020-01-22,32631-5120,9.78,Residential address confirmed,95.7%,mia@gmail.com,814-210-6367
+SHP-00065,Amazon Logistics,Austin,$106.14,2019-07-22,89692,5.65,Signature required on delivery,22.4%,olivia_dmd@outlook.com,747-446-6166
+SHP-00066,Amazon Logistics,Oklahoma City,45.94,2019-07-23,22536,26.96,"Oversized package, curbside delivery",45.8%,,669-388-1471
+SHP-00067,Amazon Logistics,Los Angeles,$30.32,2020-05-06,89052,29.64,"Return shipment, include RMA label",11.5%,jack78@gmail.com,593-278-9175
+SHP-00068,DHL,New York,78.27,2020-04-28,34851,26.85,Package contains lithium batteries,60.3%,,776-928-7206
+SHP-00069,DHL,Boston,14.86,2019-06-14,88576-3065,19.92,"Return shipment, include RMA label",37.5%,grace44@company.io,215-266-5547
+SHP-00070,FedEx,San Diego,$144.50,2019-08-02,62750-1072,17.9,Signature required on delivery,35.3,dave@yahoo.com,368-477-8408
+SHP-00071,Amazon Logistics,Nashville,$111.36,2019-07-11,18716,2.84,,82.7%,kate43@fastmail.fm,262-344-4488
+SHP-00072,DHL,Chicago,$110.70,2020-06-01,16510,12.54,Signature required on delivery,,bob_dcm@company.io,426-772-3365
+SHP-00073,FedEx,Los Angeles,212.97,2020-01-20,96274,8.16,"Return shipment, include RMA label",79.8%,quinn36@company.io,835-913-6536
+SHP-00074,Amazon Logistics,,513.46,2019-06-08,62284-2103,-3.26,"Oversized package, curbside delivery",57.1,dave@yahoo.com,891-714-5769
+SHP-00075,FedEx,Memphis,82.72,2020-04-23,49971,25.57,Signature required on delivery,98.6%,eve@proton.me,567-285-4641
+SHP-00076,DHL,Chicago,98.72,2020-05-08,96682,8.04,"Return shipment, include RMA label",58.9%,rosa_cqk@yahoo.com,284-429-9811
+SHP-00077,DHL,Denver,57.77,2019-09-27,14424,26.96,"Return shipment, include RMA label",5.5,bob75@gmail.com,342-637-7338
+SHP-00078,USPS,San Diego,$174.48,2019-06-29,83927-5923,23.82,"Oversized package, curbside delivery",5.1%,eve30@business.net,431-147-5579
+SHP-00079,DHL,San Diego,$89.20,2020-03-01,25493-9463,20.57,"Return shipment, include RMA label",88.3%,noah66@gmail.com,220-948-3290
+SHP-00080,Amazon Logistics,,359.99,2019-06-12,85354,21.13,,84.1,hank@yahoo.com,819-545-7427
+SHP-00081,USPS,Memphis,351.02,2019-07-04,29963,8.85,,34.6,noah28@company.io,388-806-2485
+SHP-00082,Amazon Logistics,San Antonio,131.54,2019-08-16,81246,33.58,Signature required on delivery,,dave@outlook.com,653-261-2625
+SHP-00083,Amazon Logistics,Seattle,$81.82,2019-12-02,14347,15.43,"Fragile contents, handle with care",49.0,olivia_cko@company.io,697-402-3571
+SHP-00084,Amazon Logistics,Nashville,$64.85,2019-07-25,80798,18.02,Package contains lithium batteries,96.7,bob_oco@mail.org,814-242-3146
+SHP-00085,DHL,Philadelphia,$160.20,2020-07-13,52890,8.51,Leave at back door if not home,95.0,frank_fhj@business.net,227-409-2425
+SHP-00086,Amazon Logistics,Phoenix,160.71,2019-09-29,60298,5.69,"Return shipment, include RMA label",98.4,carol_jtn@proton.me,617-575-9873
+SHP-00087,DHL,Philadelphia,64.82,2020-05-23,97441,19.77,Expedited shipping requested,86.6%,mia4@fastmail.fm,987-281-2953
+SHP-00088,FedEx,Austin,127.25,2020-05-30,27751,17.18,Signature required on delivery,91.0%,iris_edt@business.net,567-800-4944
+SHP-00089,DHL,Charlotte,$35.55,2020-06-26,11488,7.11,Customs documentation included,21.7%,,804-280-7653
+SHP-00090,DHL,,$154.64,2019-09-09,95061,0.62,Package contains lithium batteries,83.1%,noah@yahoo.com,591-718-4439
+SHP-00091,FedEx,Chicago,$39.32,2019-09-16,77972,2.3,Customs documentation included,70.9%,quinn86@yahoo.com,686-979-1081
+SHP-00092,amazon logistics,Denver,$227.34,2019-10-09,54149,26.96,Leave at back door if not home,96.3%,hank_hhm@gmail.com,605-326-3067
+SHP-00093,FedEx,San Diego,61.56,2020-03-02,14060,8.87,Signature required on delivery,57.1%,sam33@mail.org,563-869-1540
+SHP-00094,UPS,Fort Worth,$670.90,2019-07-02,73501,11.61,"Oversized package, curbside delivery",,alice@proton.me,420-224-4778
+SHP-00095,UPS,New York,94.34,2020-01-17,66112,29.5,Customs documentation included,59.7%,jack@outlook.com,800-260-9193
+SHP-00096,FedEx,Boston,119.77,2020-03-04,23409,3.78,Signature required on delivery,68.7,noah_jya@proton.me,246-409-9710
+SHP-00097,USPS,Los Angeles,$16.80,2020-07-08,44212,7.73,Customs documentation included,22.0,frank15@yahoo.com,998-941-6870
+SHP-00098,UPS,Columbus,$486.80,2020-02-02,91322,7.31,Leave at back door if not home,39.4%,tina@gmail.com,207-289-3477
+SHP-00099,USPS,,86.01,2020-02-26,84499,31.18,"Fragile contents, handle with care",59.9%,eve@outlook.com,246-528-2560
+SHP-00100,Amazon Logistics,San Francisco,$725.90,2019-07-09,81460,34.93,,,eve_rzg@gmail.com,887-699-1798
+SHP-00101,Amazon Logistics,Phoenix,95.38,2020-02-10,14450,22.52,"Oversized package, curbside delivery",37.5%,carol27@fastmail.fm,308-690-4921
+SHP-00102,UPS,Charlotte,$69.62,2019-11-06,58499,22.83,Signature required on delivery,13.3%,leo_tcw@yahoo.com,858-349-4467
+SHP-00103,UPS,Indianapolis,$48.73,2019-11-30,27263,9.2,"Fragile contents, handle with care",94.1%,kate20@mail.org,582-733-4697
+SHP-00104,ups,El Paso,$194.54,2019-11-05,21164,34.47,,75.0,,701-718-8982
+SHP-00105,UPS,,$168.16,2020-04-13,57775,17.68,"Fragile contents, handle with care",0.1%,jack51@gmail.com,286-718-2012
+SHP-00106,fedex,San Jose,18.16,2020-06-03,10364,23.53,Signature required on delivery,76.6%,dave@yahoo.com,202-159-1355
+SHP-00107,USPS,Fort Worth,$45.48,2019-12-14,63541,13.94,Customs documentation included,,sam75@business.net,388-825-6596
+SHP-00108,USPS,Dallas,214.22,2019-07-03,78969,12.32,Expedited shipping requested,1.0,leo75@proton.me,640-201-7173
+SHP-00109,FedEx,Fort Worth,$41.54,2019-12-07,53673,31.63,,,iris_hbf@business.net,349-288-6578
+SHP-00110,UPS,Houston,$33.77,2020-01-27,30045,20.4,"Fragile contents, handle with care",60.7%,alice_tib@company.io,585-832-5600
+SHP-00111,USPS,,113.92,2019-10-06,95411,29.51,"Oversized package, curbside delivery",45.3%,iris37@outlook.com,916-604-2048
+SHP-00112,FedEx,Portland,$99.94,2020-04-07,94142,17.55,Residential address confirmed,77.8%,frank69@company.io,726-857-7036
+SHP-00113,DHL,Columbus,$51.58,2019-10-30,48060,6.52,,42.5%,hank_gjj@yahoo.com,562-714-6064
+SHP-00114,Amazon Logistics,Los Angeles,$750.59,2019-11-24,10881,9.17,Customs documentation included,15.4%,leo88@yahoo.com,202-844-8364
+SHP-00115,USPS,Indianapolis,75.28,2019-12-12,50285,16.03,Residential address confirmed,97.6%,,793-736-3336
+SHP-00116,UPS,Columbus,19.73,2019-11-21,25796,8.73,Customs documentation included,24.2,grace_drh@business.net,432-100-5680
+SHP-00117,UPS,Phoenix,12.9,2020-02-11,51679,3.93,,71.8%,jack_lql@company.io,998-452-4558
+SHP-00118,UPS,Fort Worth,$307.04,2019-09-23,19508,27.01,"Oversized package, curbside delivery",14.3%,bob@fastmail.fm,339-860-4839
+SHP-00119,UPS,Austin,24.12,2020-01-16,73197,9.55,Leave at back door if not home,32.9%,hank@mail.org,284-494-8679
+SHP-00120,UPS,San Antonio,93.37,2019-06-27,51385,16.38,Customs documentation included,,hank@fastmail.fm,676-900-9756
+SHP-00121,ups,Boston,$31.54,2020-01-03,22705-9129,17.96,"Fragile contents, handle with care",,,986-177-5667
+SHP-00122,amazon logistics,San Francisco,$79.64,2020-02-25,74250,9.12,"Return shipment, include RMA label",45.0,noah39@gmail.com,539-485-5745
+SHP-00123,Amazon Logistics,Boston,$136.67,2019-12-04,94195,29.51,Signature required on delivery,15.7%,,651-851-5717
+SHP-00124,Amazon Logistics,Jacksonville,$17.49,2020-07-09,75054,3.83,Signature required on delivery,55.9%,leo@gmail.com,450-554-1210
+SHP-00125,UPS,New York,$52.10,2019-08-29,55824-7865,17.62,Customs documentation included,66.4%,frank25@business.net,957-221-5844
+SHP-00126,USPS,New York,40.11,2020-06-20,21293,17.46,Package contains lithium batteries,6.2,,975-461-4208
+SHP-00127,FedEx,Denver,28.26,2020-04-22,96932,14.46,"Return shipment, include RMA label",87.1%,dave@yahoo.com,893-729-2710
+SHP-00128,Amazon Logistics,San Jose,$57.35,2019-10-18,15896-6464,2.03,,18.5%,kate@yahoo.com,282-786-8395
+SHP-00129,USPS,San Diego,42.58,2020-04-09,91528,23.71,"Fragile contents, handle with care",,mia@outlook.com,710-538-7893
+SHP-00130,DHL,Charlotte,$256.62,2019-10-21,86523,22.44,Residential address confirmed,66.1%,eve_hai@outlook.com,928-538-6570
+SHP-00131,Amazon Logistics,Philadelphia,38.13,2019-12-25,19303,8.24,,46.9%,frank@yahoo.com,259-452-3896
+SHP-00132,UPS,San Antonio,$154.62,2019-07-14,77585,22.07,Residential address confirmed,49.9,,874-582-7849
+SHP-00133,FedEx,Dallas,148.26,2020-07-20,37520,18.75,Expedited shipping requested,,,268-228-1434
+SHP-00134,DHL,Columbus,14.86,2019-09-19,34887,2.19,,80.6%,quinn@mail.org,789-263-2417
+SHP-00135,FedEx,Chicago,$49.07,2020-05-28,34097,6.46,Expedited shipping requested,61.7,kate@proton.me,917-763-6261
+SHP-00136,USPS,Charlotte,$78.88,2019-11-19,50699,26.38,Expedited shipping requested,13.5,jack@outlook.com,688-660-1900
+SHP-00137,USPS,Columbus,123.78,2020-05-26,68792,18.09,Customs documentation included,37.4,iris_nlg@gmail.com,616-778-2215
+SHP-00138,FedEx,El Paso,67.79,2019-09-25,89814-5438,9.36,"Fragile contents, handle with care",81.0%,sam46@company.io,938-739-1980
+SHP-00139,Amazon Logistics,Phoenix,$314.28,2020-05-21,74668,6.42,Signature required on delivery,56.8%,iris_oqj@fastmail.fm,359-235-5028
+SHP-00140,USPS,San Diego,$102.07,2019-12-13,68186,9.85,,10.9,hank@proton.me,270-791-2865
+SHP-00141,Amazon Logistics,El Paso,$153.64,2019-12-06,80063,10.56,Expedited shipping requested,,mia48@proton.me,600-589-9963
+SHP-00142,DHL,Houston,$44.23,2020-06-10,26865,6.54,Package contains lithium batteries,24.3%,,896-552-1393
+SHP-00143,FedEx,San Antonio,156.35,2019-06-04,51315,-2.42,Customs documentation included,51.7,noah@company.io,595-744-8828
+SHP-00144,UPS,San Antonio,$919.35,2020-05-17,10673,26.4,Expedited shipping requested,84.3,mia75@proton.me,847-537-4350
+SHP-00145,FedEx,Columbus,169.34,2020-06-21,71660,24.71,Expedited shipping requested,43.6%,noah_igf@proton.me,543-351-3219
+SHP-00146,FedEx,Houston,338.19,2020-05-15,19989,2.27,,43.3%,eve98@company.io,354-303-8967
+SHP-00147,UPS,New York,63.44,2020-01-28,89731-8720,16.36,"Oversized package, curbside delivery",90.5%,eve38@fastmail.fm,326-652-6828
+SHP-00148,UPS,Oklahoma City,272.9,2020-03-12,92558-6853,5.98,Package contains lithium batteries,57.6,sam_hic@fastmail.fm,799-259-2173
+SHP-00149,USPS,,303.05,2020-01-14,21773,12.38,Leave at back door if not home,56.6%,noah26@company.io,341-487-9467
+SHP-00150,UPS,Dallas,$120.85,2019-11-23,41312,11.55,Leave at back door if not home,,jack_onl@gmail.com,937-391-9398
+SHP-00151,Amazon Logistics,Austin,$82.29,2020-05-03,31818,10.72,Package contains lithium batteries,60.8%,noah13@company.io,576-524-4615
+SHP-00152,DHL,Boston,14.97,2019-11-02,87737,35.03,Signature required on delivery,57.6%,tina@proton.me,709-185-2361
+SHP-00153,FedEx,Chicago,$86.59,2019-11-13,45125,10.6,Package contains lithium batteries,39.7%,dave@proton.me,492-966-3494
+SHP-00154,UPS,Columbus,177.38,2020-07-22,35242,6.92,Leave at back door if not home,99.1,quinn@fastmail.fm,820-419-4154
+SHP-00155,Amazon Logistics,Austin,$35.93,2020-03-25,14854,7.37,Package contains lithium batteries,88.2,grace@yahoo.com,222-141-1473
+SHP-00156,DHL,,$19.61,2020-06-30,19617,25.44,Customs documentation included,75.0%,iris_pvy@gmail.com,964-350-8431
+SHP-00157,ups,San Antonio,$101.73,2019-08-23,56401,-1.52,,53.7,,544-891-5024
+SHP-00158,Amazon Logistics,Boston,118.72,2020-07-17,55129,7.37,,46.2%,jack51@proton.me,783-870-9812
+SHP-00159,Amazon Logistics,,17.87,2019-12-23,20361,29.47,,18.5%,frank_qvt@outlook.com,778-813-3433
+SHP-00160,USPS,Fort Worth,$94.53,2020-06-18,22509,17.44,Package contains lithium batteries,30.6%,mia@yahoo.com,449-819-2198
+SHP-00161,USPS,,$127.47,2020-02-07,69230,16.92,"Oversized package, curbside delivery",77.4%,olivia_tpu@mail.org,412-246-5254
+SHP-00162,UPS,Dallas,439.47,2020-02-29,91153,36.32,Expedited shipping requested,45.4%,alice_kon@yahoo.com,647-452-9228
+SHP-00163,FedEx,,50.81,2019-12-28,57938,17.46,Expedited shipping requested,88.2%,dave24@fastmail.fm,589-489-4419
+SHP-00164,UPS,Houston,1100.7,2019-11-01,97347-7526,7.92,,,carol_kza@company.io,329-590-9771
+SHP-00165,usps,Portland,96.03,2020-02-19,16146,12.18,"Return shipment, include RMA label",50.8%,grace43@yahoo.com,930-364-2692
+SHP-00166,FedEx,San Antonio,$21.28,2019-09-14,71970-5670,3.65,"Return shipment, include RMA label",64.7%,frank_uoc@company.io,702-774-4304
+SHP-00167,UPS,Charlotte,,2019-10-14,11482,27.56,"Fragile contents, handle with care",51.7%,sam@company.io,899-608-7762
+SHP-00168,FedEx,Philadelphia,23.68,2020-02-17,11651,20.75,"Fragile contents, handle with care",88.9%,hank_hhm@proton.me,550-683-2172
+SHP-00169,FedEx,Charlotte,$73.65,2019-10-03,51803,26.24,Customs documentation included,99.0,peter@mail.org,549-315-9581
+SHP-00170,DHL,Indianapolis,$157.93,2020-05-14,25365,27.13,,11.6%,bob@yahoo.com,342-142-2544
+SHP-00171,Amazon Logistics,El Paso,124.19,2020-03-03,12408,10.86,"Fragile contents, handle with care",13.0,noah_paz@yahoo.com,300-897-5502
+SHP-00172,UPS,Fort Worth,$23.19,2019-08-26,42590,5.55,Leave at back door if not home,13.0%,dave_ahr@yahoo.com,883-991-1496
+SHP-00173,Amazon Logistics,San Francisco,$19.98,2019-07-20,81556-2334,14.48,Residential address confirmed,68.1%,alice@outlook.com,597-923-6785
+SHP-00174,USPS,Jacksonville,$148.90,2019-08-20,80730-4424,6.27,,37.3,,367-817-8011
+SHP-00175,USPS,Indianapolis,194.98,2019-07-01,87144,16.65,Residential address confirmed,73.3%,rosa@company.io,602-399-4014
+SHP-00176,UPS,Columbus,50.06,2020-05-20,31013,26.32,Signature required on delivery,40.5%,,641-555-4609
+SHP-00177,Amazon Logistics,Memphis,,2019-09-07,15230,13.32,,62.8,jack71@company.io,577-165-3367
+SHP-00178,USPS,Los Angeles,$22.42,2020-02-01,58725,16.5,"Return shipment, include RMA label",77.0%,carol@fastmail.fm,699-287-5581
+SHP-00179,USPS,Columbus,293.99,2020-05-19,81301,14.06,"Return shipment, include RMA label",54.8,sam13@fastmail.fm,523-453-4614
+SHP-00180,Amazon Logistics,Boston,,2020-04-16,99717,23.03,Signature required on delivery,,dave@yahoo.com,454-600-6987
+SHP-00181,Amazon Logistics,San Antonio,59.34,2019-09-13,92358,8.32,"Oversized package, curbside delivery",8.8%,,888-501-6144
+SHP-00182,FedEx,Dallas,174.86,2019-07-26,12757,-6.96,"Return shipment, include RMA label",41.1%,olivia_wey@yahoo.com,969-495-8688
+SHP-00183,Amazon Logistics,,62.33,2020-03-19,80015,19.71,Leave at back door if not home,54.6%,jack_dvl@mail.org,620-366-9666
+SHP-00184,FedEx,,$481.50,2019-12-29,29864,24.88,"Return shipment, include RMA label",46.2,kate_xyb@company.io,651-623-5808
+SHP-00185,DHL,,57.51,2019-09-04,30637,19.46,"Fragile contents, handle with care",90.1,noah61@company.io,802-536-3617
+SHP-00186,UPS,Nashville,$32.05,2019-09-24,54295-7260,8.6,Expedited shipping requested,90.7%,tina_guc@fastmail.fm,368-385-5718
+SHP-00187,UPS,Los Angeles,,2020-01-25,47025,3.65,Package contains lithium batteries,82.2%,jack_zrj@mail.org,925-476-2971
+SHP-00188,Amazon Logistics,Dallas,$95.33,2020-01-29,88684,19.94,"Return shipment, include RMA label",37.5,frank@yahoo.com,222-414-7664
+SHP-00189,Amazon Logistics,Columbus,,2019-11-25,36702,16.41,Signature required on delivery,71.7%,hank_xfb@proton.me,840-241-6159
+SHP-00190,FedEx,Chicago,$158.57,2020-01-21,54898,13.74,Residential address confirmed,39.5%,frank50@outlook.com,205-523-3123
+SHP-00191,Amazon Logistics,Indianapolis,$63.23,2019-11-15,27321,33.22,Signature required on delivery,23.3,,781-528-6357
+SHP-00192,UPS,,$22.76,2020-02-22,34887,5.53,Expedited shipping requested,34.3%,eve_jmv@fastmail.fm,592-646-6469
+SHP-00193,Amazon Logistics,,$100.90,2019-10-26,71397,32.75,Residential address confirmed,7.1%,sam70@proton.me,312-246-1888
+SHP-00194,DHL,Houston,74.46,2020-06-19,12708,15.32,"Fragile contents, handle with care",33.2,,631-884-3070
+SHP-00195,Amazon Logistics,San Francisco,11.88,2020-03-26,76483,-3.36,"Return shipment, include RMA label",,alice48@proton.me,968-558-7846
+SHP-00196,Amazon Logistics,Seattle,$25.25,2019-06-23,66623,13.21,"Return shipment, include RMA label",95.5%,olivia45@mail.org,928-604-3938
+SHP-00197,USPS,Charlotte,$844.22,2020-01-05,76268,24.59,Signature required on delivery,31.3,eve24@proton.me,811-336-6235
+SHP-00198,Amazon Logistics,New York,$99.24,2020-06-15,89314,11.35,"Fragile contents, handle with care",90.2%,eve98@gmail.com,919-122-8222
+SHP-00199,Amazon Logistics,Chicago,$453.05,2019-08-10,15578,0.25,"Oversized package, curbside delivery",22.9%,,798-896-4530
+SHP-00200,USPS,,$130.40,2020-04-29,15377,13.35,,19.1%,dave29@outlook.com,463-801-5412
+SHP-00201,DHL,Nashville,397.25,2020-04-21,25398,6.43,Leave at back door if not home,51.9%,iris@gmail.com,341-174-3146
+SHP-00202,ups,Nashville,175.37,2019-12-03,90626-5622,19.92,,67.3%,alice@mail.org,789-212-5934
+SHP-00203,Amazon Logistics,,$28.92,2019-06-01,39144-4271,22.73,Package contains lithium batteries,4.4%,dave@company.io,647-989-7082
+SHP-00204,DHL,San Antonio,186.46,2019-06-21,99227,4.44,,22.1%,quinn@outlook.com,204-290-3414
+SHP-00205,Amazon Logistics,Philadelphia,$28.69,2020-06-09,29039,7.94,Signature required on delivery,45.6%,hank19@gmail.com,400-399-9084
+SHP-00206,USPS,Austin,274.58,2019-10-31,59620-6493,22.57,Leave at back door if not home,33.1%,rosa36@mail.org,672-663-1102
+SHP-00207,UPS,Boston,,2020-05-18,80400,6.41,,71.3%,bob1@fastmail.fm,493-453-9073
+SHP-00208,USPS,Philadelphia,92.07,2020-04-03,54368,4.18,"Oversized package, curbside delivery",51.1%,tina@company.io,940-680-8596
+SHP-00209,FedEx,Los Angeles,,2020-06-12,54945,3.21,Signature required on delivery,,leo@business.net,340-482-2904
+SHP-00210,DHL,Philadelphia,234.66,2020-05-24,62342,18.52,Leave at back door if not home,89.4%,olivia@proton.me,732-398-1850

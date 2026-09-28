@@ -1,0 +1,171 @@
+user_id,plan_type,monthly_revenue,signup_date,usage_notes,support_email,support_phone,storage_used_gb,uptime_pct
+USR-00001,Free,$360.39,2019-06-09,,leo88@gmail.com,+1-703-591-5675,20.04,93.1%
+USR-00002,Starter,$472.89,2020-01-09,Submitted feature request for exports,kate@company.io,+1-883-977-5071,24.9,62.3%
+USR-00003,Enterprise,$18.03,2020-02-26,Reported bug in dashboard,rosa99@outlook.com,+1-279-731-2757,-2.5,34.4%
+USR-00004,pro,$401.70,,Submitted feature request for exports,peter@business.net,+1-200-973-1511,1.85,
+USR-00005,Enterprise,$142.72,2019-08-30,Upgraded from free tier last month,,+1-834-151-1183,22.71,26.5
+USR-00006,Starter,$499.27,2020-03-16,,frank97@business.net,+1-480-100-5971,-2.08,25.5%
+USR-00007,Starter,$172.65,2020-04-02,Upgraded from free tier last month,olivia@company.io,+1-655-490-3613,6.63,61.4%
+USR-00008,Starter,$110.79,2019-12-14,Inactive for 30+ days,sam_xso@outlook.com,+1-299-154-7030,28.44,94.5%
+USR-00009,Starter,$408.29,2019-06-03,Upgraded from free tier last month,mia_sfc@proton.me,+1-420-761-4125,4.29,4.8%
+USR-00010,Pro,$250.20,2019-10-18,"Power user, active daily",iris19@yahoo.com,+1-633-859-7108,-2.57,0.1%
+USR-00011,,$329.68,2019-06-26,Reported bug in dashboard,jack79@gmail.com,+1-277-386-7840,12.38,60.0
+USR-00012,Enterprise,$50.12,2019-12-07,Upgraded from free tier last month,hank@company.io,+1-869-122-5873,,28.4
+USR-00013,Enterprise,73.19,2020-04-11,Submitted feature request for exports,hank29@company.io,+1-988-135-2967,21.9,88.1%
+USR-00014,,$11.24,2019-09-22,"Power user, active daily",alice_mlo@company.io,+1-509-245-5304,4.84,32.7%
+USR-00015,Free,$45.96,2020-03-29,Trial period ending soon,,+1-667-919-4353,3.24,29.0%
+USR-00016,Pro,$232.40,2020-05-04,Reported bug in dashboard,leo@business.net,+1-323-751-1497,12.24,27.0%
+USR-00017,Starter,177.16,2019-11-07,Requested custom integration,rosa_csi@company.io,+1-687-278-1235,8.76,14.5
+USR-00018,,$27.79,2019-07-15,"Heavy API user, near rate limit",rosa_dzu@fastmail.fm,,14.02,58.2%
+USR-00019,Free,419.4,2020-03-22,Trial period ending soon,rosa41@company.io,+1-666-990-5475,16.17,16.8%
+USR-00020,Enterprise,,2019-10-17,Requested custom integration,olivia35@proton.me,+1-476-123-8859,10.26,42.5
+USR-00021,Enterprise,$30.47,2019-11-05,Trial period ending soon,carol22@fastmail.fm,+1-264-848-3511,2.71,46.1%
+USR-00022,Free,70.31,2020-04-10,Submitted feature request for exports,eve_rbs@mail.org,+1-420-166-7513,17.84,2.0%
+USR-00023,Pro,42.7,2019-12-25,,alice@proton.me,+1-894-486-1489,,1.7
+USR-00024,Free,$80.33,2019-07-28,Uses SSO with corporate IdP,grace85@company.io,+1-238-609-8085,5.05,52.0%
+USR-00025,Free,$125.05,2020-02-21,Uses SSO with corporate IdP,sam_ydo@business.net,+1-676-522-3867,13.14,
+USR-00026,Free,38.99,2019-11-24,,alice@yahoo.com,,-3.43,94.2%
+USR-00027,Enterprise,$64.57,2019-08-31,Upgraded from free tier last month,quinn_stg@outlook.com,+1-872-164-5601,15.13,17.9%
+USR-00028,Free,$99.95,,Requested custom integration,frank@yahoo.com,+1-926-388-8850,13.57,10.3%
+USR-00029,Enterprise,$158.53,2020-03-28,"Heavy API user, near rate limit",mia74@fastmail.fm,+1-407-921-5379,20.97,5.2%
+USR-00030,Free,523.11,2019-10-06,Inactive for 30+ days,eve44@mail.org,+1-224-787-5455,8.0,43.6%
+USR-00031,Pro,$88.47,2019-09-19,Requested custom integration,peter_ekf@yahoo.com,+1-392-340-8339,22.6,62.3%
+USR-00032,Free,$45.87,2019-06-11,Submitted feature request for exports,kate_tna@gmail.com,+1-201-765-1722,,84.1%
+USR-00033,Pro,207.6,2019-12-02,Requested custom integration,rosa_rca@gmail.com,+1-776-955-8132,11.79,68.3%
+USR-00034,Pro,$145.50,2019-06-05,Reported bug in dashboard,alice_kax@business.net,+1-772-819-9004,,20.8%
+USR-00035,Starter,$71.42,2019-12-20,"Power user, active daily",,+1-437-832-1774,12.76,46.2%
+USR-00036,Starter,$161.10,2020-04-24,"Power user, active daily",dave88@outlook.com,+1-493-472-2448,7.85,91.0%
+USR-00037,Pro,$56.84,2019-11-08,Inactive for 30+ days,quinn_vlq@yahoo.com,+1-812-476-8475,12.99,32.7%
+USR-00038,Free,$47.63,,"Heavy API user, near rate limit",jack@yahoo.com,+1-683-657-3685,7.69,49.9%
+USR-00039,Enterprise,$9.21,2020-02-14,Trial period ending soon,peter25@proton.me,+1-582-774-7082,,95.9
+USR-00040,Pro,,2020-04-29,Upgraded from free tier last month,,+1-943-664-9859,22.57,73.5
+USR-00041,Enterprise,10.86,2019-08-18,Upgraded from free tier last month,peter25@yahoo.com,+1-349-428-6681,11.94,74.8%
+USR-00042,Enterprise,$41.79,2019-09-26,Uses SSO with corporate IdP,quinn_rin@proton.me,+1-616-278-7582,12.72,25.2%
+USR-00043,Pro,$180.44,,Upgraded from free tier last month,rosa@mail.org,+1-581-578-6692,18.38,41.5%
+USR-00044,Starter,$14.79,2020-02-12,Reported bug in dashboard,noah@business.net,+1-985-399-3418,21.5,8.2
+USR-00045,pro,71.68,2019-09-20,Trial period ending soon,rosa62@gmail.com,+1-888-869-9102,8.38,60.7%
+USR-00046,Pro,97.37,2019-10-08,Upgraded from free tier last month,quinn_ecx@outlook.com,+1-891-655-7681,13.38,10.4%
+USR-00047,Pro,,2019-12-23,Trial period ending soon,kate95@company.io,+1-568-542-2416,18.42,83.6%
+USR-00048,Starter,$50.52,,Trial period ending soon,leo_bvw@outlook.com,+1-816-359-3255,14.64,81.5%
+USR-00049,Pro,$133.02,2020-04-03,"Power user, active daily",quinn48@outlook.com,+1-540-467-8644,-2.9,53.4%
+USR-00050,Enterprise,$157.11,2020-01-10,Reported bug in dashboard,hank_ism@gmail.com,+1-661-871-9834,19.86,14.1
+USR-00051,Starter,$90.18,2019-08-02,,bob@company.io,+1-896-268-1700,16.18,2.6
+USR-00052,Starter,$54.01,2019-11-01,,kate23@gmail.com,,16.75,79.7%
+USR-00053,Pro,$254.09,2019-10-07,Inactive for 30+ days,eve19@mail.org,+1-813-449-9850,2.46,60.0
+USR-00054,Pro,$18.67,2019-07-31,Reported bug in dashboard,grace84@proton.me,+1-847-951-3612,13.22,71.1%
+USR-00055,Free,$205.38,2019-08-04,Requested custom integration,mia36@gmail.com,+1-787-242-4372,18.75,30.4%
+USR-00056,Pro,148.95,2019-09-25,Upgraded from free tier last month,mia@yahoo.com,,4.96,50.9%
+USR-00057,Free,114.3,2020-03-17,Trial period ending soon,dave_eub@business.net,+1-629-214-9214,7.04,74.7%
+USR-00058,,$88.95,2020-02-10,Inactive for 30+ days,frank95@mail.org,+1-757-142-9512,18.88,46.3%
+USR-00059,Starter,$9.32,2019-09-21,"Power user, active daily",rosa@proton.me,+1-306-689-1066,6.66,60.1
+USR-00060,Starter,$475.72,2019-06-10,Upgraded from free tier last month,grace@fastmail.fm,,10.33,79.0%
+USR-00061,Pro,$246.26,2019-09-07,Reported bug in dashboard,peter@yahoo.com,+1-957-332-6486,3.72,21.5%
+USR-00062,Enterprise,28.4,2019-11-03,Uses SSO with corporate IdP,hank_pld@gmail.com,+1-700-219-6332,26.56,6.6
+USR-00063,,223.76,2020-03-08,Upgraded from free tier last month,quinn@gmail.com,+1-949-956-7116,16.16,53.2
+USR-00064,Enterprise,$112.91,2019-10-22,Requested custom integration,eve44@company.io,+1-761-504-9570,9.96,6.2%
+USR-00065,enterprise,$44.72,2019-12-01,,,+1-872-939-7435,,76.7%
+USR-00066,Free,$376.21,2019-09-04,"Heavy API user, near rate limit",grace@company.io,+1-424-690-6752,2.17,71.9
+USR-00067,Pro,$53.68,2019-09-14,Inactive for 30+ days,tina68@gmail.com,+1-967-517-2743,11.12,88.2
+USR-00068,Starter,458.22,2019-11-16,Submitted feature request for exports,dave_bna@outlook.com,+1-431-755-8432,17.32,64.0%
+USR-00069,Free,170.91,2019-10-21,Requested custom integration,kate@proton.me,+1-359-954-4085,5.52,
+USR-00070,Pro,$283.69,2020-02-07,Submitted feature request for exports,alice@gmail.com,+1-933-100-9265,,25.3%
+USR-00071,,$180.35,2019-08-09,Inactive for 30+ days,sam_bqx@proton.me,+1-310-607-3365,9.06,
+USR-00072,Starter,$170.59,2019-08-15,"Power user, active daily",jack_qlt@fastmail.fm,+1-273-811-6022,,16.7%
+USR-00073,Pro,$116.54,,Uses SSO with corporate IdP,tina@fastmail.fm,+1-447-873-7653,6.91,69.8%
+USR-00074,Enterprise,,2019-11-18,Reported bug in dashboard,rosa47@mail.org,+1-510-945-4428,18.22,78.0%
+USR-00075,Pro,97.03,2020-02-19,Uses SSO with corporate IdP,frank@fastmail.fm,+1-754-753-2582,23.15,
+USR-00076,Pro,$270.34,2019-10-27,Requested custom integration,noah@business.net,+1-395-124-1265,8.98,32.2%
+USR-00077,Free,$213.39,2019-06-01,Inactive for 30+ days,grace52@proton.me,+1-231-402-2983,7.29,55.8%
+USR-00078,Free,$164.27,2020-04-09,Submitted feature request for exports,olivia_ird@company.io,+1-412-290-2168,19.38,86.1%
+USR-00079,Starter,$7.28,2020-01-04,"Power user, active daily",hank_soy@business.net,+1-268-359-8415,-2.25,22.4
+USR-00080,Starter,69.7,2020-04-05,Uses SSO with corporate IdP,olivia71@company.io,+1-321-532-6857,15.44,94.1
+USR-00081,,$61.44,2019-12-09,Upgraded from free tier last month,,+1-877-512-1173,-0.6,59.9
+USR-00082,Enterprise,,2019-06-12,Inactive for 30+ days,bob26@proton.me,+1-914-711-5918,,
+USR-00083,Pro,$266.27,2019-08-21,,frank@mail.org,+1-551-497-7142,9.98,9.0%
+USR-00084,Free,$7.92,2020-03-10,Requested custom integration,sam@outlook.com,+1-413-411-8020,11.27,12.7
+USR-00085,Free,$245.66,,"Heavy API user, near rate limit",noah41@business.net,+1-834-703-8838,6.21,82.7
+USR-00086,,$443.67,2020-02-15,Trial period ending soon,tina_ptw@yahoo.com,+1-850-729-1686,-0.66,86.5%
+USR-00087,,69.98,2020-04-28,,carol11@yahoo.com,+1-895-603-1516,22.13,44.5
+USR-00088,Starter,$82.33,2020-01-16,Inactive for 30+ days,kate@business.net,+1-711-427-6758,10.63,71.4%
+USR-00089,Enterprise,$287.46,2020-02-08,Uses SSO with corporate IdP,tina_pvm@outlook.com,+1-231-361-8759,37.67,86.8%
+USR-00090,Free,$36.00,2019-08-24,Trial period ending soon,jack@outlook.com,+1-592-870-9831,5.52,4.3%
+USR-00091,,198.93,2019-10-13,"Power user, active daily",noah_nqe@fastmail.fm,+1-988-200-7925,6.83,57.4%
+USR-00092,,29.92,,Upgraded from free tier last month,iris@fastmail.fm,+1-905-701-6751,4.82,85.3%
+USR-00093,Enterprise,,2019-11-13,Uses SSO with corporate IdP,dave97@outlook.com,+1-901-602-1447,,39.8%
+USR-00094,,$128.40,2020-04-14,Requested custom integration,,+1-589-139-8986,24.6,30.2
+USR-00095,Pro,$87.18,2020-03-24,Reported bug in dashboard,olivia3@yahoo.com,+1-977-188-8780,20.08,79.6%
+USR-00096,Enterprise,$11.41,,Submitted feature request for exports,leo@yahoo.com,+1-458-656-2508,-0.04,33.6%
+USR-00097,Free,$491.95,,Inactive for 30+ days,grace@business.net,+1-284-351-2540,21.63,0.3%
+USR-00098,Enterprise,$54.73,2019-12-13,Inactive for 30+ days,tina@business.net,+1-665-488-6527,17.46,96.0%
+USR-00099,Starter,166.14,2019-12-08,"Power user, active daily",iris@fastmail.fm,+1-447-718-8688,15.85,59.2%
+USR-00100,Enterprise,$617.83,2019-11-02,"Power user, active daily",kate22@proton.me,+1-235-430-6075,6.53,82.0%
+USR-00101,Pro,$121.16,2020-01-29,,kate_hzr@yahoo.com,+1-765-895-8392,7.12,82.5
+USR-00102,Pro,414.86,2020-03-25,Reported bug in dashboard,kate@gmail.com,+1-421-728-7727,13.1,6.6%
+USR-00103,Starter,,2019-07-22,Uses SSO with corporate IdP,jack_fmk@mail.org,+1-297-110-3103,7.57,17.1
+USR-00104,Enterprise,$495.31,2019-06-25,,mia43@proton.me,+1-807-983-1462,22.5,31.1%
+USR-00105,Pro,$33.41,2020-01-18,Trial period ending soon,kate17@mail.org,+1-718-555-2132,7.23,32.1%
+USR-00106,Starter,45.36,2020-01-12,"Heavy API user, near rate limit",iris_xxc@business.net,+1-714-285-8588,-3.57,65.9%
+USR-00107,Pro,$15.71,2019-12-12,Inactive for 30+ days,quinn@yahoo.com,+1-481-813-7359,1.59,62.3
+USR-00108,Free,$124.23,,Requested custom integration,frank@yahoo.com,+1-748-769-1798,2.1,49.5
+USR-00109,Starter,,2019-10-28,Requested custom integration,alice_auw@yahoo.com,+1-459-699-2927,9.89,21.1%
+USR-00110,Pro,225.92,2019-12-03,Requested custom integration,eve75@yahoo.com,+1-914-629-9046,13.73,38.2%
+USR-00111,Enterprise,$16.15,2019-09-01,Submitted feature request for exports,tina@outlook.com,+1-378-562-5806,12.43,54.4
+USR-00112,Starter,$141.17,2019-10-16,,carol@company.io,+1-366-140-5756,15.69,46.8%
+USR-00113,Enterprise,$147.58,2020-03-26,Trial period ending soon,bob92@company.io,+1-815-439-7991,9.98,12.7%
+USR-00114,Free,188.24,2020-02-24,,peter_smt@gmail.com,+1-312-803-3536,,
+USR-00115,Enterprise,$35.61,,,,+1-278-303-8899,26.01,7.3%
+USR-00116,Starter,$4.45,2020-02-20,Inactive for 30+ days,rosa@company.io,+1-697-355-1093,21.64,37.8%
+USR-00117,Free,,2019-12-26,"Heavy API user, near rate limit",frank_tfk@mail.org,+1-596-894-3893,15.27,71.0%
+USR-00118,Starter,$75.57,2020-02-03,Inactive for 30+ days,tina53@company.io,+1-991-485-1718,19.33,2.0%
+USR-00119,Pro,126.0,2019-08-29,Uses SSO with corporate IdP,quinn@yahoo.com,+1-509-287-4660,-3.41,57.0%
+USR-00120,Enterprise,$80.36,,Reported bug in dashboard,bob9@yahoo.com,+1-548-986-9083,5.42,33.5%
+USR-00121,,$119.27,2019-10-15,"Power user, active daily",,+1-434-830-8285,8.54,0.9%
+USR-00122,Starter,$218.01,2019-07-01,,sam34@business.net,+1-917-218-2663,5.51,19.0%
+USR-00123,Starter,$9.69,2020-03-09,Reported bug in dashboard,peter@company.io,+1-368-242-3162,-0.37,94.1
+USR-00124,Starter,,2019-11-04,"Power user, active daily",sam22@business.net,+1-958-719-1387,15.36,52.1%
+USR-00125,Starter,$72.34,2019-08-23,Trial period ending soon,mia_wmd@proton.me,+1-648-608-7007,23.09,99.7%
+USR-00126,Starter,$634.28,2019-08-27,Requested custom integration,noah_wuj@outlook.com,+1-915-540-1336,11.9,
+USR-00127,Enterprise,$51.87,2019-06-30,Inactive for 30+ days,mia@outlook.com,+1-925-637-7034,17.19,54.4%
+USR-00128,Enterprise,$39.73,2020-01-19,Uses SSO with corporate IdP,sam24@business.net,+1-850-656-2742,11.66,39.2
+USR-00129,Pro,$75.34,2020-04-23,Submitted feature request for exports,grace_mev@mail.org,+1-628-585-1549,8.47,31.0
+USR-00130,Pro,164.02,2019-07-11,"Power user, active daily",hank@fastmail.fm,+1-485-546-7918,19.35,
+USR-00131,Pro,$64.77,2019-09-08,"Power user, active daily",bob46@mail.org,+1-268-166-2429,0.57,34.3%
+USR-00132,,$178.93,2019-09-27,Trial period ending soon,eve31@gmail.com,+1-469-998-6859,-2.91,46.0
+USR-00133,Pro,56.57,2019-08-10,"Power user, active daily",jack81@yahoo.com,+1-686-510-9308,0.46,19.2%
+USR-00134,Pro,$93.87,,Submitted feature request for exports,tina_nij@outlook.com,+1-449-996-3253,18.83,22.5
+USR-00135,Enterprise,"$1,317.99",2019-06-28,Trial period ending soon,leo73@company.io,+1-323-124-3654,,27.2
+USR-00136,,$138.20,2019-11-14,"Heavy API user, near rate limit",grace_rxx@fastmail.fm,+1-288-684-4060,15.01,44.9%
+USR-00137,Enterprise,$152.17,2020-01-22,"Power user, active daily",iris@business.net,,25.42,65.3%
+USR-00138,Enterprise,15.38,2020-01-03,Inactive for 30+ days,sam@fastmail.fm,+1-875-659-7116,2.69,85.6%
+USR-00139,Starter,$457.21,2019-10-05,"Power user, active daily",sam61@outlook.com,+1-770-369-8829,21.63,28.7
+USR-00140,pro,$323.68,,Inactive for 30+ days,tina_cmp@mail.org,+1-268-908-4039,8.83,18.4%
+USR-00141,Starter,$38.19,2020-03-15,"Power user, active daily",carol_kfu@outlook.com,+1-796-523-2898,7.61,37.9%
+USR-00142,Pro,316.1,2020-01-26,Inactive for 30+ days,leo8@fastmail.fm,+1-773-140-4805,12.65,89.4%
+USR-00143,pro,$133.72,2020-04-20,,rosa19@company.io,,13.9,1.0%
+USR-00144,Enterprise,$95.17,2019-12-15,Reported bug in dashboard,,+1-336-864-7401,10.32,67.8%
+USR-00145,Pro,$423.75,2019-11-25,,hank49@company.io,+1-211-480-1982,16.88,47.7%
+USR-00146,,$48.68,2020-03-12,"Power user, active daily",eve@business.net,+1-722-907-1199,12.68,16.1%
+USR-00147,Enterprise,,2020-03-01,"Power user, active daily",,+1-315-637-5356,10.41,32.1%
+USR-00148,Free,$115.48,2020-03-04,Trial period ending soon,dave36@outlook.com,+1-799-643-1145,8.67,
+USR-00149,,$169.67,2020-01-01,Trial period ending soon,sam17@fastmail.fm,+1-510-930-3245,13.91,
+USR-00150,Enterprise,$287.03,2019-08-17,"Heavy API user, near rate limit",leo_iso@proton.me,+1-527-349-8870,1.15,48.2%
+USR-00151,Enterprise,$75.10,2020-02-05,,kate_ept@mail.org,,3.4,56.3%
+USR-00152,Free,,2020-03-31,Uses SSO with corporate IdP,kate_tbn@outlook.com,+1-689-590-4508,9.06,
+USR-00153,Enterprise,$1871.10,2019-12-10,Uses SSO with corporate IdP,peter@company.io,+1-301-276-7354,16.36,64.0%
+USR-00154,Enterprise,$24.44,2020-03-05,"Power user, active daily",carol97@yahoo.com,+1-766-748-9870,29.14,49.6
+USR-00155,Enterprise,$96.17,2019-12-30,Submitted feature request for exports,peter52@outlook.com,+1-272-249-3080,10.73,1.8%
+USR-00156,Free,$229.44,2019-11-19,"Heavy API user, near rate limit",rosa12@company.io,,-2.19,33.5
+USR-00157,Pro,,,Trial period ending soon,hank_qob@company.io,+1-689-625-2189,5.68,18.4%
+USR-00158,Enterprise,45.58,2019-07-03,Trial period ending soon,peter@business.net,+1-779-268-5047,17.27,
+USR-00159,Free,$9.49,2020-01-25,"Heavy API user, near rate limit",kate50@fastmail.fm,+1-841-871-7774,4.24,5.7%
+USR-00160,Free,,2020-02-16,Reported bug in dashboard,alice@gmail.com,,1.55,56.4%
+USR-00161,Enterprise,$253.05,2020-05-01,"Power user, active daily",grace_pas@business.net,+1-468-516-1977,17.23,21.1%
+USR-00162,Starter,$193.45,2019-11-17,,quinn_kda@mail.org,+1-970-542-1703,15.72,94.9
+USR-00163,,201.17,2019-12-22,"Heavy API user, near rate limit",iris_jkv@mail.org,+1-528-899-7465,0.22,33.6%
+USR-00164,Enterprise,211.45,2019-10-26,,kate26@fastmail.fm,+1-228-297-7122,4.84,32.5
+USR-00165,Pro,$449.48,2020-03-23,Inactive for 30+ days,alice58@company.io,+1-600-560-4681,21.96,92.3%
+USR-00166,Pro,$35.48,,Requested custom integration,frank@company.io,+1-966-230-8853,18.82,41.7%
+USR-00167,Starter,21.38,2020-01-07,Trial period ending soon,sam_tvr@mail.org,+1-829-909-9348,2.42,96.3%
+USR-00168,Free,$140.41,,"Heavy API user, near rate limit",leo60@company.io,+1-616-761-3576,-3.91,2.4%
+USR-00169,Pro,$25.58,2019-09-06,Uses SSO with corporate IdP,quinn4@company.io,+1-447-713-9540,14.15,30.6
+USR-00170,Pro,$19.82,2019-06-23,Requested custom integration,peter_kiz@outlook.com,+1-494-609-2229,9.63,66.6%

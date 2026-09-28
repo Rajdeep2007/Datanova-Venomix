@@ -1,0 +1,44 @@
+[
+    {
+        "column_name": "client_uuid",
+        "semantic_type": "id",
+        "recommended_action": "drop",
+        "reasoning": "This is a unique identifier (UUID) for clients, which has no predictive value for modeling."
+    },
+    {
+        "column_name": "transaction_amount_usd",
+        "semantic_type": "currency",
+        "recommended_action": "impute_median",
+        "reasoning": "This represents a continuous monetary value. Missing values are best handled by median imputation."
+    },
+    {
+        "column_name": "user_feedback_comments",
+        "semantic_type": "free_text",
+        "recommended_action": "extract_sentiment",
+        "reasoning": "Unstructured text fields contain valuable sentiment or keywords but cannot be used as-is. NLP feature extraction is recommended."
+    },
+    {
+        "column_name": "is_active_subscriber",
+        "semantic_type": "categorical_low_card",
+        "recommended_action": "impute_mode",
+        "reasoning": "This is a boolean or low-cardinality indicator. Missing values should be imputed with the most frequent class (mode)."
+    },
+    {
+        "column_name": "postal_code",
+        "semantic_type": "zip_code",
+        "recommended_action": "target_encode",
+        "reasoning": "Zip codes are high-cardinality categorical variables. One-hot encoding would explode the feature space, so target encoding is preferred."
+    },
+    {
+        "column_name": "product_sku_code",
+        "semantic_type": "categorical_high_card",
+        "recommended_action": "drop",
+        "reasoning": "SKU codes are often too granular and high-cardinality to be useful unless grouped into broader categories. If grouping isn't possible, drop."
+    },
+    {
+        "column_name": "discount_pct",
+        "semantic_type": "percentage",
+        "recommended_action": "impute_median",
+        "reasoning": "Percentages are continuous numeric features bounded between 0 and 100. Median imputation handles missingness robustly."
+    }
+]

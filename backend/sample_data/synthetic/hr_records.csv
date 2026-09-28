@@ -1,0 +1,181 @@
+employee_id,department,salary,years_experience,hire_date,phone_number,performance_notes,bonus_pct
+EMP-00001,Engineering,$135.76,,2019-12-12,(225) 629-7143,Strong team player,71.2%
+EMP-00002,Marketing,23.71,8.6,2019-08-22,(726) 922-9335,Needs improvement in communication,82.6
+EMP-00003,Operations,235.8,4.39,2019-11-03,(656) 598-1718,Recently promoted to senior role,10.1
+EMP-00004,Sales,55.81,21.15,2019-08-16,(503) 767-4154,Pending review,24.0%
+EMP-00005,HR,$65.74,12.56,2019-06-10,(528) 626-2349,Completed leadership training program,
+EMP-00006,Engineering,$48.95,0.01,2019-10-14,(298) 271-9814,Pending review,34.8
+EMP-00007,Marketing,$129.40,5.42,2019-08-01,(746) 107-2072,Pending review,45.0%
+EMP-00008,HR,35.08,12.66,2019-09-11,(415) 786-4492,Recognized for innovation award,74.9%
+EMP-00009,Finance,265.54,4.0,2020-01-10,(901) 534-2702,Met all quarterly targets,65.1%
+EMP-00010,Engineering,76.2,9.76,2019-10-31,(410) 650-8130,"New hire, initial evaluation pending",62.1%
+EMP-00011,Marketing,58.15,12.75,2020-05-20,(862) 936-2181,Exceeds expectations consistently,35.2%
+EMP-00012,Operations,222.17,,2020-04-21,(964) 802-3519,Needs improvement in communication,84.1%
+EMP-00013,Marketing,61.35,7.46,2020-02-23,(224) 570-6434,Needs improvement in communication,47.1
+EMP-00014,Finance,$280.85,7.66,2019-09-30,(238) 189-2200,"New hire, initial evaluation pending",97.9%
+EMP-00015,Engineering,291.64,5.94,2019-10-01,(255) 282-5127,Recently promoted to senior role,63.4%
+EMP-00016,Marketing,$18.14,9.51,2020-05-10,(771) 172-4729,"New hire, initial evaluation pending",12.6%
+EMP-00017,marketing,340.74,,2019-10-11,(464) 517-7357,Recognized for innovation award,
+EMP-00018,Engineering,$15.57,8.71,2019-09-03,(661) 745-7626,,32.5%
+EMP-00019,Operations,$367.20,6.13,2019-07-23,(643) 423-1276,Completed leadership training program,68.6%
+EMP-00020,Sales,1026.62,11.16,2019-12-21,(598) 789-2938,Recently promoted to senior role,7.0
+EMP-00021,Finance,$257.19,8.25,2019-06-18,(747) 106-2036,Met all quarterly targets,17.5%
+EMP-00022,Engineering,6.76,6.85,2019-07-26,(974) 863-1745,Recognized for innovation award,
+EMP-00023,Marketing,$322.56,,2019-06-29,(917) 968-2189,Met all quarterly targets,22.7%
+EMP-00024,Finance,1333.22,0.19,2019-08-30,(566) 614-2738,,83.7
+EMP-00025,HR,$62.57,1.34,2019-08-06,(496) 905-5937,Pending review,27.9
+EMP-00026,Sales,$86.35,9.39,2020-02-19,(821) 188-5612,Recognized for innovation award,64.3%
+EMP-00027,Sales,21.62,7.6,2020-02-07,(983) 548-7249,Exceeds expectations consistently,69.4%
+EMP-00028,,$130.91,,2020-01-21,(604) 941-1504,Recently promoted to senior role,51.3%
+EMP-00029,Engineering,412.82,11.23,2019-10-08,(685) 260-9740,,30.5%
+EMP-00030,Marketing,207.95,14.87,2020-05-18,(425) 239-7406,Pending review,21.3
+EMP-00031,,$3906.36,5.01,2020-03-25,(758) 402-3360,"New hire, initial evaluation pending",3.3%
+EMP-00032,Operations,$93.66,-0.7,2020-03-12,(505) 793-7113,Needs improvement in communication,30.4%
+EMP-00033,Marketing,$12.72,4.45,2020-03-04,(211) 666-3316,"New hire, initial evaluation pending",65.3%
+EMP-00034,,110.52,12.27,2019-12-24,(326) 142-1082,,93.8
+EMP-00035,operations,$4.95,10.74,2019-10-28,(786) 710-7456,"New hire, initial evaluation pending",87.1
+EMP-00036,Marketing,$47.48,3.39,2019-11-18,(750) 660-2394,Recently promoted to senior role,76.6%
+EMP-00037,Finance,$632.23,15.61,2020-03-10,(512) 315-6633,Completed leadership training program,78.8%
+EMP-00038,Marketing,132.97,14.74,2020-03-03,(416) 522-9397,Needs improvement in communication,66.5%
+EMP-00039,Sales,$111.64,4.33,2020-05-07,(345) 264-4014,"New hire, initial evaluation pending",26.0%
+EMP-00040,,$800.26,4.28,2020-02-24,(426) 731-5140,Recently promoted to senior role,90.7%
+EMP-00041,HR,$65.06,5.04,2019-07-04,(398) 217-3971,"New hire, initial evaluation pending",67.1
+EMP-00042,Sales,409.19,5.46,2019-06-13,(887) 918-1891,Recognized for innovation award,56.0%
+EMP-00043,Marketing,105.13,12.75,2020-03-20,(969) 662-8557,Recently promoted to senior role,11.1%
+EMP-00044,Operations,$142.03,10.13,2019-11-28,(860) 662-2198,,44.7%
+EMP-00045,Finance,$20.89,12.39,2019-12-29,(497) 787-2103,Pending review,46.0
+EMP-00046,engineering,50.48,11.37,2020-01-18,(456) 200-4234,Recognized for innovation award,86.5%
+EMP-00047,Operations,16.83,16.57,2019-06-16,(943) 694-8982,,54.7%
+EMP-00048,Sales,80.29,2.7,2020-01-11,(538) 465-3100,Met all quarterly targets,38.0%
+EMP-00049,Finance,143.81,9.9,2020-02-13,(887) 771-4842,Completed leadership training program,97.7%
+EMP-00050,Sales,23.76,-2.87,2020-04-18,(302) 391-2143,,11.1%
+EMP-00051,HR,$1052.60,1.42,2019-11-11,(398) 425-8960,,42.3%
+EMP-00052,Sales,$125.68,7.63,2020-04-03,(661) 436-6008,Recognized for innovation award,4.2%
+EMP-00053,Sales,96.48,10.09,2019-09-01,(910) 698-3496,Exceeds expectations consistently,74.0%
+EMP-00054,Operations,226.69,7.49,2020-05-22,(779) 680-6971,,91.8%
+EMP-00055,Operations,33.29,5.16,2019-07-16,(523) 538-3762,Needs improvement in communication,28.0
+EMP-00056,Marketing,$109.53,6.05,2020-02-04,(204) 420-5033,Recently promoted to senior role,85.8%
+EMP-00057,Marketing,$38.08,14.85,2020-03-29,(426) 829-8145,Needs improvement in communication,29.2%
+EMP-00058,Finance,$584.30,6.08,2020-04-19,(483) 960-6889,Pending review,91.1
+EMP-00059,Sales,$25.27,16.75,2019-08-03,(337) 795-6432,Met all quarterly targets,75.4%
+EMP-00060,operations,$97.11,11.97,2019-09-02,(691) 573-8296,Met all quarterly targets,80.5%
+EMP-00061,HR,133.64,10.29,2020-03-06,(567) 893-6004,Completed leadership training program,1.8%
+EMP-00062,Sales,144.57,2.03,2019-10-17,(698) 664-2783,Pending review,96.3
+EMP-00063,HR,$44.81,12.68,2020-05-06,(379) 761-2343,Completed leadership training program,72.7%
+EMP-00064,Engineering,$30.73,5.53,2019-07-07,(487) 979-3293,"New hire, initial evaluation pending",30.5
+EMP-00065,Finance,$45.60,2.03,2019-11-27,(751) 301-5312,"New hire, initial evaluation pending",82.9
+EMP-00066,Sales,169.69,10.56,2019-06-01,(951) 741-2252,,28.2%
+EMP-00067,Marketing,$75.75,1.06,2019-11-26,(944) 177-1305,Recently promoted to senior role,87.3%
+EMP-00068,,$234.03,4.19,2020-02-25,(719) 746-1511,Met all quarterly targets,11.3%
+EMP-00069,Operations,159.56,7.95,2019-12-11,(795) 692-7637,Recently promoted to senior role,70.4%
+EMP-00070,Sales,$5.86,,2019-11-14,(987) 704-4485,Needs improvement in communication,54.1
+EMP-00071,Operations,$121.15,4.57,2020-01-23,(237) 664-5269,Pending review,9.7%
+EMP-00072,Marketing,1340.16,5.71,2019-12-18,(756) 652-8734,Completed leadership training program,24.2%
+EMP-00073,HR,$441.56,11.66,2019-12-10,(869) 893-3435,Needs improvement in communication,1.2%
+EMP-00074,Sales,149.37,1.81,2019-09-04,(574) 501-4658,"New hire, initial evaluation pending",46.9
+EMP-00075,Finance,$25.25,10.21,2019-12-17,(990) 703-5767,Strong team player,30.1%
+EMP-00076,Marketing,$159.66,14.03,2020-01-30,(337) 575-9210,,59.8%
+EMP-00077,Sales,$218.70,6.46,2019-09-10,(722) 192-7500,Completed leadership training program,29.7%
+EMP-00078,Marketing,$66.39,13.13,2019-07-18,(572) 614-1173,Completed leadership training program,30.0%
+EMP-00079,Operations,$131.64,9.46,2020-03-05,(878) 344-3717,Met all quarterly targets,74.3
+EMP-00080,HR,$550.92,4.35,2020-03-07,(975) 626-3299,Recognized for innovation award,4.8%
+EMP-00081,Sales,32.18,7.01,2019-06-09,(656) 263-3935,Recently promoted to senior role,90.3%
+EMP-00082,Finance,25.28,6.1,2020-04-12,(779) 679-3395,,85.2%
+EMP-00083,Engineering,206.69,7.56,2019-09-22,(953) 849-8921,Met all quarterly targets,66.8%
+EMP-00084,Operations,$155.87,8.76,2020-01-22,(567) 141-4585,,59.3%
+EMP-00085,Finance,$309.39,,2020-02-02,(979) 599-4796,Met all quarterly targets,89.2
+EMP-00086,Marketing,178.35,10.54,2020-03-16,(264) 370-7052,,18.5%
+EMP-00087,Operations,$45.54,-4.16,2019-06-08,(439) 143-4387,,7.9%
+EMP-00088,Sales,$151.20,7.51,2020-01-05,(730) 910-6918,Recently promoted to senior role,24.0
+EMP-00089,Marketing,22.86,0.45,2020-05-21,(597) 580-8448,Met all quarterly targets,79.5%
+EMP-00090,Marketing,$66.66,6.62,2019-06-11,(247) 140-6309,,3.5%
+EMP-00091,Finance,$164.57,7.38,2020-02-21,(305) 820-9542,Met all quarterly targets,58.3
+EMP-00092,HR,58.4,12.88,2020-01-04,(848) 949-5480,Met all quarterly targets,99.5%
+EMP-00093,Operations,$1740.04,7.85,2020-03-26,(959) 369-9918,Recognized for innovation award,
+EMP-00094,Engineering,9.29,9.3,2020-04-30,(783) 278-7171,Completed leadership training program,52.1%
+EMP-00095,Operations,$46.67,11.97,2020-04-22,(869) 487-6985,Strong team player,6.4
+EMP-00096,Sales,$29.21,14.14,2019-11-22,(801) 769-2275,Needs improvement in communication,83.1%
+EMP-00097,Engineering,38.85,7.38,2019-06-23,(729) 357-7165,Needs improvement in communication,59.9%
+EMP-00098,Marketing,$41.61,8.47,2019-07-22,(428) 628-7649,Needs improvement in communication,11.5%
+EMP-00099,Marketing,$18.33,8.05,2020-02-10,(561) 936-6653,,9.4%
+EMP-00100,Marketing,222.13,5.29,2019-06-06,(698) 911-8898,Recognized for innovation award,
+EMP-00101,Engineering,46.69,4.15,2020-05-03,(818) 106-9222,Exceeds expectations consistently,66.9%
+EMP-00102,HR,$109.54,-3.36,2019-07-12,(342) 550-3713,"New hire, initial evaluation pending",82.9%
+EMP-00103,HR,53.42,2.62,2019-09-05,(435) 178-9430,Exceeds expectations consistently,87.9%
+EMP-00104,,$39.29,-0.89,2019-12-31,(858) 387-4465,,57.2%
+EMP-00105,Engineering,669.64,14.28,2019-08-11,(353) 291-3578,Completed leadership training program,51.7%
+EMP-00106,,272.47,8.94,2020-04-16,(570) 716-2938,Recognized for innovation award,43.0%
+EMP-00107,Engineering,9.57,7.37,2019-06-25,(876) 335-7793,Completed leadership training program,31.7
+EMP-00108,Finance,$8.42,4.41,2019-10-23,(538) 837-2856,,43.5%
+EMP-00109,operations,314.55,8.15,2019-10-12,(693) 791-8844,Recognized for innovation award,77.4%
+EMP-00110,Operations,48.24,3.76,2019-06-26,(690) 315-3641,Recently promoted to senior role,60.2%
+EMP-00111,Operations,12.44,8.87,2020-04-06,(862) 953-7732,,89.3%
+EMP-00112,Sales,315.73,9.23,2019-12-23,(222) 349-1706,Strong team player,44.3%
+EMP-00113,HR,$110.27,3.69,2019-07-10,(330) 687-3639,"New hire, initial evaluation pending",60.7
+EMP-00114,Sales,$121.74,3.6,2019-09-13,(337) 744-9399,Recently promoted to senior role,63.1
+EMP-00115,,$237.80,12.81,2019-06-27,(240) 686-3406,Pending review,59.2%
+EMP-00116,Sales,$18.69,7.74,2020-05-14,(257) 270-5231,Met all quarterly targets,70.3%
+EMP-00117,Finance,$12.71,4.09,2019-08-31,(384) 629-7642,,23.7%
+EMP-00118,Sales,600.13,6.15,2020-02-12,(813) 677-1305,Strong team player,51.2
+EMP-00119,Operations,16.05,2.95,2019-10-19,(936) 845-5644,Exceeds expectations consistently,10.4
+EMP-00120,Sales,$20.77,7.66,2019-08-18,(287) 321-8359,"New hire, initial evaluation pending",38.5%
+EMP-00121,HR,26.39,12.16,2019-10-29,(821) 582-8891,Pending review,
+EMP-00122,Marketing,$1092.18,7.86,2019-09-12,(374) 324-7730,,65.2%
+EMP-00123,hr,$162.72,19.82,2019-12-07,(815) 246-3979,"New hire, initial evaluation pending",95.1%
+EMP-00124,Marketing,286.72,10.11,2019-06-15,(838) 775-9369,Exceeds expectations consistently,60.1%
+EMP-00125,Marketing,113.91,9.15,2019-11-19,(470) 271-6614,"New hire, initial evaluation pending",74.4%
+EMP-00126,Engineering,$43.72,,2020-05-01,(664) 710-2127,Completed leadership training program,50.6%
+EMP-00127,Marketing,192.01,,2019-09-18,(435) 487-7315,Pending review,63.4%
+EMP-00128,Operations,$13.90,4.1,2019-08-07,(335) 211-1271,Strong team player,7.1%
+EMP-00129,Engineering,24.18,-2.83,2019-11-15,(407) 635-9263,,25.4%
+EMP-00130,Operations,216.93,12.87,2020-04-23,(900) 529-3450,Needs improvement in communication,36.2%
+EMP-00131,Finance,17.66,5.44,2020-04-02,(820) 198-3906,"New hire, initial evaluation pending",47.2
+EMP-00132,Finance,$71.74,4.2,2019-07-02,(687) 729-1639,,4.6%
+EMP-00133,Operations,$75.78,9.05,2019-12-20,(744) 615-2925,Completed leadership training program,14.0%
+EMP-00134,engineering,47.73,10.56,2019-08-02,(295) 593-3135,Exceeds expectations consistently,27.7%
+EMP-00135,Engineering,8.66,6.4,2019-09-07,(817) 652-1019,Exceeds expectations consistently,97.2%
+EMP-00136,,$42.32,7.99,2019-07-29,(993) 794-8069,,33.1%
+EMP-00137,Sales,$33.45,11.73,2020-04-27,(734) 530-7068,Pending review,48.2
+EMP-00138,,109.26,,2019-08-27,(244) 814-9680,Recognized for innovation award,19.6
+EMP-00139,Operations,$102.78,9.51,2020-03-30,(639) 334-8899,Needs improvement in communication,61.1
+EMP-00140,Sales,141.68,-0.3,2019-11-04,(987) 490-6742,Completed leadership training program,28.1%
+EMP-00141,Engineering,40.0,1.79,2019-10-03,(803) 923-2600,Completed leadership training program,20.7%
+EMP-00142,Sales,$168.57,11.03,2019-11-24,(635) 237-5170,Recognized for innovation award,51.7
+EMP-00143,Operations,13.91,1.53,2019-12-08,(688) 884-4809,Recently promoted to senior role,0.6
+EMP-00144,Engineering,$10.11,9.17,2020-01-12,(285) 390-9908,Strong team player,0.8%
+EMP-00145,Finance,$5.46,7.27,2019-08-05,(618) 363-4096,"New hire, initial evaluation pending",21.9
+EMP-00146,Engineering,49.44,,2019-12-04,(205) 826-1116,Recently promoted to senior role,3.7%
+EMP-00147,HR,$36.45,3.86,2019-09-20,(791) 635-2930,Met all quarterly targets,10.8%
+EMP-00148,Marketing,232.1,12.55,2019-06-22,(732) 107-7144,Recently promoted to senior role,33.9%
+EMP-00149,Finance,$41.33,16.65,2019-06-02,(870) 310-6175,,80.3%
+EMP-00150,Sales,$124.97,9.5,2019-06-05,(618) 470-2746,Recognized for innovation award,57.2%
+EMP-00151,Sales,$238.88,9.61,2020-02-20,(358) 536-5155,Completed leadership training program,51.3%
+EMP-00152,Finance,$39.50,4.59,2020-02-16,(467) 975-9783,Completed leadership training program,29.3%
+EMP-00153,,128.72,2.02,2019-08-04,(633) 678-6990,Strong team player,93.2%
+EMP-00154,HR,$299.56,7.8,2019-11-02,(826) 382-7511,,39.7%
+EMP-00155,engineering,$20.37,3.13,2019-12-14,(973) 308-7770,Pending review,8.7%
+EMP-00156,Engineering,92.74,-0.86,2019-06-17,(765) 902-8904,Met all quarterly targets,61.7%
+EMP-00157,Finance,39.71,12.02,2019-11-13,(383) 479-8925,Pending review,11.4%
+EMP-00158,Marketing,$21.99,12.26,2019-07-13,(459) 414-6641,Completed leadership training program,34.5%
+EMP-00159,Finance,$14.24,3.71,2019-06-28,(992) 822-7522,Completed leadership training program,50.7
+EMP-00160,Operations,21.57,9.22,2019-09-06,(953) 241-2951,Pending review,87.4
+EMP-00161,Sales,$96.74,13.01,2020-05-23,(965) 335-8317,Recently promoted to senior role,49.4%
+EMP-00162,HR,$13.03,9.03,2020-03-01,(916) 265-2642,,70.2%
+EMP-00163,Sales,$46.48,2.03,2020-01-19,(419) 620-7562,Strong team player,99.3%
+EMP-00164,Engineering,$238.85,6.84,2019-08-20,(546) 920-1852,Recognized for innovation award,13.1%
+EMP-00165,Marketing,154.29,14.63,2019-07-03,(364) 498-1086,Strong team player,27.5%
+EMP-00166,Sales,47.63,,2020-04-14,(293) 943-3381,Recognized for innovation award,39.5
+EMP-00167,Operations,$683.77,,2020-04-20,(682) 714-8133,Met all quarterly targets,42.2
+EMP-00168,Operations,872.75,9.71,2019-12-16,(290) 165-5310,Needs improvement in communication,41.1%
+EMP-00169,engineering,92.88,3.72,2020-03-28,(427) 479-2311,Recently promoted to senior role,90.8
+EMP-00170,Marketing,$4.65,4.9,2020-04-28,(823) 138-7296,Met all quarterly targets,71.4%
+EMP-00171,Marketing,260.8,9.69,2019-11-16,(610) 728-9536,"New hire, initial evaluation pending",
+EMP-00172,HR,5.74,12.08,2019-10-18,(493) 828-1941,Pending review,30.9
+EMP-00173,Sales,$529.20,13.5,2019-12-06,(992) 939-3871,Pending review,82.4%
+EMP-00174,Engineering,$330.40,3.71,2019-08-24,(855) 606-8192,Met all quarterly targets,
+EMP-00175,Sales,756.77,10.17,2019-08-28,(210) 306-9489,Strong team player,82.1%
+EMP-00176,HR,$123.02,13.94,2019-09-23,(492) 299-1550,Strong team player,0.2%
+EMP-00177,HR,58.34,3.06,2019-10-25,(813) 622-9451,,63.6%
+EMP-00178,HR,$52.45,15.43,2020-02-17,(915) 337-3776,Exceeds expectations consistently,5.1
+EMP-00179,HR,$46.73,16.19,2020-04-13,(890) 136-6893,Strong team player,25.8
+EMP-00180,Operations,292.15,21.13,2019-08-26,(444) 770-1004,Pending review,6.0

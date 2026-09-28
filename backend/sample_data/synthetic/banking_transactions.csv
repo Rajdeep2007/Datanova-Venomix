@@ -1,0 +1,251 @@
+transaction_id,account_type,amount,transaction_date,merchant_category,fee_pct,memo,branch_zip,balance
+TXN-00001,Savings,189.64,12/06/2018,Utility,7.5%,Wire transfer to savings,43166,5401.72
+TXN-00002,Investment,54.12,03/21/2019,Hardware,,Mobile check deposit,17500,3370.64
+TXN-00003,Investment,"$1,299.67",11/28/2018,Hardware,48.3%,,13988,2968.05
+TXN-00004,Checking,$535.24,,Grocery,89.7%,Mobile check deposit,71709,6408.02
+TXN-00005,Investment,$224.74,,Hardware,,Recurring bill payment,92868,8747.81
+TXN-00006,Credit,$8.76,06/16/2018,Grocery,39.9,ATM withdrawal,32776,2745.71
+TXN-00007,Investment,$186.27,10/27/2018,Hardware,41.5%,Refund processed,94875,630.37
+TXN-00008,Savings,60.1,01/24/2019,Restaurant,40.8,Overdraft fee applied,23616-1472,2828.85
+TXN-00009,Savings,$27.82,05/19/2018,Education,32.5%,Direct deposit - payroll,90336,1546.13
+TXN-00010,Checking,58.29,11/20/2018,Pet Store,78.2%,ATM withdrawal,30079,7274.91
+TXN-00011,Credit,31.77,12/27/2018,Bookstore,,ATM withdrawal,33187,5185.62
+TXN-00012,Investment,$165.37,,Auto Parts,,International transaction fee,27255-2956,11781.71
+TXN-00013,Checking,$625.90,,Insurance,4.5%,Direct deposit - payroll,17346,7771.4
+TXN-00014,Credit,242.56,02/19/2019,Department Store,,Wire transfer to savings,18169,11548.5
+TXN-00015,Savings,$2477.56,03/24/2018,Restaurant,29.2,Mobile check deposit,81314,
+TXN-00016,Checking,13.95,04/22/2019,Coffee Shop,,Recurring bill payment,35451,-6185.01
+TXN-00017,Savings,$49.05,08/13/2018,Gas Station,8.8%,Wire transfer to savings,12185,6050.47
+TXN-00018,Credit,$29.03,12/07/2018,Travel,80.6,,98079,5631.27
+TXN-00019,savings,393.56,,Bakery,66.9,Direct deposit - payroll,51481,4770.25
+TXN-00020,Savings,$69.09,12/25/2018,Auto Parts,73.2%,,32179,
+TXN-00021,Savings,$113.00,05/13/2018,Subscription,43.2,Recurring bill payment,86919,
+TXN-00022,Investment,192.56,10/09/2018,Gas Station,68.0,Mobile check deposit,58005,7171.13
+TXN-00023,Checking,15.71,01/20/2018,Hardware,60.9,International transaction fee,97096,7776.68
+TXN-00024,Credit,$42.71,04/03/2018,Utility,76.9%,Recurring bill payment,97519,1000.88
+TXN-00025,Investment,$297.89,06/02/2018,Travel,44.7%,Wire transfer to savings,18513,3962.27
+TXN-00026,Investment,46.63,,Travel,47.3,Monthly subscription payment,75735-5368,4178.48
+TXN-00027,Credit,$11.51,02/27/2018,Travel,64.4%,Mobile check deposit,21005,
+TXN-00028,,30.49,,Pet Store,10.8%,Refund processed,15833,1136.11
+TXN-00029,Checking,63.85,03/20/2018,Pharmacy,43.6%,,36041,5243.77
+TXN-00030,Credit,109.96,07/06/2018,Healthcare,97.2%,Refund processed,63641,6112.82
+TXN-00031,Savings,$82.68,02/03/2018,Bookstore,3.8%,Overdraft fee applied,10422,
+TXN-00032,Investment,43.07,07/04/2018,Utility,31.6%,Direct deposit - payroll,83473,1382.24
+TXN-00033,Investment,277.88,,Pharmacy,31.4%,Monthly subscription payment,54754,6636.95
+TXN-00034,Credit,$77.10,,Bakery,63.3,Overdraft fee applied,21284,2514.38
+TXN-00035,Checking,115.73,05/09/2019,Bookstore,10.6%,,70687-2483,4117.78
+TXN-00036,Investment,45.92,11/08/2018,Restaurant,,Recurring bill payment,33920,3673.73
+TXN-00037,Credit,$550.45,06/21/2018,Healthcare,9.5%,,34334,9559.98
+TXN-00038,Checking,56.26,,Online Retail,9.5%,Monthly subscription payment,92132,2674.99
+TXN-00039,Checking,98.46,10/29/2018,Bookstore,,Refund processed,32195,11239.34
+TXN-00040,Credit,$311.69,07/05/2018,Restaurant,32.4%,Wire transfer to savings,38511,
+TXN-00041,Credit,125.97,05/20/2018,Utility,97.7%,International transaction fee,70338-5042,
+TXN-00042,Credit,122.25,03/05/2019,Clothing Store,3.7%,Mobile check deposit,50341,7526.24
+TXN-00043,Checking,8.43,08/26/2018,Sporting Goods,,International transaction fee,94189,
+TXN-00044,Credit,203.72,01/12/2019,Hardware,,Mobile check deposit,35046,1989.22
+TXN-00045,Savings,$96.23,,Coffee Shop,35.1%,Overdraft fee applied,27397,3956.06
+TXN-00046,Checking,172.41,03/29/2018,Subscription,99.8,Wire transfer to savings,59716,10405.48
+TXN-00047,Credit,112.15,09/28/2018,Restaurant,88.9%,Overdraft fee applied,33331,5032.21
+TXN-00048,Credit,$46.02,06/30/2018,Auto Parts,,Mobile check deposit,84060,7513.22
+TXN-00049,Credit,263.27,09/06/2018,Florist,,Mobile check deposit,39617,5924.4
+TXN-00050,Credit,114.18,02/10/2019,Healthcare,64.8,International transaction fee,45756,
+TXN-00051,,19.16,08/10/2018,Restaurant,21.0%,International transaction fee,33214,6208.56
+TXN-00052,Checking,$432.78,04/12/2018,Florist,14.5%,ATM withdrawal,43994,6933.7
+TXN-00053,,16.17,06/07/2018,Travel,90.4,ATM withdrawal,44674-6818,2350.62
+TXN-00054,,265.37,04/24/2019,Travel,,,85850,4237.84
+TXN-00055,Checking,$536.10,12/12/2018,Grocery,99.2%,ATM withdrawal,94125,6282.6
+TXN-00056,Investment,23.87,,Clothing Store,79.0%,,92709,5772.21
+TXN-00057,Investment,77.69,06/04/2018,Education,66.4%,,32344-7318,
+TXN-00058,,69.47,01/17/2019,Auto Parts,34.6,Monthly subscription payment,30408,6658.1
+TXN-00059,Checking,73.32,06/08/2018,Florist,17.1,Direct deposit - payroll,37611,2501.01
+TXN-00060,investment,$809.39,03/26/2018,Restaurant,7.9,International transaction fee,66866,919.48
+TXN-00061,Credit,24.2,07/21/2018,Bakery,69.3%,ATM withdrawal,99393,6232.45
+TXN-00062,Checking,$62.31,05/09/2018,Healthcare,78.5,Direct deposit - payroll,37190,1005.28
+TXN-00063,Credit,546.75,02/21/2019,Education,82.6%,Wire transfer to savings,76029,6180.43
+TXN-00064,Savings,61.1,02/05/2018,Online Retail,91.4%,Mobile check deposit,45251-4452,-1641.38
+TXN-00065,credit,$29.28,02/14/2018,Gas Station,88.0%,ATM withdrawal,43844,2662.54
+TXN-00066,Checking,123.42,10/30/2018,Sporting Goods,100.0%,Monthly subscription payment,44189-2889,
+TXN-00067,Credit,236.69,12/18/2018,Hardware,24.4%,,77768,
+TXN-00068,investment,56.18,01/16/2018,Online Retail,76.3,Mobile check deposit,34435,3895.65
+TXN-00069,Checking,$175.08,,Sporting Goods,58.6,Direct deposit - payroll,71242,9347.57
+TXN-00070,Checking,17.25,02/20/2018,Gas Station,,,58795,
+TXN-00071,Checking,$18.44,07/31/2018,Healthcare,98.2%,Mobile check deposit,96285,3991.19
+TXN-00072,Investment,53.09,02/13/2019,Insurance,89.8%,Direct deposit - payroll,14436,11159.26
+TXN-00073,Credit,$182.73,06/29/2018,Subscription,12.9%,International transaction fee,23711,1483.49
+TXN-00074,Credit,$224.48,11/02/2018,Coffee Shop,2.6%,,11035,10090.28
+TXN-00075,Credit,21.79,04/02/2019,Education,68.8%,,72324,4223.48
+TXN-00076,Checking,$214.71,04/15/2018,Clothing Store,,Monthly subscription payment,94919,5556.69
+TXN-00077,Investment,$109.93,,Department Store,93.6%,Refund processed,34525,9720.19
+TXN-00078,Checking,$31.34,10/03/2018,Gas Station,23.4%,ATM withdrawal,50144,3502.16
+TXN-00079,,$18.16,05/02/2018,Bookstore,8.4%,,81667,
+TXN-00080,Checking,118.6,02/23/2019,Department Store,25.9,Refund processed,12850,8296.09
+TXN-00081,Savings,$423.04,02/05/2019,Entertainment,,Refund processed,90820,2922.15
+TXN-00082,Credit,93.94,,Pharmacy,3.6%,International transaction fee,85492,2534.99
+TXN-00083,Investment,$29.31,05/28/2018,Grocery,,Overdraft fee applied,62341,4399.89
+TXN-00084,Checking,9.57,02/02/2019,Subscription,35.2%,Recurring bill payment,41927,4509.4
+TXN-00085,Credit,564.19,04/16/2018,Bakery,41.1%,Overdraft fee applied,58918,
+TXN-00086,Checking,314.26,07/15/2018,Education,1.8%,Recurring bill payment,73249,2954.4
+TXN-00087,Checking,$129.35,01/26/2019,Subscription,,,49344-4838,
+TXN-00088,,530.38,10/07/2018,Department Store,,,76448-7977,4030.05
+TXN-00089,Credit,$117.77,02/28/2019,Bookstore,61.5,Refund processed,45305,8330.38
+TXN-00090,Credit,$47.60,04/12/2019,Education,,International transaction fee,62527,-633.41
+TXN-00091,Investment,175.24,03/14/2019,Pet Store,44.7%,Wire transfer to savings,31499,3578.99
+TXN-00092,Savings,33.26,10/19/2018,Entertainment,31.0%,Recurring bill payment,49397,13748.16
+TXN-00093,Investment,27.25,,Bakery,48.3,Overdraft fee applied,78692,5121.04
+TXN-00094,Credit,$227.22,07/17/2018,Grocery,32.3%,International transaction fee,84447,9948.78
+TXN-00095,Investment,251.37,,Utility,83.9%,Recurring bill payment,27025,1658.3
+TXN-00096,Checking,19.52,,Education,29.8%,Refund processed,17051,6770.86
+TXN-00097,Savings,20.41,05/14/2018,Restaurant,66.0%,Mobile check deposit,50537,
+TXN-00098,Investment,$52.77,12/24/2018,Entertainment,13.7%,Mobile check deposit,28541,
+TXN-00099,Credit,38.34,,Pharmacy,,,70124,
+TXN-00100,Investment,159.46,06/11/2018,Coffee Shop,91.3%,Overdraft fee applied,70370-3416,7317.42
+TXN-00101,Credit,$95.36,04/19/2018,Grocery,,,36267,3992.72
+TXN-00102,Checking,364.27,12/16/2018,Online Retail,,Direct deposit - payroll,49489,6162.27
+TXN-00103,Savings,131.72,08/27/2018,Bakery,96.1%,International transaction fee,34195,6195.72
+TXN-00104,Savings,41.53,04/28/2018,Insurance,62.7,,36649,
+TXN-00105,Checking,9.31,04/06/2018,Subscription,26.0%,Monthly subscription payment,42077,4766.82
+TXN-00106,Checking,111.65,,Sporting Goods,29.2%,Overdraft fee applied,82790,8458.99
+TXN-00107,Savings,11.56,,Florist,70.5%,,59054-3610,
+TXN-00108,Investment,$40.92,05/07/2019,Sporting Goods,73.5%,Direct deposit - payroll,55182-7456,4087.46
+TXN-00109,Checking,$37.86,01/06/2019,Coffee Shop,30.3,Direct deposit - payroll,37851,5362.54
+TXN-00110,Credit,$48.91,04/27/2018,Florist,34.5%,Mobile check deposit,97613,2033.15
+TXN-00111,Credit,$18.56,01/02/2018,Education,,,70749,6390.9
+TXN-00112,Savings,$37.70,09/03/2018,Insurance,10.2%,Monthly subscription payment,22559,6413.23
+TXN-00113,Checking,$356.06,05/12/2018,Electronics Store,,Refund processed,51727,
+TXN-00114,Savings,354.88,04/21/2019,Coffee Shop,6.2%,Wire transfer to savings,27501,5666.9
+TXN-00115,,$566.23,09/24/2018,Restaurant,82.1%,Wire transfer to savings,52875,11926.39
+TXN-00116,Savings,91.12,07/10/2018,Clothing Store,9.2%,ATM withdrawal,98440,-4903.53
+TXN-00117,Savings,$124.64,03/23/2019,Pharmacy,67.4,International transaction fee,65652,3461.7
+TXN-00118,,362.39,,Electronics Store,5.6,Mobile check deposit,80007-9000,3996.97
+TXN-00119,,$15.41,06/05/2018,Bookstore,67.3,Overdraft fee applied,97802,10299.19
+TXN-00120,Checking,236.69,10/11/2018,Gas Station,84.3,ATM withdrawal,86864-3918,6863.51
+TXN-00121,Checking,429.58,04/23/2018,Gas Station,39.9%,Monthly subscription payment,40822,6948.9
+TXN-00122,savings,30.98,04/13/2018,Healthcare,52.2%,Recurring bill payment,54544,9609.5
+TXN-00123,Investment,473.03,05/06/2019,Coffee Shop,40.2%,Mobile check deposit,10208,4570.15
+TXN-00124,Checking,1063.43,01/26/2018,Sporting Goods,30.0%,,62190,7483.14
+TXN-00125,Investment,228.93,04/09/2018,Coffee Shop,80.3%,Direct deposit - payroll,94617,3342.32
+TXN-00126,Checking,$183.72,01/18/2019,Bookstore,27.2%,ATM withdrawal,75529,1513.43
+TXN-00127,,$23.48,01/10/2019,Auto Parts,72.3%,Overdraft fee applied,37686,
+TXN-00128,Savings,$324.75,03/31/2019,Department Store,20.6,International transaction fee,22170,6491.61
+TXN-00129,Investment,26.29,10/17/2018,Auto Parts,25.0,Wire transfer to savings,95726,7456.32
+TXN-00130,Checking,$140.29,04/20/2019,Online Retail,33.6,Overdraft fee applied,29758,1419.39
+TXN-00131,Credit,158.43,04/02/2018,Sporting Goods,58.9%,Monthly subscription payment,60700,6986.23
+TXN-00132,Investment,$1.72,12/28/2018,Restaurant,45.4%,Wire transfer to savings,73000-7909,11423.81
+TXN-00133,,146.49,04/01/2019,Bakery,74.5%,Refund processed,33529,4228.92
+TXN-00134,,2091.78,07/18/2018,Pet Store,21.4%,Refund processed,99435,804.7
+TXN-00135,Credit,7.31,04/16/2019,Clothing Store,1.1%,,23950,5843.92
+TXN-00136,Investment,84.38,11/18/2018,Sporting Goods,77.7,Recurring bill payment,20831,1574.36
+TXN-00137,Checking,8.7,04/18/2018,Sporting Goods,82.2%,Refund processed,23291,-252.3
+TXN-00138,Savings,$30.79,01/19/2019,Hardware,5.9%,Overdraft fee applied,63015,2628.32
+TXN-00139,,8.88,10/12/2018,Subscription,61.1%,Recurring bill payment,11602,3475.91
+TXN-00140,Checking,109.01,08/07/2018,Travel,37.8%,,26874,
+TXN-00141,Savings,233.3,02/21/2018,Insurance,79.4,Refund processed,60330,
+TXN-00142,Checking,147.18,03/22/2019,Coffee Shop,87.4,International transaction fee,11518,11813.64
+TXN-00143,Investment,29.48,01/03/2018,Entertainment,85.1,International transaction fee,97843,7363.31
+TXN-00144,,$43.32,05/02/2019,Healthcare,77.7%,Wire transfer to savings,17144,6544.68
+TXN-00145,Credit,$124.80,01/11/2019,Subscription,26.9%,ATM withdrawal,43901,4702.83
+TXN-00146,Savings,$30.61,11/22/2018,Healthcare,81.2%,Recurring bill payment,25198,2062.84
+TXN-00147,,18.27,,Education,,Direct deposit - payroll,69017,10810.19
+TXN-00148,Credit,67.56,,Healthcare,5.3%,ATM withdrawal,72068,4980.01
+TXN-00149,Checking,28.97,01/21/2018,Hardware,45.7,Wire transfer to savings,80126,3580.95
+TXN-00150,Investment,$147.51,10/18/2018,Subscription,94.2%,Refund processed,24637,8751.65
+TXN-00151,Savings,$427.71,08/21/2018,Online Retail,88.8%,Direct deposit - payroll,65583,
+TXN-00152,,$2032.66,,Florist,10.2%,Refund processed,60262,8620.53
+TXN-00153,Credit,$135.05,05/31/2018,Healthcare,74.4%,Recurring bill payment,20486,3765.88
+TXN-00154,Savings,$195.42,12/26/2018,Hardware,80.6%,ATM withdrawal,54186,8761.73
+TXN-00155,Investment,$43.85,,Department Store,27.1,Direct deposit - payroll,87352,8629.19
+TXN-00156,Checking,$47.24,03/01/2018,Education,47.2%,International transaction fee,77488,9836.9
+TXN-00157,,420.26,09/20/2018,Gas Station,71.1%,Recurring bill payment,69636,
+TXN-00158,Savings,$64.61,02/18/2019,Education,43.9%,,70917,4909.36
+TXN-00159,,98.25,07/22/2018,Auto Parts,11.3%,Overdraft fee applied,25931,12017.2
+TXN-00160,,390.56,12/20/2018,Sporting Goods,70.6%,Recurring bill payment,70325,4337.56
+TXN-00161,Investment,$65.21,05/21/2018,Gas Station,91.2%,Recurring bill payment,88555,8038.59
+TXN-00162,,544.85,04/23/2019,Education,65.2%,Recurring bill payment,43072,
+TXN-00163,Checking,$179.04,04/11/2018,Bookstore,77.4%,Refund processed,98473,
+TXN-00164,,$155.47,10/21/2018,Pet Store,35.8%,Recurring bill payment,13084,4221.56
+TXN-00165,Savings,41.35,,Bakery,18.3,Mobile check deposit,33426,5206.55
+TXN-00166,,165.83,12/23/2018,Healthcare,64.3%,,64664-6318,
+TXN-00167,,53.79,11/06/2018,Hardware,32.8,Direct deposit - payroll,49017,3604.1
+TXN-00168,Credit,$158.11,03/06/2018,Department Store,86.0%,Monthly subscription payment,88089-1599,
+TXN-00169,Credit,79.66,09/05/2018,Healthcare,,Wire transfer to savings,79634,8201.9
+TXN-00170,Credit,$287.20,01/07/2019,Coffee Shop,,,42588,
+TXN-00171,Checking,$86.65,03/03/2018,Pharmacy,39.7%,ATM withdrawal,80121-3369,11812.63
+TXN-00172,,$1038.39,03/01/2019,Auto Parts,93.8%,Recurring bill payment,92958,7614.64
+TXN-00173,Investment,64.67,,Healthcare,15.3,,46004,1511.62
+TXN-00174,,47.39,07/01/2018,Department Store,1.0%,,70035,
+TXN-00175,Investment,136.37,02/24/2018,Clothing Store,23.8%,Direct deposit - payroll,41994,7289.43
+TXN-00176,Savings,$328.14,,Coffee Shop,82.0,Mobile check deposit,78623,5064.31
+TXN-00177,Checking,325.1,10/31/2018,Clothing Store,20.9%,Monthly subscription payment,15326-7107,2674.9
+TXN-00178,Investment,109.96,01/02/2019,Pharmacy,24.1%,,15018-2656,7116.82
+TXN-00179,,$135.22,04/13/2019,Bakery,13.0,ATM withdrawal,60058,5630.22
+TXN-00180,Investment,$135.46,02/12/2018,Travel,,Monthly subscription payment,20323,
+TXN-00181,Credit,24.69,04/29/2018,Entertainment,6.9%,Direct deposit - payroll,93458,498.61
+TXN-00182,Investment,307.63,01/13/2018,Subscription,33.1%,International transaction fee,65381,2222.94
+TXN-00183,,19.9,,Subscription,28.2%,Mobile check deposit,34108,3438.46
+TXN-00184,Credit,24.75,,Online Retail,55.5,,43666,
+TXN-00185,Investment,$96.16,12/31/2018,Gas Station,73.0,Mobile check deposit,20391,8212.66
+TXN-00186,Credit,61.32,,Department Store,,Overdraft fee applied,66811,3624.76
+TXN-00187,Checking,234.02,,Department Store,93.1,Refund processed,35119,
+TXN-00188,Credit,$153.98,08/12/2018,Sporting Goods,,International transaction fee,49741,8669.73
+TXN-00189,Checking,$106.25,01/18/2018,Pharmacy,36.1%,ATM withdrawal,80668,
+TXN-00190,Investment,$23.32,03/06/2019,Coffee Shop,77.8%,Wire transfer to savings,41949,6086.95
+TXN-00191,Credit,92.93,11/11/2018,Pet Store,73.9%,International transaction fee,16400,
+TXN-00192,Checking,84.52,06/23/2018,Bookstore,89.3%,,71986,4768.03
+TXN-00193,,117.52,03/02/2018,Insurance,,,67271,5214.92
+TXN-00194,Savings,$53.73,06/19/2018,Utility,53.0%,,34341,4880.83
+TXN-00195,Credit,168.58,03/20/2019,Hardware,,,98006-7531,7769.24
+TXN-00196,Savings,59.39,08/31/2018,Grocery,85.0,Overdraft fee applied,33758,
+TXN-00197,,$150.65,08/18/2018,Utility,23.0%,,45740-4393,1983.65
+TXN-00198,credit,$233.99,01/05/2019,Online Retail,24.0%,International transaction fee,12453,3449.25
+TXN-00199,,47.39,01/25/2019,Department Store,37.3,,96142-5375,2794.19
+TXN-00200,Checking,$35.64,10/08/2018,Travel,23.0%,International transaction fee,70613,10059.84
+TXN-00201,credit,159.44,11/26/2018,Auto Parts,56.1%,,93211,13087.22
+TXN-00202,,18.44,,Florist,,Recurring bill payment,39009,3577.33
+TXN-00203,checking,341.72,03/07/2018,Pet Store,32.0%,Wire transfer to savings,52547,4615.17
+TXN-00204,Savings,$91.21,10/25/2018,Online Retail,91.3%,Direct deposit - payroll,90135,8148.1
+TXN-00205,Credit,$78.44,04/08/2019,Pharmacy,40.9%,Refund processed,89864,2724.76
+TXN-00206,Savings,$173.33,,Restaurant,74.8,Direct deposit - payroll,87059,8227.18
+TXN-00207,Credit,$160.89,02/08/2019,Department Store,11.3,,88018,5126.96
+TXN-00208,Savings,$90.72,01/14/2019,Grocery,24.8%,International transaction fee,60992,-903.09
+TXN-00209,,$258.36,12/03/2018,Florist,80.7%,Mobile check deposit,83093-6580,648.48
+TXN-00210,Checking,$40.17,,Utility,76.3,Mobile check deposit,51896,
+TXN-00211,Credit,211.63,12/22/2018,Gas Station,38.6,Refund processed,68246,9480.32
+TXN-00212,Investment,24.67,04/30/2018,Pharmacy,95.4,ATM withdrawal,75401,2076.13
+TXN-00213,Checking,166.13,01/01/2019,Sporting Goods,91.1%,International transaction fee,32283,3330.65
+TXN-00214,,$60.74,02/13/2018,Sporting Goods,,,43514,5938.93
+TXN-00215,Savings,18.67,09/04/2018,Electronics Store,42.8,Overdraft fee applied,96599,-640.68
+TXN-00216,Credit,122.48,01/24/2018,Department Store,19.7,Direct deposit - payroll,20303,6244.94
+TXN-00217,Savings,86.37,,Education,62.7%,Monthly subscription payment,83574,-203.09
+TXN-00218,Savings,$14.14,03/13/2018,Pharmacy,,Overdraft fee applied,20891,7185.14
+TXN-00219,Investment,$7.12,01/28/2018,Electronics Store,12.5%,Mobile check deposit,79414,2369.28
+TXN-00220,Credit,$74.98,01/28/2019,Florist,,,48249,1902.83
+TXN-00221,Credit,627.58,11/27/2018,Auto Parts,1.8%,,69178,6154.79
+TXN-00222,Investment,132.32,10/22/2018,Healthcare,,Wire transfer to savings,13875,7978.97
+TXN-00223,Investment,40.37,11/09/2018,Florist,33.1%,Recurring bill payment,86668,6516.91
+TXN-00224,Investment,329.72,10/14/2018,Entertainment,74.0,International transaction fee,56088,5926.75
+TXN-00225,Investment,267.38,11/25/2018,Online Retail,,Wire transfer to savings,64446,5976.31
+TXN-00226,,414.01,03/02/2019,Subscription,82.7,,13068,6538.13
+TXN-00227,Investment,204.52,05/10/2018,Subscription,59.5%,Overdraft fee applied,47209,6768.13
+TXN-00228,Investment,260.63,03/17/2019,Coffee Shop,79.4,Direct deposit - payroll,74324,3820.02
+TXN-00229,Checking,216.44,05/17/2018,Bakery,98.9%,Monthly subscription payment,59189,7490.76
+TXN-00230,Investment,50.75,11/01/2018,Bakery,67.9%,Wire transfer to savings,27261,2406.33
+TXN-00231,Savings,$12.62,08/28/2018,Online Retail,98.5%,Mobile check deposit,26186-4576,9019.88
+TXN-00232,,48.17,03/30/2019,Restaurant,2.9,Overdraft fee applied,37696,7938.55
+TXN-00233,Credit,338.97,01/20/2019,Gas Station,,International transaction fee,84808,12833.15
+TXN-00234,Credit,56.98,,Education,10.8%,Wire transfer to savings,30855,6998.47
+TXN-00235,Investment,75.6,,Hardware,26.2%,Monthly subscription payment,62575,8381.85
+TXN-00236,Checking,$22.22,04/17/2018,Department Store,83.9%,Recurring bill payment,56140,-261.88
+TXN-00237,,46.46,09/12/2018,Bookstore,3.2%,Refund processed,64811,8495.94
+TXN-00238,Checking,89.04,,Hardware,52.0%,Overdraft fee applied,46553,9317.6
+TXN-00239,,$162.56,12/09/2018,Department Store,56.7%,ATM withdrawal,57602,10466.52
+TXN-00240,,$51.91,,Entertainment,56.1,Overdraft fee applied,97062,5621.63
+TXN-00241,,$47.74,12/15/2018,Pet Store,47.5%,Refund processed,92984,4003.37
+TXN-00242,Checking,247.3,02/17/2018,Florist,79.1%,International transaction fee,51651,1386.7
+TXN-00243,Checking,$133.00,,Pharmacy,13.4,Monthly subscription payment,79796,1706.87
+TXN-00244,Savings,$154.22,09/07/2018,Utility,31.1,Recurring bill payment,62948,5110.38
+TXN-00245,Investment,$563.40,,Coffee Shop,61.6,Refund processed,70806,-930.03
+TXN-00246,Savings,49.1,08/09/2018,Sporting Goods,69.1,Monthly subscription payment,68911,2511.23
+TXN-00247,Credit,84.87,11/12/2018,Gas Station,40.4,Refund processed,33281,5513.33
+TXN-00248,Checking,$174.41,,Pharmacy,87.5%,Mobile check deposit,10437,5435.21
+TXN-00249,Savings,31.63,01/31/2019,Grocery,41.5%,,53785,
+TXN-00250,Checking,118.49,02/09/2018,Coffee Shop,40.3%,Monthly subscription payment,96008,881.48

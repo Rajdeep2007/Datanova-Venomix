@@ -1,0 +1,161 @@
+campaign_id,channel,ad_creative,ctr_pct,spend,campaign_date,contact_email,impressions,campaign_brief
+CMP-00001,Email,Welcome Series,89.9%,$20.64,2019-10-08,iris_kcz@gmail.com,44331.18,Optimize for mobile-first experience
+CMP-00002,Social Media,New Arrival Spotlight,99.8%,$145.94,2019-12-01,carol@mail.org,88075.62,Target millennials in urban areas
+CMP-00003,Social Media,,75.3,10.74,2020-03-02,bob_tgg@yahoo.com,57848.55,A/B test headline variations
+CMP-00004,Social Media,Seasonal Lookbook,97.1%,,2019-06-20,sam_sss@gmail.com,61261.24,A/B test headline variations
+CMP-00005,Search,New Arrival Spotlight,78.7,$23.13,2019-09-27,kate@gmail.com,12524.88,Target millennials in urban areas
+CMP-00006,Social Media,UGC Showcase,96.3,$17.89,2019-08-23,iris_pap@fastmail.fm,39511.09,Optimize for mobile-first experience
+CMP-00007,Display,Cart Abandonment,70.7,$96.72,2019-12-12,mia@company.io,51531.55,Test new landing page design
+CMP-00008,Affiliate,Welcome Series,8.0,$73.18,2020-02-27,olivia_ldk@mail.org,70896.99,
+CMP-00009,display,Welcome Series,40.2,$517.05,2020-03-29,dave53@mail.org,37525.51,Retarget users who visited pricing page
+CMP-00010,Social Media,Summer Sale Banner,64.7%,19.26,2019-09-21,bob@business.net,77836.06,
+CMP-00011,Email,,35.1%,$468.75,2019-07-13,noah_frn@mail.org,15669.4,Cross-promote with partner brand
+CMP-00012,Email,Loyalty Reward,27.3%,22.98,2019-11-10,sam@yahoo.com,52086.09,Focus on brand awareness for Q4
+CMP-00013,,Seasonal Lookbook,57.7%,$271.33,2020-03-26,iris@gmail.com,47071.55,A/B test headline variations
+CMP-00014,Social Media,Retargeting Static,93.4%,$339.44,2020-03-01,grace@yahoo.com,4534.21,Target millennials in urban areas
+CMP-00015,,Cart Abandonment,3.5%,132.39,2020-03-08,carol@mail.org,48568.76,Focus on brand awareness for Q4
+CMP-00016,Display,UGC Showcase,76.9%,$34.84,2020-01-27,dave_yug@fastmail.fm,32521.86,A/B test headline variations
+CMP-00017,Affiliate,Exit Intent Popup,72.3%,$14.48,2019-08-13,eve_cla@mail.org,92413.24,A/B test headline variations
+CMP-00018,Display,Summer Sale Banner,96.4%,$8.65,2020-04-05,quinn4@mail.org,37692.32,Seasonal push for back-to-school
+CMP-00019,Social Media,FAQ Infographic,93.1%,$831.10,2019-06-24,jack69@company.io,60526.12,
+CMP-00020,,Exit Intent Popup,76.2,$63.04,,sam_zjy@outlook.com,13068.74,Test new landing page design
+CMP-00021,Search,Loyalty Reward,52.0%,$23.91,2020-03-30,bob4@yahoo.com,57097.07,
+CMP-00022,Email,,20.4%,$22.83,2019-12-28,frank@yahoo.com,37548.61,Target millennials in urban areas
+CMP-00023,Social Media,Retargeting Static,54.5%,$110.11,2020-01-18,frank@proton.me,26711.71,Target millennials in urban areas
+CMP-00024,search,Influencer Collab,76.5,,2019-06-04,rosa_dsk@fastmail.fm,135016.77,A/B test headline variations
+CMP-00025,Display,Summer Sale Banner,89.6%,$9.00,2019-11-25,bob35@yahoo.com,39396.53,Optimize for mobile-first experience
+CMP-00026,Email,Product Demo GIF,79.0%,254.03,2019-12-04,sam_clm@company.io,43641.53,Target millennials in urban areas
+CMP-00027,,Newsletter Header,19.5,$134.56,2019-12-11,frank_hxr@company.io,77059.8,Focus on brand awareness for Q4
+CMP-00028,Search,Countdown Timer,60.0,818.84,2019-10-09,kate_jcy@proton.me,26947.2,
+CMP-00029,Social Media,FAQ Infographic,33.2%,$353.88,2020-04-07,frank_qxy@mail.org,62098.17,Focus on brand awareness for Q4
+CMP-00030,TV,New Arrival Spotlight,0.9%,$2.19,2019-08-31,tina_jgg@proton.me,65309.61,
+CMP-00031,Email,Seasonal Lookbook,20.0%,$492.93,2019-07-29,alice@outlook.com,57341.01,Retarget users who visited pricing page
+CMP-00032,,Behind the Scenes,11.3%,$383.37,2019-07-12,rosa44@company.io,118890.18,A/B test headline variations
+CMP-00033,Social Media,Flash Deal Carousel,84.3,37.2,2020-03-13,noah_odn@company.io,25871.93,
+CMP-00034,TV,New Arrival Spotlight,25.9%,$53.57,2019-09-02,iris@proton.me,96128.02,Test new landing page design
+CMP-00035,,Loyalty Reward,28.5%,$147.54,2020-03-07,eve_kdz@fastmail.fm,64164.21,Cross-promote with partner brand
+CMP-00036,Social Media,FAQ Infographic,96.0%,$26.65,2019-09-08,tina@mail.org,77283.49,Seasonal push for back-to-school
+CMP-00037,Social Media,Loyalty Reward,37.9%,$67.27,2019-07-04,carol_zcx@company.io,60237.03,Test new landing page design
+CMP-00038,Display,,1.0%,$298.88,2019-08-25,leo@proton.me,106348.32,
+CMP-00039,Affiliate,Holiday Promo Video,28.4,$167.55,2019-10-10,dave30@outlook.com,40397.66,Target millennials in urban areas
+CMP-00040,Social Media,Product Demo GIF,11.9%,$40.44,2019-10-20,hank6@business.net,64916.61,Seasonal push for back-to-school
+CMP-00041,Social Media,Seasonal Lookbook,10.3%,$307.14,2019-07-03,alice22@outlook.com,89164.19,Cross-promote with partner brand
+CMP-00042,Display,Exit Intent Popup,7.7%,$129.47,2019-06-14,iris@mail.org,33234.72,Target millennials in urban areas
+CMP-00043,Affiliate,Behind the Scenes,59.3,$124.27,2020-01-17,iris4@fastmail.fm,80013.1,Seasonal push for back-to-school
+CMP-00044,Display,Influencer Collab,18.9%,$48.53,2019-08-18,carol_nsp@gmail.com,49440.85,Focus on brand awareness for Q4
+CMP-00045,TV,Retargeting Static,36.1,$89.31,2019-09-25,rosa70@outlook.com,12953.49,Seasonal push for back-to-school
+CMP-00046,Social Media,Holiday Promo Video,86.2%,$35.56,2019-11-28,dave@company.io,6452.31,Retarget users who visited pricing page
+CMP-00047,,Flash Deal Carousel,42.4%,$8.77,2019-09-01,kate80@proton.me,47275.4,A/B test headline variations
+CMP-00048,Affiliate,Welcome Series,91.6,$64.34,,tina_nug@proton.me,79726.55,Seasonal push for back-to-school
+CMP-00049,Email,Product Demo GIF,49.8,$77.74,2020-01-03,tina71@yahoo.com,-12369.09,Test new landing page design
+CMP-00050,,Cart Abandonment,39.9%,$106.14,2019-12-14,kate@yahoo.com,56013.5,Leverage user-generated content
+CMP-00051,Search,Newsletter Header,75.0%,$385.52,2020-02-07,dave_dpe@fastmail.fm,76771.31,Target millennials in urban areas
+CMP-00052,Search,,7.3%,$41.15,2019-11-09,leo32@yahoo.com,11661.5,
+CMP-00053,Display,Exit Intent Popup,8.9%,$57.90,2020-03-19,carol_crb@proton.me,30981.0,Test new landing page design
+CMP-00054,Email,Newsletter Header,65.2,$225.75,2019-07-23,grace@yahoo.com,67171.01,
+CMP-00055,TV,,48.7%,$36.49,2019-12-20,quinn75@gmail.com,75456.14,Target millennials in urban areas
+CMP-00056,TV,New Arrival Spotlight,79.0%,$108.26,2019-12-08,bob@mail.org,98122.95,Retarget users who visited pricing page
+CMP-00057,Display,Exit Intent Popup,91.6%,55.15,2019-07-14,quinn75@mail.org,32409.78,Focus on brand awareness for Q4
+CMP-00058,Email,Exit Intent Popup,38.8%,$67.20,2019-11-02,rosa79@mail.org,25532.69,Target millennials in urban areas
+CMP-00059,TV,Product Demo GIF,59.6%,,2020-01-10,frank2@fastmail.fm,99580.56,Target millennials in urban areas
+CMP-00060,Display,New Arrival Spotlight,50.1%,$57.50,2019-07-24,olivia44@business.net,27351.74,Optimize for mobile-first experience
+CMP-00061,Display,Product Demo GIF,98.2%,$232.50,2019-12-19,hank@company.io,65218.57,Cross-promote with partner brand
+CMP-00062,Social Media,Brand Story,83.1%,$8.65,2020-03-27,leo_uwu@outlook.com,115493.45,Test new landing page design
+CMP-00063,Email,Welcome Series,91.2%,,2019-08-09,noah44@business.net,72581.26,Retarget users who visited pricing page
+CMP-00064,Email,FAQ Infographic,25.4,5.57,2019-10-05,hank@yahoo.com,73498.11,Cross-promote with partner brand
+CMP-00065,Social Media,Product Demo GIF,77.3%,$22.22,2019-11-16,frank20@fastmail.fm,88341.98,Target millennials in urban areas
+CMP-00066,Social Media,Win-back Campaign,26.5%,$835.65,2020-01-28,peter40@gmail.com,65746.03,Retarget users who visited pricing page
+CMP-00067,TV,Loyalty Reward,20.9%,,2020-01-08,dave11@mail.org,73642.11,Test new landing page design
+CMP-00068,TV,Seasonal Lookbook,94.4%,$37.88,2020-01-19,rosa_qza@gmail.com,39722.31,Focus on brand awareness for Q4
+CMP-00069,Display,New Arrival Spotlight,1.9%,$230.30,2020-03-04,dave61@outlook.com,84798.87,Target millennials in urban areas
+CMP-00070,TV,Influencer Collab,96.5%,,2020-04-09,grace11@gmail.com,62404.45,Cross-promote with partner brand
+CMP-00071,Search,Win-back Campaign,14.9%,$20.80,,iris@proton.me,5657.93,
+CMP-00072,Display,Referral Program,81.9,1804.14,2020-04-04,carol_sxb@mail.org,57288.32,A/B test headline variations
+CMP-00073,TV,Exit Intent Popup,27.6,$125.41,2020-03-03,hank95@proton.me,-15089.44,Target millennials in urban areas
+CMP-00074,Affiliate,Holiday Promo Video,35.1%,$145.89,2020-02-17,rosa@business.net,71417.39,Retarget users who visited pricing page
+CMP-00075,Email,Summer Sale Banner,21.7%,$163.48,2020-02-13,iris_edr@company.io,42993.45,Optimize for mobile-first experience
+CMP-00076,Social Media,FAQ Infographic,58.6,,2019-06-17,quinn42@gmail.com,107166.58,Target millennials in urban areas
+CMP-00077,Affiliate,Retargeting Static,34.8%,$42.70,2019-09-03,bob87@fastmail.fm,64688.94,Leverage user-generated content
+CMP-00078,Affiliate,Customer Testimonial,65.7%,$1135.72,2019-11-03,kate@outlook.com,77725.45,Test new landing page design
+CMP-00079,Display,Countdown Timer,1.6%,$63.93,2019-11-20,grace_yzh@fastmail.fm,18523.3,Cross-promote with partner brand
+CMP-00080,,New Arrival Spotlight,6.4%,$284.01,2019-06-07,tina94@company.io,70537.24,Focus on brand awareness for Q4
+CMP-00081,Affiliate,Newsletter Header,10.0,$50.91,2020-03-28,hank86@outlook.com,30780.26,Focus on brand awareness for Q4
+CMP-00082,Search,Flash Deal Carousel,41.9,$41.15,2020-03-24,alice@yahoo.com,82715.53,Leverage user-generated content
+CMP-00083,Affiliate,Holiday Promo Video,81.5%,$882.04,2020-04-02,peter@proton.me,16449.43,Cross-promote with partner brand
+CMP-00084,Search,Welcome Series,88.8%,,,hank6@company.io,53294.22,Test new landing page design
+CMP-00085,Email,Brand Story,24.5%,$86.41,2020-01-11,kate@business.net,15263.53,Focus on brand awareness for Q4
+CMP-00086,Social Media,Referral Program,57.4,$126.51,2019-06-01,hank_aww@yahoo.com,53774.3,Retarget users who visited pricing page
+CMP-00087,Email,Cart Abandonment,76.8%,$2042.90,2020-02-11,quinn9@yahoo.com,110674.61,
+CMP-00088,Email,FAQ Infographic,28.9%,$1215.02,2019-06-21,noah_zhg@business.net,71638.04,Test new landing page design
+CMP-00089,TV,Seasonal Lookbook,40.9,$420.12,2019-07-26,iris_lvf@business.net,49021.14,Test new landing page design
+CMP-00090,TV,New Arrival Spotlight,52.4%,,2020-03-21,carol_pfs@yahoo.com,-23864.77,A/B test headline variations
+CMP-00091,Display,Behind the Scenes,13.5,28.98,2019-10-25,alice_rtu@business.net,33929.39,Leverage user-generated content
+CMP-00092,Affiliate,Seasonal Lookbook,2.6%,$197.76,2020-03-22,hank_pdl@mail.org,64239.61,
+CMP-00093,,Loyalty Reward,15.3%,,2020-02-02,rosa_kqp@outlook.com,34674.27,
+CMP-00094,Search,UGC Showcase,62.7%,10.77,2019-10-24,tina_hzm@outlook.com,92814.51,Retarget users who visited pricing page
+CMP-00095,Search,Holiday Promo Video,7.4%,$156.92,2020-02-20,peter14@company.io,52146.14,
+CMP-00096,Search,FAQ Infographic,19.0%,$49.95,2019-06-26,bob12@mail.org,82357.85,Test new landing page design
+CMP-00097,Affiliate,Customer Testimonial,33.8%,,2019-12-17,frank@fastmail.fm,56147.03,
+CMP-00098,,Loyalty Reward,7.8%,$56.03,2019-06-05,frank@fastmail.fm,41720.54,A/B test headline variations
+CMP-00099,Email,,19.2%,$52.34,2019-08-08,alice@outlook.com,35860.2,Target millennials in urban areas
+CMP-00100,Display,Retargeting Static,91.1%,$566.62,2019-06-09,quinn@outlook.com,19635.38,
+CMP-00101,Affiliate,Welcome Series,1.9,$83.22,2019-08-30,eve@gmail.com,82898.4,Optimize for mobile-first experience
+CMP-00102,Email,Customer Testimonial,65.3,$363.38,2020-02-16,alice@gmail.com,37159.64,Focus on brand awareness for Q4
+CMP-00103,Display,Influencer Collab,38.4,$149.79,2020-04-14,alice_vpw@fastmail.fm,65668.91,Target millennials in urban areas
+CMP-00104,Social Media,Seasonal Lookbook,67.3%,,2019-09-12,mia16@proton.me,34227.65,Target millennials in urban areas
+CMP-00105,,Seasonal Lookbook,58.9,67.16,2020-04-03,carol37@business.net,17509.13,Optimize for mobile-first experience
+CMP-00106,Display,UGC Showcase,22.3,$164.46,,hank83@mail.org,66654.22,Seasonal push for back-to-school
+CMP-00107,Affiliate,Welcome Series,84.7,$76.88,2019-07-16,noah97@mail.org,27598.88,Test new landing page design
+CMP-00108,TV,Cart Abandonment,49.2%,$34.31,2019-12-13,noah@company.io,37985.38,Test new landing page design
+CMP-00109,Affiliate,Brand Story,82.3%,$79.43,2020-01-06,alice59@mail.org,12539.35,Target millennials in urban areas
+CMP-00110,Display,,40.6%,$422.17,2019-09-26,kate@gmail.com,35206.3,Target millennials in urban areas
+CMP-00111,Affiliate,Exit Intent Popup,98.5%,$171.26,2019-11-01,noah@yahoo.com,50723.22,Optimize for mobile-first experience
+CMP-00112,TV,UGC Showcase,77.0%,226.36,2019-06-25,alice_kjw@yahoo.com,41375.27,Test new landing page design
+CMP-00113,Display,,96.6,$90.18,2019-09-05,hank37@mail.org,74546.8,Optimize for mobile-first experience
+CMP-00114,Affiliate,Win-back Campaign,51.4,8.8,2019-07-27,tina_bpj@company.io,54365.62,Leverage user-generated content
+CMP-00115,Affiliate,Holiday Promo Video,47.4,,,noah_ohd@proton.me,142619.41,Target millennials in urban areas
+CMP-00116,Affiliate,Exit Intent Popup,75.5,$63.64,2020-02-04,frank_pun@proton.me,62727.52,Focus on brand awareness for Q4
+CMP-00117,Display,Behind the Scenes,88.0,23.06,2019-12-30,rosa_nqd@fastmail.fm,-2064.63,Leverage user-generated content
+CMP-00118,TV,Seasonal Lookbook,96.4%,$47.98,2020-02-19,tina@business.net,43613.53,Optimize for mobile-first experience
+CMP-00119,Social Media,Win-back Campaign,32.5%,,2019-09-07,olivia_oxa@company.io,46212.56,Seasonal push for back-to-school
+CMP-00120,Affiliate,Referral Program,79.9%,$47.63,2020-01-07,eve3@fastmail.fm,31591.06,Seasonal push for back-to-school
+CMP-00121,tv,,21.1%,$505.02,2020-01-22,quinn74@yahoo.com,52178.33,Cross-promote with partner brand
+CMP-00122,TV,Referral Program,54.6%,,2019-09-19,rosa@yahoo.com,30698.09,Target millennials in urban areas
+CMP-00123,,Retargeting Static,18.0%,$276.33,2019-09-22,olivia47@fastmail.fm,59984.59,Retarget users who visited pricing page
+CMP-00124,Display,Newsletter Header,34.7%,$109.59,2020-04-08,olivia38@proton.me,-7260.63,Seasonal push for back-to-school
+CMP-00125,TV,Brand Story,93.1%,$492.21,2019-11-12,tina_ucr@outlook.com,84324.75,Leverage user-generated content
+CMP-00126,Social Media,,14.6,306.49,2019-08-20,iris12@mail.org,2651.29,Cross-promote with partner brand
+CMP-00127,,Loyalty Reward,63.2%,$44.26,2019-08-03,frank_dyi@yahoo.com,42093.33,A/B test headline variations
+CMP-00128,Email,,59.3%,,2019-11-06,olivia7@business.net,28018.8,Retarget users who visited pricing page
+CMP-00129,Search,,12.1,$52.17,2020-02-29,iris17@fastmail.fm,59177.6,Retarget users who visited pricing page
+CMP-00130,Display,Exit Intent Popup,32.6%,$114.43,2020-01-31,bob_lna@outlook.com,44502.77,Test new landing page design
+CMP-00131,,Retargeting Static,56.3%,$141.52,2020-01-12,eve_mao@gmail.com,57549.52,Cross-promote with partner brand
+CMP-00132,Display,,18.7%,$161.75,2019-07-20,carol81@mail.org,83335.77,Cross-promote with partner brand
+CMP-00133,Email,Countdown Timer,80.1%,$234.02,2020-01-23,bob59@outlook.com,73058.46,Test new landing page design
+CMP-00134,Social Media,Exit Intent Popup,97.2%,$36.30,,quinn21@gmail.com,51089.22,
+CMP-00135,Affiliate,Behind the Scenes,21.5%,211.62,2020-03-12,bob_mqx@outlook.com,63785.23,Retarget users who visited pricing page
+CMP-00136,TV,,18.7,,2019-07-30,frank89@yahoo.com,108800.23,Target millennials in urban areas
+CMP-00137,Search,Welcome Series,45.5,$90.07,2019-08-22,mia70@yahoo.com,74127.15,Target millennials in urban areas
+CMP-00138,,Exit Intent Popup,74.8%,$71.69,2019-06-22,bob@yahoo.com,41193.86,Optimize for mobile-first experience
+CMP-00139,,FAQ Infographic,28.2,$34.13,2020-04-15,dave74@yahoo.com,88335.93,Seasonal push for back-to-school
+CMP-00140,Display,Newsletter Header,2.0%,$160.20,,carol_ecw@business.net,61739.31,Seasonal push for back-to-school
+CMP-00141,Search,Brand Story,54.1,40.75,2019-11-19,hank@fastmail.fm,21116.75,Optimize for mobile-first experience
+CMP-00142,Affiliate,,95.7%,$119.76,2019-11-08,carol56@mail.org,44578.33,A/B test headline variations
+CMP-00143,TV,,39.1%,$79.71,2019-11-04,carol_ois@mail.org,5832.28,
+CMP-00144,Social Media,Newsletter Header,42.0%,$18.16,2019-06-16,hank_dom@company.io,-18550.6,
+CMP-00145,TV,FAQ Infographic,96.9,$29.37,2020-03-23,noah@proton.me,21528.79,Target millennials in urban areas
+CMP-00146,Search,New Arrival Spotlight,69.5,$146.31,2019-11-27,carol80@company.io,53677.43,Retarget users who visited pricing page
+CMP-00147,Social Media,Flash Deal Carousel,71.9%,$47.98,,jack@gmail.com,53765.27,A/B test headline variations
+CMP-00148,,Win-back Campaign,56.3,$46.06,2019-08-12,iris_bjo@proton.me,7652.73,
+CMP-00149,Affiliate,Exit Intent Popup,97.5%,$35.99,2019-09-06,hank_emh@business.net,-21362.86,Target millennials in urban areas
+CMP-00150,Search,Summer Sale Banner,68.9%,$37.49,,olivia@proton.me,94122.87,Focus on brand awareness for Q4
+CMP-00151,Search,Customer Testimonial,89.5,$646.26,2020-01-01,quinn@proton.me,52858.79,Seasonal push for back-to-school
+CMP-00152,TV,Summer Sale Banner,69.9,$23.48,2019-10-03,olivia25@mail.org,96671.36,Retarget users who visited pricing page
+CMP-00153,,Holiday Promo Video,73.5%,$527.15,2019-08-21,rosa@proton.me,94957.73,Optimize for mobile-first experience
+CMP-00154,Search,Holiday Promo Video,29.0%,$60.53,2019-09-18,jack@fastmail.fm,72041.29,
+CMP-00155,Display,Customer Testimonial,30.3%,$41.08,2020-01-30,olivia36@business.net,51774.31,Cross-promote with partner brand
+CMP-00156,Search,Newsletter Header,78.3%,$142.68,2019-10-15,carol_yeo@gmail.com,38070.48,A/B test headline variations
+CMP-00157,Affiliate,Welcome Series,29.7%,$95.93,2020-02-15,tina@gmail.com,71557.9,Optimize for mobile-first experience
+CMP-00158,Affiliate,Countdown Timer,56.3%,$71.02,2019-12-02,peter_ssr@yahoo.com,45204.26,A/B test headline variations
+CMP-00159,TV,Influencer Collab,24.9,$117.20,2020-04-10,hank_yzm@proton.me,32311.42,Cross-promote with partner brand
+CMP-00160,Affiliate,Behind the Scenes,81.7%,$94.13,2019-12-05,dave77@fastmail.fm,-12937.14,Focus on brand awareness for Q4

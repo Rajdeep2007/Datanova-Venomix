@@ -1,0 +1,201 @@
+customer_id,annual_income,age,price,signup_date,zip_code,status,city,review_text,email_address,phone_number,completion_pct,is_subscribed,transaction_amount
+CUST-00001,62840.63,19.0,$335.44,03/07/2020,37760-5088,Churned,Albuquerque,Good value for the money.,mprdvy@gmail.com,+1-765-429-5637,29.3%,1,435.62
+CUST-00002,45746.38,34.0,$90.30,07/06/2020,80686,Churned,El Paso,"The product was great, would recommend!",zdtpuf@company.io,+1-589-577-9743,89.6%,0,416.38
+CUST-00003,67767.92,50.0,$100.18,04/11/2020,36365-6442,Churned,Washington,Outstanding customer service.,llwzhq@gmail.com,+1-864-467-6053,1.3%,0,166.19
+CUST-00004,104978.93,26.0,$25.23,07/12/2020,50857,Churned,Charlotte,"Below expectations, returning it.",yffree@gmail.com,+1-467-468-9401,8.6%,1,16.72
+CUST-00005,43604.83,60.0,$88.62,04/21/2020,62296,Churned,Charlotte,"Below expectations, returning it.",ekrmah@outlook.com,+1-709-577-2615,20.8%,0,170.39
+CUST-00006,43605.19,65.0,$142.90,05/01/2020,98039,Active,Los Angeles,"The product was great, would recommend!",slryuq@yahoo.com,+1-939-580-6246,2.7%,1,2.99
+CUST-00007,107969.75,,$92.62,01/14/2020,95180,Churned,Fort Worth,"Terrible experience, never buying again.",loqxvb@yahoo.com,+1-408-479-6126,18.1%,1,2.68
+CUST-00008,71949.33,59.0,$48.91,01/03/2020,58944,Active,Memphis,Outstanding customer service.,upvxlm@outlook.com,+1-623-146-4625,58.3%,0,46.92
+CUST-00009,38764.6,43.0,$64.71,03/05/2020,67422,Churned,Oklahoma City,"Average quality, nothing special.",synmcb@company.io,+1-959-249-1265,42.1%,0,80.48
+CUST-00010,64297.76,67.0,$233.09,02/14/2020,77839-7267,Pending,Seattle,"Arrived damaged, very disappointed.",tpafrw@gmail.com,+1-467-666-7841,89.3%,1,176.57
+CUST-00011,38882.17,42.0,$107.14,05/16/2020,69177,Inactive,Phoenix,"Average quality, nothing special.",zrhbtm@company.io,+1-502-256-4214,81.7%,0,137.97
+CUST-00012,38837.25,41.0,$185.31,06/19/2020,25860-4441,Active,Seattle,"The product was great, would recommend!",xepqmc@outlook.com,+1-537-335-7223,34.2%,0,70.85
+CUST-00013,55325.05,30.0,$254.19,05/08/2020,42493,Churned,El Paso,Not worth the price honestly.,kicekm@company.io,+1-783-953-5026,25.9%,0,38.36
+CUST-00014,18832.89,77.0,$346.75,03/17/2020,39451-1685,Pending,Sacramento,Outstanding customer service.,voliiz@company.io,+1-711-663-6530,38.0%,0,702.18
+CUST-00015,20692.8,24.0,$24.46,06/07/2020,18392,Inactive,Memphis,Decent but could be better.,wvawmb@outlook.com,+1-463-881-9005,59.0%,0,66.65
+CUST-00016,37006.77,74.0,$400.71,06/16/2020,54313,Active,Mesa,"Absolutely love this, 5 stars!",qmlbgd@outlook.com,+1-940-757-9037,26.8%,1,72.04
+CUST-00017,29542.48,53.0,$315.81,02/15/2020,12757,Inactive,Oklahoma City,"Arrived damaged, very disappointed.",lsdzpg@yahoo.com,+1-671-272-6770,62.4%,1,21.44
+CUST-00018,57361.22,62.0,$45.47,05/10/2020,87110,Pending,Los Angeles,Decent but could be better.,iakfvc@gmail.com,+1-373-243-9954,40.9%,0,190.06
+CUST-00019,31131.89,37.0,$437.42,01/31/2020,82603,Active,San Diego,Decent but could be better.,qeyhsk@company.io,+1-700-288-9882,55.2%,0,141.98
+CUST-00020,24193.71,82.0,$460.83,01/04/2020,40161-5065,Inactive,San Francisco,Outstanding customer service.,zgojxn@yahoo.com,+1-857-160-9584,43.6%,0,29.93
+CUST-00021,102009.82,25.0,$35.23,06/08/2020,87128,Churned,Jacksonville,Not worth the price honestly.,whukyn@gmail.com,+1-234-959-2217,29.4%,1,10.32
+CUST-00022,43787.86,33.0,$142.05,01/16/2020,38864,Active,Colorado Springs,Outstanding customer service.,hhpzmd@company.io,+1-884-149-1104,94.8%,0,136.92
+CUST-00023,50704.2,31.0,$404.07,02/12/2020,10942,Inactive,San Francisco,Not worth the price honestly.,ioolie@yahoo.com,+1-622-240-4791,76.4%,1,127.54
+CUST-00024,24043.64,32.0,$375.39,05/06/2020,19305-6050,Pending,Chicago,"Terrible experience, never buying again.",ogubts@company.io,+1-269-824-3474,14.0%,1,38.3
+CUST-00025,37339.56,83.0,$96.34,07/05/2020,92719,Pending,San Antonio,"Arrived damaged, very disappointed.",krvzma@outlook.com,+1-209-323-9285,86.8%,1,361.58
+CUST-00026,51816.36,49.0,$108.63,06/11/2020,17716,Active,Raleigh,"The product was great, would recommend!",wwlnls@company.io,+1-666-482-1990,48.7%,0,19.65
+CUST-00027,27570.54,80.0,$188.38,02/17/2020,40007,Inactive,Baltimore,Good value for the money.,wzbugq@company.io,+1-832-753-8916,89.5%,1,67.95
+CUST-00028,59151.01,68.0,$244.84,04/20/2020,18834,Active,El Paso,"The product was great, would recommend!",qwwwji@company.io,+1-875-599-1257,80.0%,0,345.07
+CUST-00029,36303.91,42.0,$311.04,01/06/2020,14117-7745,Active,Nashville,Decent but could be better.,wabqxz@gmail.com,+1-206-644-7739,42.5%,1,65.31
+CUST-00030,42368.19,75.0,$187.61,07/13/2020,53309,Inactive,Baltimore,"Absolutely love this, 5 stars!",lcqwls@gmail.com,+1-212-117-9673,2.2%,0,122.11
+CUST-00031,36284.53,80.0,$233.95,02/07/2020,19287,Inactive,Raleigh,"Terrible experience, never buying again.",buhjdn@yahoo.com,+1-939-381-9777,26.9%,1,60.82
+CUST-00032,123764.9,79.0,$375.00,05/02/2020,77391,Churned,Sacramento,"The product was great, would recommend!",ecwqgx@yahoo.com,+1-493-117-9228,54.2%,0,38.46
+CUST-00033,48691.09,39.0,$23.16,01/13/2020,41195,Inactive,San Diego,"The product was great, would recommend!",gqlrxm@outlook.com,+1-914-790-8054,63.3%,1,496.05
+CUST-00034,28886.93,75.0,$129.96,02/06/2020,46500-6794,Pending,Portland,"Absolutely love this, 5 stars!",relipq@company.io,+1-383-209-2578,25.8%,0,63.18
+CUST-00035,73959.47,75.0,$358.11,06/02/2020,97684,Active,Omaha,"Absolutely love this, 5 stars!",rlhzwc@company.io,+1-736-252-4948,13.9%,0,269.43
+CUST-00036,26624.26,66.0,$448.13,03/10/2020,73624,Active,Fort Worth,"The product was great, would recommend!",oozhzr@outlook.com,+1-396-734-9625,83.5%,0,31.36
+CUST-00037,54417.0,69.0,$258.28,03/02/2020,38080,Pending,San Francisco,"Below expectations, returning it.",awuzxt@outlook.com,+1-458-934-6807,98.4%,0,28.76
+CUST-00038,18401.09,59.0,$268.40,07/14/2020,80678-4269,Inactive,Chicago,"Average quality, nothing special.",ufufeg@yahoo.com,+1-473-914-7502,52.6%,1,3.8
+CUST-00039,25232.98,32.0,$58.05,02/02/2020,27342-3608,Pending,Baltimore,"Absolutely love this, 5 stars!",qxqilp@yahoo.com,+1-280-482-7652,17.2%,1,126.55
+CUST-00040,54091.41,71.0,$226.47,06/21/2020,84847,Pending,New York,"Average quality, nothing special.",chtedo@outlook.com,+1-670-678-4984,27.2%,0,55.16
+CUST-00041,70914.72,77.0,$268.65,06/20/2020,85525,Churned,Kansas City,"Arrived damaged, very disappointed.",nxvgvm@outlook.com,+1-913-331-5914,1.8%,1,239.73
+CUST-00042,53406.31,25.0,$125.02,03/01/2020,71953-4878,Pending,Mesa,"Terrible experience, never buying again.",ticzdz@company.io,+1-900-947-2320,91.4%,0,76.91
+CUST-00043,46266.61,70.0,$138.28,01/11/2020,41850,Active,Fort Worth,"Below expectations, returning it.",zujuan@company.io,+1-869-978-1519,11.8%,0,413.77
+CUST-00044,42169.32,77.0,$191.76,05/24/2020,71993,Pending,Boston,"Absolutely love this, 5 stars!",jtgjqj@yahoo.com,+1-295-515-7213,57.7%,1,24.63
+CUST-00045,23405.8,22.0,$14.94,06/09/2020,63354,Active,Baltimore,"Arrived damaged, very disappointed.",mqyipq@company.io,+1-586-665-8798,27.4%,0,243.56
+CUST-00046,34203.32,23.0,$164.43,02/22/2020,34957,Active,Phoenix,Not worth the price honestly.,xhkdyh@company.io,+1-257-752-1154,55.4%,0,179.85
+CUST-00047,38936.24,64.0,$109.67,05/05/2020,22363,Active,Oklahoma City,Decent but could be better.,dgnkjy@company.io,+1-919-275-2354,65.1%,1,176.84
+CUST-00048,83163.27,72.0,$167.11,04/16/2020,22704,Inactive,Long Beach,"Average quality, nothing special.",psxrvq@outlook.com,+1-711-965-8109,83.0%,0,223.55
+CUST-00049,58209.81,57.0,$64.28,03/14/2020,96374,Churned,Nashville,"Below expectations, returning it.",ajlywc@outlook.com,+1-860-903-6427,20.6%,0,171.77
+CUST-00050,20302.11,69.0,$445.81,04/23/2020,66498,Active,San Diego,"Below expectations, returning it.",ozjked@company.io,+1-779-978-2562,1.1%,0,118.09
+CUST-00051,57644.03,33.0,$298.83,04/15/2020,56438,Active,Washington,"Terrible experience, never buying again.",cfqzbi@yahoo.com,+1-740-143-4764,13.7%,0,16.88
+CUST-00052,40435.32,,$341.16,04/05/2020,65519,Inactive,Sacramento,"Average quality, nothing special.",ufvopv@yahoo.com,+1-416-988-8790,90.0%,1,3.97
+CUST-00053,34945.29,47.0,$395.64,04/13/2020,63883,Active,Washington,Not worth the price honestly.,idxawd@yahoo.com,+1-477-147-2218,87.4%,1,304.37
+CUST-00054,66558.61,36.0,$251.73,05/25/2020,71213,Pending,Louisville,"Terrible experience, never buying again.",oucwdj@yahoo.com,+1-900-387-9897,59.7%,1,115.06
+CUST-00055,82084.11,34.0,$48.03,02/13/2020,17100,Pending,Nashville,"Below expectations, returning it.",pagdkc@gmail.com,+1-777-773-1539,60.1%,0,191.07
+CUST-00056,78091.78,80.0,$270.87,01/01/2020,98259,Churned,Memphis,"The product was great, would recommend!",muncny@gmail.com,+1-383-970-6152,66.5%,0,78.82
+CUST-00057,32221.57,36.0,$295.49,06/10/2020,95649,Active,Denver,Not worth the price honestly.,sxrhqa@company.io,+1-216-312-3362,17.5%,1,14.97
+CUST-00058,41998.69,75.0,$373.99,07/11/2020,94696,Inactive,Atlanta,"Below expectations, returning it.",wlcslx@outlook.com,+1-970-940-7525,91.4%,0,16.05
+CUST-00059,57851.33,72.0,$218.67,01/17/2020,22899,Pending,Dallas,Outstanding customer service.,pbhqoi@outlook.com,+1-278-406-3661,41.9%,0,138.84
+CUST-00060,79839.41,79.0,$68.15,03/21/2020,17944,Inactive,Fort Worth,Outstanding customer service.,lpcswq@yahoo.com,+1-777-346-7375,38.3%,0,67.52
+CUST-00061,38577.05,40.0,$145.47,04/12/2020,62772,Inactive,Louisville,"Absolutely love this, 5 stars!",lxkvks@outlook.com,+1-893-653-6435,51.9%,0,26.86
+CUST-00062,44675.05,26.0,$184.73,02/08/2020,54473,Pending,Portland,"Terrible experience, never buying again.",lrjdxb@gmail.com,+1-593-873-3292,4.7%,1,81.18
+CUST-00063,28193.1,29.0,$324.73,06/05/2020,24322,Inactive,Jacksonville,"Below expectations, returning it.",cctvop@outlook.com,+1-905-841-2284,16.6%,1,7.96
+CUST-00064,26954.26,18.0,$287.54,06/25/2020,42591,Pending,Long Beach,"Absolutely love this, 5 stars!",rkwykx@gmail.com,+1-712-863-6666,73.8%,1,104.66
+CUST-00065,73589.89,75.0,$181.27,05/15/2020,35112-3088,Inactive,Omaha,"Terrible experience, never buying again.",zpjpfr@yahoo.com,+1-254-200-8161,8.3%,0,37.6
+CUST-00066,96579.33,18.0,$493.33,03/19/2020,34931,Pending,Washington,Not worth the price honestly.,wjochf@company.io,+1-437-958-2245,60.3%,1,191.68
+CUST-00067,47287.2,,$304.86,04/25/2020,80292,Active,Memphis,"Below expectations, returning it.",vzvpqa@outlook.com,+1-548-719-7499,24.5%,1,44.59
+CUST-00068,80964.53,65.0,$122.43,01/20/2020,68800-3532,Churned,Atlanta,"Terrible experience, never buying again.",ahtxje@yahoo.com,+1-992-434-1485,38.9%,0,72.88
+CUST-00069,58736.58,18.0,$55.38,01/15/2020,28373,Pending,New York,"Below expectations, returning it.",okdqat@yahoo.com,+1-849-379-8381,28.9%,0,1.4
+CUST-00070,35505.4,33.0,$80.67,06/26/2020,65296,Pending,Washington,"The product was great, would recommend!",jleiiy@gmail.com,+1-702-333-6829,35.6%,1,9.02
+CUST-00071,58729.52,78.0,$126.75,05/26/2020,34050-6862,Churned,Denver,Decent but could be better.,wetbcl@company.io,+1-766-484-8075,71.9%,1,59.81
+CUST-00072,105769.59,81.0,$84.54,06/28/2020,46509,Pending,Columbus,Good value for the money.,mlhtcl@outlook.com,+1-390-796-7227,29.7%,1,78.46
+CUST-00073,48150.51,80.0,$97.35,03/06/2020,70637,Pending,Baltimore,Outstanding customer service.,rpnifz@gmail.com,+1-287-890-5839,56.6%,1,109.96
+CUST-00074,107186.1,39.0,$146.12,03/25/2020,42742,Inactive,Colorado Springs,Decent but could be better.,ahfdgi@gmail.com,+1-452-830-2204,47.6%,0,41.38
+CUST-00075,13228.48,84.0,$90.82,06/14/2020,19880,Churned,Raleigh,"Terrible experience, never buying again.",mldnfo@outlook.com,+1-284-374-3526,66.4%,1,142.49
+CUST-00076,73935.71,43.0,$448.90,02/16/2020,68082,Active,Nashville,Good value for the money.,bwbaxw@company.io,+1-589-828-3527,93.7%,1,236.04
+CUST-00077,51201.47,33.0,$44.72,04/14/2020,82132,Pending,Albuquerque,Decent but could be better.,oskcai@company.io,+1-957-498-6188,73.3%,0,181.61
+CUST-00078,42213.54,68.0,$264.63,03/20/2020,22833,Churned,Milwaukee,"The product was great, would recommend!",vxcvgp@gmail.com,+1-569-209-2499,21.5%,1,4.85
+CUST-00079,51322.29,74.0,$208.15,02/24/2020,16630,Inactive,Milwaukee,Outstanding customer service.,kiiien@gmail.com,+1-205-415-8286,3.1%,0,78.59
+CUST-00080,18146.18,46.0,$491.28,07/15/2020,95477,Active,Columbus,"Arrived damaged, very disappointed.",nfujyq@yahoo.com,+1-568-879-5419,26.2%,0,13.3
+CUST-00081,43921.71,64.0,$60.46,03/26/2020,80855,Churned,Sacramento,"Terrible experience, never buying again.",gdfptr@yahoo.com,+1-304-235-2430,59.5%,0,33.26
+CUST-00082,58603.89,79.0,$201.94,04/28/2020,11934,Active,Tucson,Outstanding customer service.,yqmopr@outlook.com,+1-391-541-8353,5.1%,1,518.06
+CUST-00083,102636.31,33.0,$484.89,04/19/2020,22224,Active,Austin,Decent but could be better.,wqdblh@outlook.com,+1-770-668-9395,49.6%,1,18.45
+CUST-00084,37830.27,65.0,$433.43,05/13/2020,40982,Active,Philadelphia,"Arrived damaged, very disappointed.",pjbmaj@outlook.com,+1-617-205-1430,59.7%,0,82.91
+CUST-00085,32720.37,56.0,$409.45,05/22/2020,31798,Pending,Denver,"Average quality, nothing special.",bwwpnm@gmail.com,+1-291-462-2524,33.4%,1,115.53
+CUST-00086,38143.91,50.0,$132.66,02/03/2020,63269-2684,Pending,Sacramento,Outstanding customer service.,lvqimd@gmail.com,+1-811-712-6315,77.1%,1,145.47
+CUST-00087,77474.26,40.0,$89.59,01/19/2020,73653,Inactive,Virginia Beach,"Average quality, nothing special.",lvvzcq@gmail.com,+1-594-112-5781,10.7%,0,98.42
+CUST-00088,57778.7,,$335.98,05/20/2020,73092,Inactive,Long Beach,Good value for the money.,gllnej@outlook.com,+1-623-497-2387,7.5%,0,1.18
+CUST-00089,37613.56,51.0,$465.04,05/03/2020,38016,Churned,Oklahoma City,Not worth the price honestly.,kurbqi@outlook.com,+1-942-672-4977,72.8%,1,47.43
+CUST-00090,63362.89,69.0,$280.60,06/24/2020,62565,Inactive,Philadelphia,"Below expectations, returning it.",crhsrx@yahoo.com,+1-785-633-3778,49.5%,0,87.51
+CUST-00091,51458.9,27.0,$287.95,03/04/2020,17685,Active,Indianapolis,Good value for the money.,ipdjzs@company.io,+1-901-489-3777,68.8%,1,11.04
+CUST-00092,79564.44,36.0,$143.59,03/24/2020,31579,Active,Washington,"Arrived damaged, very disappointed.",dscoqi@yahoo.com,+1-342-375-5933,43.5%,1,51.81
+CUST-00093,34508.93,75.0,$385.90,05/28/2020,59672,Pending,Charlotte,"Arrived damaged, very disappointed.",rvtrnq@company.io,+1-474-604-3390,24.6%,1,4.05
+CUST-00094,41613.04,18.0,$97.59,04/10/2020,10282,Active,Fort Worth,Outstanding customer service.,naiyit@yahoo.com,+1-264-271-8121,81.9%,1,9.82
+CUST-00095,40293.52,21.0,$165.22,06/04/2020,61173-1634,Churned,San Jose,"Below expectations, returning it.",fdcvcu@gmail.com,+1-482-531-5911,79.9%,0,60.69
+CUST-00096,23582.08,33.0,$215.59,03/13/2020,44760,Active,Los Angeles,Not worth the price honestly.,rwqpee@yahoo.com,+1-695-901-2260,69.5%,0,17.09
+CUST-00097,56843.67,41.0,$256.27,01/28/2020,69638,Active,Chicago,Decent but could be better.,sbjszp@company.io,+1-569-357-5040,27.2%,0,100.59
+CUST-00098,55855.74,19.0,$124.99,07/03/2020,47388,Churned,Indianapolis,"Absolutely love this, 5 stars!",ggzuxf@company.io,+1-938-740-9123,59.0%,0,140.34
+CUST-00099,49146.29,49.0,$61.84,04/22/2020,65444,Inactive,Tucson,"Terrible experience, never buying again.",mhjnzv@yahoo.com,+1-808-731-4203,36.1%,1,193.49
+CUST-00100,43595.38,41.0,$307.26,02/21/2020,82845,Inactive,Long Beach,Not worth the price honestly.,wbmjys@gmail.com,+1-668-209-3219,9.2%,1,26.8
+CUST-00101,24156.64,29.0,$147.87,06/23/2020,96752,Churned,Phoenix,"Arrived damaged, very disappointed.",hthxdl@yahoo.com,+1-511-106-7483,91.7%,0,22.0
+CUST-00102,39722.67,67.0,$292.71,01/05/2020,73788,Pending,Albuquerque,"Absolutely love this, 5 stars!",vxykkj@company.io,+1-540-961-7224,13.7%,1,13.25
+CUST-00103,41301.03,52.0,$81.41,01/30/2020,30289,Active,Louisville,"Arrived damaged, very disappointed.",zjayvq@yahoo.com,+1-537-550-6484,95.0%,1,121.41
+CUST-00104,32822.23,50.0,$243.16,07/02/2020,34890,Churned,Virginia Beach,"Below expectations, returning it.",dhvsds@company.io,+1-640-935-3230,44.6%,1,147.1
+CUST-00105,45222.82,50.0,$268.63,04/09/2020,48890,Active,Omaha,"Below expectations, returning it.",pxafdy@company.io,+1-507-428-4290,18.5%,0,3.85
+CUST-00106,59995.54,78.0,$30.65,04/08/2020,38534,Pending,Fort Worth,Outstanding customer service.,chhbku@company.io,+1-690-421-3910,54.2%,0,330.26
+CUST-00107,125881.08,68.0,$171.62,05/11/2020,17665,Active,Portland,Decent but could be better.,bvmnqo@yahoo.com,+1-607-426-5775,87.3%,0,6.4
+CUST-00108,53492.08,60.0,$71.54,05/04/2020,85914,Churned,Fresno,"The product was great, would recommend!",hajoer@outlook.com,+1-952-811-9044,73.2%,1,93.52
+CUST-00109,55757.95,29.0,$36.37,07/17/2020,81066-1653,Active,Memphis,"Arrived damaged, very disappointed.",bnnzok@company.io,+1-789-900-4971,80.7%,0,148.16
+CUST-00110,47229.64,84.0,$495.03,05/14/2020,17989-1406,Inactive,Indianapolis,Decent but could be better.,bkjtjb@yahoo.com,+1-533-485-5592,65.9%,0,245.72
+CUST-00111,18781.25,82.0,$164.57,06/27/2020,51104,Pending,San Jose,"Average quality, nothing special.",tqutib@outlook.com,+1-602-473-2865,69.2%,0,150.25
+CUST-00112,48375.22,50.0,$405.89,04/30/2020,17492,Pending,New York,"Arrived damaged, very disappointed.",veumsq@yahoo.com,+1-777-304-9939,84.9%,0,194.17
+CUST-00113,50519.52,57.0,$131.05,02/04/2020,16572,Pending,San Antonio,"Absolutely love this, 5 stars!",bulhbf@gmail.com,+1-384-798-1440,25.0%,0,49.76
+CUST-00114,167983.5,,$342.34,02/18/2020,86569-3662,Churned,Baltimore,Decent but could be better.,iikvma@yahoo.com,+1-944-572-4434,48.9%,0,202.37
+CUST-00115,44525.6,61.0,$381.31,06/18/2020,72493,Pending,Charlotte,Not worth the price honestly.,hwbrhu@company.io,+1-648-916-5773,22.1%,1,10.02
+CUST-00116,56998.13,46.0,$299.84,05/18/2020,75909,Inactive,Jacksonville,Decent but could be better.,xtxkzm@company.io,+1-909-170-7703,98.8%,1,270.25
+CUST-00117,48177.34,30.0,$238.43,05/29/2020,79615,Churned,Kansas City,Not worth the price honestly.,jugcll@yahoo.com,+1-889-611-3280,94.4%,0,95.18
+CUST-00118,27327.83,29.0,$208.86,05/12/2020,30635,Inactive,Albuquerque,"Below expectations, returning it.",oicrhp@company.io,+1-848-410-4965,3.9%,0,203.99
+CUST-00119,86804.3,63.0,$177.69,05/07/2020,17455,Active,Houston,Not worth the price honestly.,ellsxp@company.io,+1-458-774-3525,70.6%,1,72.25
+CUST-00120,71393.81,19.0,$465.12,01/22/2020,76562,Active,Atlanta,Good value for the money.,hzybqj@yahoo.com,+1-932-533-7176,92.5%,1,123.8
+CUST-00121,72803.26,52.0,$416.16,03/22/2020,20500,Active,Indianapolis,"The product was great, would recommend!",ydpuab@outlook.com,+1-275-559-8851,18.1%,0,89.69
+CUST-00122,31110.67,25.0,$482.69,03/18/2020,34356,Active,San Diego,Good value for the money.,jyadlj@company.io,+1-796-510-9755,56.8%,0,157.83
+CUST-00123,98853.79,43.0,$66.53,01/10/2020,18981,Inactive,Albuquerque,"Absolutely love this, 5 stars!",tonkqg@gmail.com,+1-718-990-7853,91.5%,0,10.22
+CUST-00124,24320.49,51.0,$366.78,03/23/2020,87992,Churned,Dallas,"Terrible experience, never buying again.",aenxdu@company.io,+1-756-137-6890,3.4%,0,7.47
+CUST-00125,65737.75,24.0,$469.48,06/13/2020,18907,Churned,Albuquerque,"Absolutely love this, 5 stars!",fpszfd@gmail.com,+1-918-931-9796,69.7%,1,34.06
+CUST-00126,146565.52,75.0,$94.71,04/29/2020,98501-8041,Pending,Kansas City,Outstanding customer service.,lxlcrv@outlook.com,+1-808-753-2392,29.7%,0,20.86
+CUST-00127,29873.64,46.0,$37.92,03/30/2020,40828,Inactive,Atlanta,"Arrived damaged, very disappointed.",rsohhe@yahoo.com,+1-311-887-5067,92.4%,0,246.48
+CUST-00128,36932.65,53.0,$371.85,03/09/2020,62923,Active,Raleigh,Good value for the money.,undfdu@gmail.com,+1-873-780-6816,97.1%,0,29.69
+CUST-00129,51525.17,38.0,$289.36,02/23/2020,25713,Inactive,Nashville,"Absolutely love this, 5 stars!",jomzdw@gmail.com,+1-370-762-1725,94.4%,0,446.89
+CUST-00130,38111.15,53.0,$421.71,03/31/2020,84668,Pending,Milwaukee,"Arrived damaged, very disappointed.",izsntv@gmail.com,+1-776-760-7547,47.4%,1,49.3
+CUST-00131,22576.58,27.0,$74.19,04/04/2020,42271,Pending,Long Beach,"Arrived damaged, very disappointed.",dibmnd@yahoo.com,+1-970-439-8052,86.2%,1,24.12
+CUST-00132,50730.44,41.0,$398.66,02/11/2020,85880,Inactive,Sacramento,"Arrived damaged, very disappointed.",tdnwvn@outlook.com,+1-308-110-2615,84.5%,1,187.11
+CUST-00133,28820.67,81.0,$104.81,04/03/2020,87924,Inactive,Baltimore,"The product was great, would recommend!",eisiyx@gmail.com,+1-464-327-9366,31.9%,0,129.0
+CUST-00134,62118.32,66.0,$86.01,04/26/2020,15209,Inactive,Atlanta,"Terrible experience, never buying again.",gqodhn@yahoo.com,+1-964-631-4621,82.9%,0,82.75
+CUST-00135,30954.94,,$86.31,07/18/2020,91183,Churned,Milwaukee,Not worth the price honestly.,ppeqxi@gmail.com,+1-656-483-7408,3.7%,1,97.26
+CUST-00136,106400.68,41.0,$408.21,06/06/2020,20745,Active,Austin,"Absolutely love this, 5 stars!",vabqoq@company.io,+1-674-890-9199,59.6%,0,152.41
+CUST-00137,33135.93,,$334.27,01/26/2020,64948,Inactive,Tucson,Outstanding customer service.,qaxoqh@yahoo.com,+1-354-453-1402,23.0%,0,31.12
+CUST-00138,41729.74,79.0,$263.92,06/29/2020,96163,Inactive,Milwaukee,"Absolutely love this, 5 stars!",urhbbl@company.io,+1-694-207-5840,12.1%,1,673.04
+CUST-00139,73626.38,54.0,$182.62,05/27/2020,86503,Inactive,San Francisco,Not worth the price honestly.,midwiz@outlook.com,+1-625-187-2901,7.7%,1,441.68
+CUST-00140,26491.2,29.0,$439.21,03/15/2020,84085-2771,Pending,Indianapolis,"Below expectations, returning it.",zdjoim@outlook.com,+1-947-245-6707,69.6%,1,126.09
+CUST-00141,54925.33,72.0,$199.26,02/28/2020,78522,Pending,Virginia Beach,Decent but could be better.,ldbywk@yahoo.com,+1-519-451-8460,34.0%,1,26.71
+CUST-00142,94237.3,,$409.22,06/01/2020,51467-3900,Churned,Seattle,"Arrived damaged, very disappointed.",vyseez@company.io,+1-411-633-8912,72.5%,0,136.82
+CUST-00143,21944.21,40.0,$222.37,01/18/2020,44179,Active,Kansas City,Good value for the money.,miaynz@yahoo.com,+1-556-587-2599,6.5%,0,8.99
+CUST-00144,53761.72,47.0,$191.59,02/19/2020,36772-3938,Churned,Fresno,Good value for the money.,pbhpvr@outlook.com,+1-648-839-8412,31.5%,1,3.74
+CUST-00145,55823.01,34.0,$234.03,04/02/2020,97782,Active,Virginia Beach,Decent but could be better.,nwlwst@outlook.com,+1-526-168-5919,53.9%,0,35.76
+CUST-00146,72468.8,79.0,$154.18,03/16/2020,51180,Pending,Indianapolis,Outstanding customer service.,bbojhk@company.io,+1-245-929-2885,79.1%,1,74.53
+CUST-00147,26410.7,30.0,$375.07,05/21/2020,41285,Pending,Seattle,Good value for the money.,thzrdz@company.io,+1-223-969-6620,31.9%,1,243.24
+CUST-00148,25330.68,76.0,$253.85,01/21/2020,44814,Pending,Milwaukee,Decent but could be better.,jzojdp@company.io,+1-863-211-3692,62.6%,0,155.87
+CUST-00149,63638.3,36.0,$119.95,04/06/2020,61876,Churned,Phoenix,Decent but could be better.,nbdiml@yahoo.com,+1-958-349-9454,88.6%,1,162.9
+CUST-00150,56868.24,66.0,$450.29,02/01/2020,27154-8711,Inactive,Denver,"Arrived damaged, very disappointed.",ipezth@outlook.com,+1-378-665-3623,61.6%,0,66.51
+CUST-00151,55561.54,29.0,$195.03,05/17/2020,98039,Inactive,Indianapolis,Not worth the price honestly.,nnmoma@outlook.com,+1-538-673-7985,23.3%,0,50.95
+CUST-00152,58292.23,78.0,$274.06,04/27/2020,94607,Pending,Seattle,Not worth the price honestly.,rzpusr@gmail.com,+1-673-337-7636,2.4%,0,55.64
+CUST-00153,34891.12,36.0,$453.70,01/12/2020,49321,Inactive,Oklahoma City,Not worth the price honestly.,pgrzpf@gmail.com,+1-844-288-4053,87.0%,0,527.29
+CUST-00154,55057.14,26.0,$314.00,03/08/2020,69929,Inactive,Nashville,"Absolutely love this, 5 stars!",peqqvd@yahoo.com,+1-855-773-8080,2.1%,1,4.91
+CUST-00155,56757.11,45.0,$62.86,03/29/2020,51441,Churned,Mesa,"Terrible experience, never buying again.",aycaid@yahoo.com,+1-605-129-4232,87.5%,0,242.12
+CUST-00156,34297.38,69.0,$470.22,04/01/2020,19508,Active,Philadelphia,"Absolutely love this, 5 stars!",kuxwtb@yahoo.com,+1-660-706-8037,52.9%,1,103.72
+CUST-00157,124602.91,33.0,$315.72,01/25/2020,11220,Pending,Dallas,Decent but could be better.,nozmjy@company.io,+1-598-104-4519,93.9%,1,69.28
+CUST-00158,62125.79,29.0,$170.78,04/07/2020,70068,Pending,San Jose,"Terrible experience, never buying again.",xijusq@outlook.com,+1-410-385-2025,79.9%,1,155.03
+CUST-00159,27020.42,42.0,$73.94,07/01/2020,91416,Churned,Charlotte,Good value for the money.,pegofz@outlook.com,+1-791-204-9796,99.8%,1,80.02
+CUST-00160,68068.97,69.0,$398.04,07/09/2020,83792,Churned,Portland,"Average quality, nothing special.",usrmmo@outlook.com,+1-391-474-6340,35.1%,0,248.03
+CUST-00161,30111.4,70.0,$311.94,03/27/2020,23104,Inactive,San Jose,"Absolutely love this, 5 stars!",hooxki@yahoo.com,+1-401-568-2867,76.7%,0,277.16
+CUST-00162,72659.71,40.0,$269.06,06/30/2020,19602,Pending,Columbus,"Absolutely love this, 5 stars!",hhsjlg@company.io,+1-468-786-9019,40.2%,1,65.72
+CUST-00163,87491.58,33.0,$447.48,02/09/2020,80468-6974,Active,Phoenix,"Arrived damaged, very disappointed.",fvhohc@yahoo.com,+1-740-754-6134,48.0%,1,38.89
+CUST-00164,32521.57,74.0,$395.36,06/17/2020,37938-7658,Churned,Louisville,Not worth the price honestly.,grnqbk@company.io,+1-811-497-7431,62.8%,0,107.68
+CUST-00165,79355.11,,$80.08,03/28/2020,76307,Active,Louisville,"Below expectations, returning it.",cuaoyk@company.io,+1-801-216-6700,87.4%,1,292.15
+CUST-00166,60257.99,70.0,$159.30,07/04/2020,44760,Active,Oklahoma City,Good value for the money.,mfziqx@gmail.com,+1-560-965-8501,98.4%,0,28.39
+CUST-00167,73941.54,59.0,$128.00,02/10/2020,27361,Pending,Mesa,"Below expectations, returning it.",qgtwax@company.io,+1-832-276-5873,76.8%,1,117.05
+CUST-00168,126550.47,75.0,$373.25,01/02/2020,55745,Pending,Albuquerque,Not worth the price honestly.,wexzkm@outlook.com,+1-829-704-2388,41.8%,0,119.82
+CUST-00169,43360.58,,$21.60,03/12/2020,19016,Churned,Louisville,"Terrible experience, never buying again.",waoczh@company.io,+1-888-237-6131,42.1%,1,158.51
+CUST-00170,33628.59,31.0,$287.10,05/30/2020,42018,Pending,Houston,"Absolutely love this, 5 stars!",xdnhvi@company.io,+1-320-344-6003,73.8%,1,16.93
+CUST-00171,31421.35,22.0,$382.42,04/24/2020,58434,Pending,Columbus,Not worth the price honestly.,qsaihr@yahoo.com,+1-319-287-7116,23.9%,0,150.98
+CUST-00172,32600.89,52.0,$439.00,02/26/2020,47353,Pending,Louisville,"Absolutely love this, 5 stars!",ewxvnc@gmail.com,+1-910-244-9369,11.0%,1,287.67
+CUST-00173,47166.97,35.0,$174.33,04/17/2020,30676,Active,Portland,Decent but could be better.,ediggg@outlook.com,+1-597-528-3258,35.5%,1,23.77
+CUST-00174,58138.07,26.0,$411.52,07/10/2020,67433,Churned,Colorado Springs,"Average quality, nothing special.",yhsaqs@gmail.com,+1-788-492-7931,28.7%,0,32.55
+CUST-00175,56294.12,75.0,$59.76,06/15/2020,81200,Inactive,Los Angeles,Not worth the price honestly.,rmeryx@outlook.com,+1-390-598-9804,29.6%,1,426.5
+CUST-00176,74131.19,34.0,$423.99,02/20/2020,49651,Active,Omaha,"The product was great, would recommend!",rqyjfy@company.io,+1-910-760-3838,23.4%,0,23.96
+CUST-00177,49340.52,24.0,$68.11,05/23/2020,90173-5371,Pending,Portland,Good value for the money.,dtpkom@yahoo.com,+1-768-270-9022,4.2%,0,231.21
+CUST-00178,101393.78,63.0,$201.66,07/16/2020,95717,Active,Tucson,"Average quality, nothing special.",trpunn@outlook.com,+1-495-243-4065,1.8%,1,81.34
+CUST-00179,42944.83,30.0,$399.66,06/03/2020,79329,Pending,New York,Not worth the price honestly.,cobono@yahoo.com,+1-522-962-8389,98.8%,1,34.08
+CUST-00180,191010.67,57.0,$79.21,05/09/2020,11025,Pending,El Paso,"The product was great, would recommend!",ewlrsm@company.io,+1-834-154-6882,42.8%,1,245.52
+CUST-00181,67025.85,59.0,$118.48,02/29/2020,97538-7755,Active,Washington,"The product was great, would recommend!",vlnlbm@outlook.com,+1-209-596-3236,38.4%,1,70.72
+CUST-00182,31933.83,26.0,$362.52,02/25/2020,82692,Churned,Portland,Good value for the money.,skvtpb@outlook.com,+1-399-934-7290,68.0%,1,86.79
+CUST-00183,28697.17,67.0,$361.42,01/24/2020,49240,Pending,Louisville,Not worth the price honestly.,sobxzm@outlook.com,+1-775-617-9109,21.8%,1,53.41
+CUST-00184,62394.74,44.0,$322.37,01/08/2020,96951,Churned,Mesa,"Average quality, nothing special.",kttzqk@company.io,+1-618-801-9056,95.0%,1,107.86
+CUST-00185,43838.54,83.0,$348.50,01/09/2020,23577-4644,Inactive,Mesa,"Arrived damaged, very disappointed.",lxjczw@yahoo.com,+1-625-827-8272,78.6%,0,21.43
+CUST-00186,70052.5,22.0,$273.65,04/18/2020,27601,Pending,Raleigh,"Terrible experience, never buying again.",qjenns@yahoo.com,+1-700-271-2354,8.9%,1,59.53
+CUST-00187,62107.3,46.0,$129.64,05/31/2020,44664,Churned,Charlotte,"The product was great, would recommend!",vtzmsl@company.io,+1-778-131-4613,41.8%,0,418.46
+CUST-00188,47267.85,54.0,$176.12,01/23/2020,25129,Churned,Fresno,"Below expectations, returning it.",vgjhys@gmail.com,+1-499-133-5503,87.9%,1,35.83
+CUST-00189,32099.74,55.0,$94.89,05/19/2020,24029,Inactive,Charlotte,Not worth the price honestly.,arpyxg@gmail.com,+1-430-650-5729,94.5%,1,128.31
+CUST-00190,22984.52,25.0,$454.68,06/22/2020,82512,Churned,Seattle,"Arrived damaged, very disappointed.",capsbt@company.io,+1-372-899-8492,46.7%,0,47.2
+CUST-00191,39212.17,82.0,$293.78,01/27/2020,30374,Churned,Baltimore,"Arrived damaged, very disappointed.",lotudz@yahoo.com,+1-779-860-9115,61.3%,1,178.19
+CUST-00192,75222.03,34.0,$203.42,07/07/2020,45697,Inactive,Fresno,"Arrived damaged, very disappointed.",vtipri@outlook.com,+1-762-623-2854,16.7%,1,16.83
+CUST-00193,54559.49,,$233.69,02/05/2020,46930,Pending,Los Angeles,Decent but could be better.,wznkho@yahoo.com,+1-786-216-5389,99.1%,0,420.07
+CUST-00194,26294.91,21.0,$473.91,02/27/2020,89276,Churned,Portland,"Average quality, nothing special.",qlmzyr@outlook.com,+1-993-656-7010,23.2%,1,72.57
+CUST-00195,53454.73,53.0,$80.91,03/03/2020,37607,Churned,Oklahoma City,"The product was great, would recommend!",skheng@yahoo.com,+1-755-942-1681,94.3%,1,32.31
+CUST-00196,59436.2,48.0,$295.18,03/11/2020,54942,Churned,Memphis,Not worth the price honestly.,hsuxoz@yahoo.com,+1-978-836-8231,65.0%,1,9.16
+CUST-00197,31510.35,36.0,$255.41,07/08/2020,36685,Active,Austin,"Arrived damaged, very disappointed.",kgiclj@yahoo.com,+1-759-323-7965,60.8%,0,22.32
+CUST-00198,52937.25,,$307.67,01/07/2020,93130,Inactive,Albuquerque,"Terrible experience, never buying again.",bjpbbu@yahoo.com,+1-304-853-5055,51.3%,1,88.02
+CUST-00199,50468.48,71.0,$13.96,01/29/2020,44600,Active,Dallas,"Terrible experience, never buying again.",mwiyay@gmail.com,+1-504-995-1528,23.1%,1,49.32
+CUST-00200,27681.37,56.0,$436.70,06/12/2020,76244,Inactive,Long Beach,Outstanding customer service.,ttxssk@yahoo.com,+1-660-369-6711,17.7%,1,211.85
