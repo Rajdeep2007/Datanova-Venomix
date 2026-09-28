@@ -130,7 +130,7 @@ The system also performs **multivariate outlier detection** using Isolation Fore
 ### Prerequisites
 
 - Node.js 18+ and npm
-- Python 3.11+
+- Python 3.11+ (tested on 3.14.5)
 - A Google Gemini API key
 
 ### Installation
@@ -138,8 +138,8 @@ The system also performs **multivariate outlier detection** using Isolation Fore
 **Clone the repository**
 
 ```bash
-git clone https://github.com/animeshadk10-ops/DataShakti.git
-cd DataShakti
+git clone https://github.com/Rajdeep2007/Datanova-Venomix.git
+cd DataNova-Venomix
 ```
 
 **Set up the Backend**
